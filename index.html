@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CocoMico Quest — 4匹の勇者と竜の物語｜公式サイト</title>
+<meta name="description" content="実在のラグドール猫ココとミコが冒険する、ほっこり放置系ねこRPG。iOSで配信中。">
+<style>
+:root{
+  --ink:#2a2136;        /* ゲームUIのダークプラム */
+  --ink2:#3b2f4d;
+  --cream:#fff6e8;      /* 猫のクリーム色 */
+  --paper:#fdf0dc;
+  --forest:#3e7c4f;     /* 森ステージ */
+  --leaf:#7fc46b;
+  --gold:#ffce63;       /* ネコイン */
+  --coral:#ff5a6e;      /* バッジ赤 */
+  --grape:#9b7ede;      /* ジェム紫 */
+  --px:6px;             /* ピクセルアートの1ドット */
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  font-family:'Hiragino Maru Gothic ProN','Hiragino Sans','BIZ UDGothic','Noto Sans JP',sans-serif;
+  background:var(--ink);
+  color:var(--cream);
+  min-height:100vh;
+  display:flex;flex-direction:column;align-items:center;
+  padding:28px 16px 40px;
+}
+/* ===== ヒーロー：キービジュアル ===== */
+.key{
+  width:min(420px,100%);
+  border-radius:22px;
+  overflow:hidden;
+  border:4px solid var(--ink2);
+  box-shadow:0 14px 40px rgba(0,0,0,.5);
+  position:relative;
+  animation:rise .8s ease both;
+}
+.key::after{ /* 下端をページ背景に溶かすグラデーション */
+  content:"";position:absolute;left:0;right:0;bottom:0;height:70px;
+  background:linear-gradient(180deg, rgba(42,33,54,0) 0%, rgba(42,33,54,.88) 100%);
+  pointer-events:none;
+}
+.key img{display:block;width:100%;height:auto}
+@keyframes rise{
+  from{opacity:0;transform:translateY(10px)}
+  to{opacity:1;transform:translateY(0)}
+}
+@media (prefers-reduced-motion: reduce){
+  .key{animation:none}
+}
+/* ===== 本文 ===== */
+main{width:min(420px,100%)}
+h1{
+  margin:20px 4px 6px;
+  font-size:15px;
+  letter-spacing:.08em;line-height:1.6;font-weight:800;
+  color:#b7aecb;
+}
+h1 .co{color:#c8c6d8}
+h1 .mi{color:var(--gold)}
+.tagline{color:#cfc8de;font-size:13.5px;line-height:1.9;margin:0 4px 22px}
+.feat{
+  background:var(--ink2);border-radius:18px;padding:18px 18px 8px;margin-bottom:22px;
+}
+.feat p{
+  font-size:13.5px;line-height:1.8;margin-bottom:12px;color:var(--cream);
+  padding-left:26px;position:relative;
+}
+.feat p::before{
+  content:"";position:absolute;left:2px;top:7px;width:12px;height:12px;border-radius:3px;
+  transform:rotate(45deg);
+}
+.feat p:nth-child(1)::before{background:var(--gold)}
+.feat p:nth-child(2)::before{background:var(--leaf)}
+.feat p:nth-child(3)::before{background:var(--grape)}
+/* リンク */
+.links{display:flex;flex-direction:column;gap:12px;margin-bottom:30px}
+.btn{
+  display:block;text-align:center;text-decoration:none;
+  border-radius:999px;padding:15px 18px;font-weight:900;font-size:15px;
+  transition:transform .12s ease, box-shadow .12s ease;
+}
+.btn:active{transform:scale(.97)}
+.btn.store{background:var(--gold);color:var(--ink);box-shadow:0 6px 0 #b8860b}
+.btn.store:active{box-shadow:0 2px 0 #b8860b}
+.btn.sub{background:transparent;color:var(--cream);border:2px solid var(--ink2);font-size:13.5px;padding:12px 18px}
+.btn.sub:hover{border-color:var(--grape)}
+footer{
+  width:min(420px,100%);
+  border-top:2px solid var(--ink2);
+  padding-top:18px;margin-top:6px;
+  font-size:11px;line-height:2;color:#8f87a3;text-align:center;
+}
+footer a{color:#8f87a3}
+</style>
+</head>
+<body>
+
+<!-- ヒーロー：キービジュアル -->
+<figure class="key">
+  <img src="cocomico-keyart.jpg" alt="CocoMico Quest キービジュアル：竜に立ち向かう4匹の勇者ネコ（騎士・魔法使い・弓使い・忍者）" width="840" height="1316" fetchpriority="high">
+</figure>
+
+<main>
+    <h1><span class="mi">ココ</span>と<span class="mi">ミコ</span>、4匹の勇者と竜の物語！</h1>
+  <p class="tagline">ラグドール「ココ」と「ミコ」が主役の、ほっこり放置系ねこRPG。タップで追い打ち、放置でざくざく。装備・スキル・転生でどこまでも強くなれます。</p>
+
+  <div class="feat">
+    <p>遊ぶだけでたまるガチャ券とネコインで、無理なく強くなれる親切設計！</p>
+    <p>アプリを閉じてもココがおでかけ報酬を集めてくれる放置システム！</p>
+    <p>図鑑・称号・ダンジョン・転生ツリーなど、やりこみ要素もたっぷり！</p>
+  </div>
+
+  <div class="links">
+    <!-- ★App Store公開URLに差し替えてください（App Store Connect→アプリ→「App Storeで表示」のURL） -->
+    <a class="btn store" href="https://apps.apple.com/jp/app/cocomico-quest-4%E5%8C%B9%E3%81%AE%E5%8B%87%E8%80%85%E3%81%A8%E7%AB%9C%E3%81%AE%E7%89%A9%E8%AA%9E/id6785526320">App Store でダウンロード</a>
+    <!-- ★STUDIOのホームページURLに差し替え -->
+    <a class="btn sub" href="https://totonekostore.com/">ホームページを見る</a>
+    <!-- ★ととねこチャンネルのURLに差し替え -->
+    <a class="btn sub" href="https://www.youtube.com/@totoneko-ch">YouTube「ととねこチャンネル」</a>
+  </div>
+</main>
+
+<footer>
+  <p>お問い合わせ：上記ホームページ・YouTubeチャンネルよりご連絡ください。</p>
+  <p>&copy; 2026 CocoMico Quest</p>
+</footer>
+
+</body>
+</html>
