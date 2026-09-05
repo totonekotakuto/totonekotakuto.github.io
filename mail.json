@@ -1,1 +1,29 @@
-[]
+[
+ {
+  "id": "ver31_thanks",
+  "existingOnly": "3.1.0",
+  "until": "2027-06-30",
+  "title": {
+   "ja": "Ver3.1アップデートの御礼",
+   "en": "Thanks for Updating to Ver 3.1",
+   "zh": "Ver3.1 更新答谢礼",
+   "zhTW": "Ver3.1 更新答謝禮",
+   "ko": "Ver3.1 업데이트 감사 선물",
+   "de": "Danke für das Update auf Ver. 3.1",
+   "hi": "Ver3.1 अपडेट के लिए धन्यवाद"
+  },
+  "body": {
+   "ja": "いつもCocoMico Questを遊んでいただきありがとうございます！ Ver3.1では、能力値の999の壁を<b>ねこ魂で越えられる</b>ようになり、St1000の先に<b>深淵</b>が開きました。アイテム図鑑は48種に、宝石ガチャには100連、ランキングには討伐イベントと転生回数、そしてライバル指名が加わっています。セーブはiCloudにも守られるようになりました。感謝の気持ちを込めた贈り物をどうぞ🐾",
+   "en": "Thank you for playing CocoMico Quest! In Ver 3.1 the 999 stat cap can now be <b>lifted with Cat Souls</b>, and the <b>Abyss</b> opens beyond Stage 1000. The item book grew to 48 kinds, the Gem Gacha gained a 100-pull, and the rankings now include Raid Event boards, Rebirth count and rivals. Your save is also backed up to iCloud. Please accept this gift as our thanks 🐾",
+   "zh": "感谢你一直游玩《CocoMico Quest》！Ver3.1 中，能力值 999 的上限可以<b>用猫魂突破</b>，第1000层之后的<b>深渊</b>也已开放。道具图鉴增至48种，宝石扭蛋新增100连，排行榜加入了讨伐活动、转生次数以及对手指定。存档还会自动备份到 iCloud。请收下这份感谢的礼物🐾",
+   "zhTW": "感謝你一直遊玩《CocoMico Quest》！Ver3.1 中，能力值 999 的上限可以<b>用貓魂突破</b>，第1000層之後的<b>深淵</b>也已開放。道具圖鑑增至48種，寶石轉蛋新增100連，排行榜加入了討伐活動、轉生次數以及對手指定。存檔還會自動備份到 iCloud。請收下這份感謝的禮物🐾",
+   "ko": "항상 CocoMico Quest를 플레이해 주셔서 감사합니다! Ver3.1에서는 능력치 999의 벽을 <b>고양이 영혼으로 넘을 수</b> 있게 되었고, St1000 너머에 <b>심연</b>이 열렸습니다. 아이템 도감은 48종으로, 보석 가챠에는 100연차가, 랭킹에는 토벌 이벤트와 환생 횟수, 그리고 라이벌 지정이 더해졌어요. 세이브는 iCloud에도 보관됩니다. 감사의 선물을 받아 주세요 🐾",
+   "de": "Danke, dass du CocoMico Quest spielst! In Ver. 3.1 lässt sich das 999er-Limit der Werte <b>mit Katzenseelen anheben</b>, und jenseits von Stufe 1000 öffnet sich der <b>Abgrund</b>. Das Item-Buch ist auf 48 Sorten gewachsen, das Juwelen-Gacha hat einen 100er-Zug, und die Ranglisten umfassen jetzt das Raid-Event, Wiedergeburten und Rivalen. Dein Spielstand wird zudem in iCloud gesichert. Viel Freude mit diesem Geschenk 🐾",
+   "hi": "CocoMico Quest खेलने के लिए धन्यवाद! Ver3.1 में 999 की स्टेट सीमा को <b>कैट सोल से पार</b> किया जा सकता है, और स्टेज 1000 के आगे <b>एबिस</b> खुल गया है। आइटम बुक 48 तरह की हो गई, जेम गाचा में ×100 पुल आया, और रैंकिंग में रेड इवेंट, पुनर्जन्म संख्या और राइवल जुड़े। आपका सेव iCloud में भी सुरक्षित रहता है। यह उपहार स्वीकार करें 🐾"
+  },
+  "rw": {
+   "gem": 1000,
+   "gtk": 100
+  }
+ }
+]
