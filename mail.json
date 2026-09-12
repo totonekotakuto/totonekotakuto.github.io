@@ -25,5 +25,32 @@
    "gem": 1000,
    "gtk": 100
   }
+ },
+ {
+  "id": "ver32_thanks",
+  "existingOnly": "3.2.0",
+  "until": "2027-06-30",
+  "title": {
+   "ja": "Ver3.2アップデートの御礼",
+   "en": "Thanks for Updating to Ver 3.2",
+   "zh": "Ver3.2 更新答谢礼",
+   "zhTW": "Ver3.2 更新答謝禮",
+   "ko": "Ver3.2 업데이트 감사 선물",
+   "de": "Danke für das Update auf Ver. 3.2",
+   "hi": "Ver3.2 अपडेट के लिए धन्यवाद"
+  },
+  "body": {
+   "ja": "いつもCocoMico Questを遊んでいただきありがとうございます！ Ver3.2では<b>友達招待</b>を追加しました。招待コードを贈り合うと、二人ともジェムと宝石ガチャ券を受け取れます。あわせて<b>Mac</b>でも遊べるようになり、<b>ガチャと強化の演出</b>を全面的に作り直しました。新しい演出を見に行く前に、感謝の気持ちをお受け取りください🐾",
+   "en": "Thank you for playing CocoMico Quest! Ver 3.2 adds <b>Friend Invites</b> — share your code and you both receive Gems and Gem Gacha Tickets. The game now runs on <b>Mac</b> as well, and the <b>gacha and enhancement effects</b> have been rebuilt from the ground up. Please accept this gift before you go and see them 🐾",
+   "zh": "感谢你一直游玩《CocoMico Quest》！Ver3.2 新增了<b>好友邀请</b>，互相赠送邀请码，双方都能获得钻石与宝石扭蛋券。同时游戏也支持<b>Mac</b>了，并且<b>扭蛋与强化的演出</b>已全面重制。在去看新演出之前，请收下这份感谢的礼物🐾",
+   "zhTW": "感謝你一直遊玩《CocoMico Quest》！Ver3.2 新增了<b>好友邀請</b>，互相贈送邀請碼，雙方都能獲得鑽石與寶石轉蛋券。同時遊戲也支援<b>Mac</b>了，並且<b>轉蛋與強化的演出</b>已全面重製。在去看新演出之前，請收下這份感謝的禮物🐾",
+   "ko": "항상 CocoMico Quest를 플레이해 주셔서 감사합니다! Ver3.2에는 <b>친구 초대</b>가 추가되었어요. 초대 코드를 주고받으면 두 사람 모두 젬과 보석 가챠권을 받을 수 있습니다. 또한 <b>Mac</b>에서도 즐길 수 있게 되었고, <b>가챠와 강화 연출</b>을 전면적으로 새로 만들었어요. 새 연출을 보러 가기 전에 감사의 선물을 받아 주세요 🐾",
+   "de": "Danke, dass du CocoMico Quest spielst! Ver. 3.2 bringt <b>Freunde einladen</b> — teilt euren Code, und ihr beide erhaltet Juwelen und Juwelen-Gacha-Tickets. Das Spiel läuft jetzt auch auf dem <b>Mac</b>, und die <b>Gacha- und Verstärkungseffekte</b> wurden komplett neu gebaut. Nimm dieses Geschenk an, bevor du sie dir ansiehst 🐾",
+   "hi": "CocoMico Quest खेलने के लिए धन्यवाद! Ver3.2 में <b>फ्रेंड इनवाइट</b> जुड़ा है — कोड शेयर करें और दोनों को जेम और जेम-गाचा टिकट मिलेंगे। गेम अब <b>Mac</b> पर भी चलता है, और <b>गाचा और एन्हांस के इफेक्ट</b> पूरी तरह नए बनाए गए हैं। उन्हें देखने जाने से पहले यह उपहार स्वीकार करें 🐾"
+  },
+  "rw": {
+   "gem": 1000,
+   "gtk": 100
+  }
  }
 ]
