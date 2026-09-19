@@ -52,5 +52,32 @@
    "gem": 1000,
    "gtk": 100
   }
+ },
+ {
+  "id": "ver33_thanks",
+  "existingOnly": "3.3.0",
+  "until": "2027-06-30",
+  "title": {
+   "ja": "Ver3.3アップデートの御礼",
+   "en": "Thanks for Updating to Ver 3.3",
+   "zh": "Ver3.3 更新答谢礼",
+   "zhTW": "Ver3.3 更新答謝禮",
+   "ko": "Ver3.3 업데이트 감사 선물",
+   "de": "Danke für das Update auf Ver. 3.3",
+   "hi": "Ver3.3 अपडेट के लिए धन्यवाद"
+  },
+  "body": {
+   "ja": "いつもCocoMico Questを遊んでいただきありがとうございます！ Ver3.3では、長く遊んでも<b>本体が熱くなりにくい</b>ように描画の仕組みを全面的に見直しました。端末が熱い時や低電力モードの時は、自動で軽い描画に切り替わります。あわせて、<b>放置報酬が受け取れなくなる</b>不具合と、<b>転職の後に画面下のタブが切れる</b>不具合を直しました。感謝の気持ちを込めた贈り物をどうぞ🐾",
+   "en": "Thank you for playing CocoMico Quest! In Ver 3.3 we reworked how the game draws so your <b>device stays cooler</b> during long sessions - it switches to lighter graphics automatically when the device gets warm or Low Power Mode is on. We also fixed a bug where <b>idle rewards could be lost</b> and one where <b>the bottom tabs were cut off after a job change</b>. Please accept this gift as our thanks 🐾",
+   "zh": "感谢你一直游玩《CocoMico Quest》！Ver3.3 全面调整了绘制方式，<b>长时间游玩也不易发热</b>。当机身变热或开启低电量模式时，会自动切换为更轻的画面。同时修正了<b>放置奖励无法领取</b>的问题，以及<b>转职后底部标签被截断</b>的问题。请收下这份感谢的礼物🐾",
+   "zhTW": "感謝你一直遊玩《CocoMico Quest》！Ver3.3 全面調整了繪製方式，<b>長時間遊玩也不易發熱</b>。當機身變熱或開啟低耗電模式時，會自動切換為更輕的畫面。同時修正了<b>放置獎勵無法領取</b>的問題，以及<b>轉職後底部標籤被截斷</b>的問題。請收下這份感謝的禮物🐾",
+   "ko": "항상 CocoMico Quest를 플레이해 주셔서 감사합니다! Ver3.3에서는 오래 플레이해도 <b>기기가 덜 뜨거워지도록</b> 그리는 방식을 전면적으로 손봤습니다. 기기가 뜨겁거나 저전력 모드일 때는 자동으로 가벼운 그래픽으로 바뀝니다. 또한 <b>방치 보상을 받지 못하는</b> 문제와 <b>전직 후 하단 탭이 잘리는</b> 문제를 수정했어요. 감사의 선물을 받아 주세요 🐾",
+   "de": "Danke, dass du CocoMico Quest spielst! In Ver. 3.3 haben wir die Darstellung überarbeitet, damit dein <b>Gerät auch bei langen Sitzungen kühler bleibt</b> - wird es warm oder ist der Stromsparmodus an, schaltet das Spiel automatisch auf eine sparsamere Grafik. Außerdem haben wir einen Fehler behoben, bei dem <b>Offline-Belohnungen verloren gehen konnten</b>, und einen, bei dem <b>die unteren Tabs nach einem Klassenwechsel abgeschnitten waren</b>. Viel Freude mit diesem Geschenk 🐾",
+   "hi": "CocoMico Quest खेलने के लिए धन्यवाद! Ver3.3 में हमने ड्रॉइंग का तरीका पूरी तरह बदला है ताकि लंबे समय तक खेलने पर भी <b>डिवाइस कम गर्म हो</b>। डिवाइस गर्म होने या लो पावर मोड में ग्राफ़िक्स अपने आप हल्के हो जाते हैं। साथ ही <b>आइडल इनाम न मिलने</b> वाली और <b>जॉब बदलने के बाद नीचे के टैब कट जाने</b> वाली गड़बड़ी ठीक की। यह उपहार स्वीकार करें 🐾"
+  },
+  "rw": {
+   "gem": 1000,
+   "gtk": 100
+  }
  }
 ]
