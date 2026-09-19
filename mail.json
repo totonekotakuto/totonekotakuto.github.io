@@ -79,5 +79,30 @@
    "gem": 1000,
    "gtk": 100
   }
+ },
+ {
+  "id": "dl1000_thanks",
+  "until": "2027-06-30",
+  "title": {
+   "ja": "1,000ダウンロード記念のおくりもの",
+   "en": "1,000 Downloads - Thank You Gift",
+   "zh": "1,000 次下载纪念礼物",
+   "zhTW": "1,000 次下載紀念禮物",
+   "ko": "1,000 다운로드 기념 선물",
+   "de": "1.000 Downloads - Dankeschön",
+   "hi": "1,000 डाउनलोड - धन्यवाद उपहार"
+  },
+  "body": {
+   "ja": "おかげさまで、CocoMico Quest のダウンロードが<b>1,000本</b>を超えました！ 遊んでくださっているみなさんのおかげです。本当にありがとうございます。記念に<b>ジェム3,000</b>をお贈りします。これからもココとミコの冒険をよろしくお願いします🐾",
+   "en": "CocoMico Quest has passed <b>1,000 downloads</b>! That is thanks to everyone playing - we are truly grateful. Please accept <b>3,000 Gems</b> to celebrate, and enjoy many more adventures with Coco and Mico 🐾",
+   "zh": "《CocoMico Quest》的下载量已突破<b>1,000次</b>！这都要感谢一直游玩的各位，真的非常感谢。为纪念这一刻，送上<b>钻石3,000</b>。今后也请多多关照可可和米可的冒险🐾",
+   "zhTW": "《CocoMico Quest》的下載量已突破<b>1,000次</b>！這都要感謝一直遊玩的各位，真的非常感謝。為紀念這一刻，送上<b>鑽石3,000</b>。今後也請多多指教可可和米可的冒險🐾",
+   "ko": "CocoMico Quest의 다운로드가 <b>1,000회</b>를 넘었습니다! 플레이해 주시는 여러분 덕분이에요. 정말 감사합니다. 기념으로 <b>젬 3,000</b>을 보내 드립니다. 앞으로도 코코와 미코의 모험을 잘 부탁드려요 🐾",
+   "de": "CocoMico Quest hat <b>1.000 Downloads</b> überschritten! Das verdanken wir allen, die spielen - vielen Dank. Nimm zur Feier <b>3.000 Juwelen</b> und erlebe noch viele Abenteuer mit Coco und Mico 🐾",
+   "hi": "CocoMico Quest के <b>1,000 डाउनलोड</b> पूरे हो गए! यह सब खेलने वाले आप सबकी वजह से है - बहुत-बहुत धन्यवाद। इस मौके पर <b>3,000 जेम</b> स्वीकार करें, और कोको व मिको के साथ और भी रोमांच का मज़ा लें 🐾"
+  },
+  "rw": {
+   "gem": 3000
+  }
  }
 ]
