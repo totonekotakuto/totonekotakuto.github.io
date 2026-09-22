@@ -112,5 +112,58 @@
   "rw": {
    "gem": 3000
   }
+ },
+ {
+  "id": "ver34_thanks",
+  "existingOnly": "3.4.0",
+  "until": "2027-06-30",
+  "title": {
+   "ja": "Ver3.4アップデートの御礼",
+   "en": "Thanks for Updating to Ver 3.4",
+   "ko": "Ver3.4 업데이트 감사 선물",
+   "de": "Danke fürs Update auf Ver 3.4",
+   "hi": "Ver 3.4 अपडेट के लिए धन्यवाद",
+   "zh": "Ver3.4 更新感谢礼",
+   "zhTW": "Ver3.4 更新感謝禮",
+   "es": "Gracias por actualizar a la Ver 3.4",
+   "fr": "Merci pour la mise à jour Ver 3.4",
+   "pt": "Obrigado por atualizar para a Ver 3.4",
+   "it": "Grazie per l’aggiornamento alla Ver 3.4",
+   "tr": "Ver 3.4 güncellemesi için teşekkürler",
+   "ru": "Спасибо за обновление до Ver 3.4",
+   "uk": "Дякуємо за оновлення до Ver 3.4",
+   "vi": "Cảm ơn bạn đã cập nhật Ver 3.4",
+   "id": "Terima kasih sudah memperbarui ke Ver 3.4",
+   "th": "ขอบคุณที่อัปเดตเป็น Ver 3.4",
+   "pl": "Dziękujemy za aktualizację do Ver 3.4",
+   "nl": "Bedankt voor het updaten naar Ver 3.4",
+   "sv": "Tack för att du uppdaterade till Ver 3.4"
+  },
+  "body": {
+   "ja": "いつもCocoMico Questを遊んでいただきありがとうございます！ Ver3.4では<b>13の言語を追加</b>し、20言語で遊べるようになりました。あわせて、<b>モンスター図鑑を開くとアプリが終了する</b>ことがある不具合を直し、1回の攻撃で出せる<b>ダメージの上限を1000倍</b>に引き上げました。感謝の気持ちを込めた贈り物をどうぞ🐾",
+   "en": "Thank you for playing CocoMico Quest! Ver 3.4 <b>adds 13 languages</b>, so the game is now playable in 20. We also fixed a bug where <b>opening the Monster Codex could close the app</b>, and raised the <b>damage cap per hit by 1000×</b>. Please accept this gift as our thanks 🐾",
+   "ko": "언제나 CocoMico Quest를 즐겨 주셔서 감사합니다! Ver3.4에서는 <b>13개 언어를 추가</b>해 20개 언어로 즐길 수 있게 되었습니다. 또한 <b>몬스터 도감을 열면 앱이 종료되는</b> 문제를 고치고, 1회 공격의 <b>대미지 상한을 1000배</b>로 올렸습니다. 감사의 마음을 담은 선물을 받아 주세요🐾",
+   "de": "Danke, dass du CocoMico Quest spielst! Mit Ver 3.4 kommen <b>13 neue Sprachen</b> hinzu – das Spiel gibt es jetzt in 20 Sprachen. Außerdem haben wir einen Fehler behoben, bei dem <b>sich die App beim Öffnen des Monster-Kodex schließen</b> konnte, und die <b>Schadensobergrenze pro Treffer um das 1000-Fache</b> angehoben. Bitte nimm dieses Geschenk als Dankeschön an 🐾",
+   "hi": "CocoMico Quest खेलने के लिए धन्यवाद! Ver 3.4 में <b>13 नई भाषाएँ</b> जोड़ी गई हैं, अब गेम 20 भाषाओं में खेला जा सकता है। साथ ही <b>मॉन्स्टर कोडेक्स खोलने पर ऐप बंद हो जाने</b> की समस्या ठीक की गई है, और एक वार में <b>नुकसान की सीमा 1000 गुना</b> कर दी गई है। धन्यवाद के रूप में यह उपहार स्वीकार करें🐾",
+   "zh": "感谢您一直以来游玩 CocoMico Quest！Ver3.4 <b>新增了13种语言</b>，现在可以用20种语言游玩。同时修复了<b>打开怪物图鉴时应用可能退出</b>的问题，并将单次攻击的<b>伤害上限提高到1000倍</b>。请收下这份感谢的礼物🐾",
+   "zhTW": "感謝您一直以來遊玩 CocoMico Quest！Ver3.4 <b>新增了13種語言</b>，現在可以用20種語言遊玩。同時修正了<b>打開怪物圖鑑時應用程式可能關閉</b>的問題，並將單次攻擊的<b>傷害上限提高到1000倍</b>。請收下這份感謝的禮物🐾",
+   "es": "¡Gracias por jugar a CocoMico Quest! La Ver 3.4 <b>añade 13 idiomas</b>, así que ahora puedes jugar en 20. También corregimos un error por el que <b>la app podía cerrarse al abrir el Códice de Monstruos</b> y multiplicamos por <b>1000 el límite de daño por golpe</b>. Acepta este regalo como agradecimiento 🐾",
+   "fr": "Merci de jouer à CocoMico Quest ! La Ver 3.4 <b>ajoute 13 langues</b> : le jeu est désormais disponible en 20 langues. Nous avons aussi corrigé un bug où <b>l’app pouvait se fermer en ouvrant le Codex des Monstres</b>, et multiplié par <b>1000 la limite de dégâts par coup</b>. Merci d’accepter ce cadeau en remerciement 🐾",
+   "pt": "Obrigado por jogar CocoMico Quest! A Ver 3.4 <b>adiciona 13 idiomas</b>, e agora dá para jogar em 20. Também corrigimos um erro em que <b>o app podia fechar ao abrir o Codex de Monstros</b> e aumentamos o <b>limite de dano por golpe em 1000×</b>. Aceite este presente como agradecimento 🐾",
+   "it": "Grazie per giocare a CocoMico Quest! La Ver 3.4 <b>aggiunge 13 lingue</b>: ora il gioco è disponibile in 20. Abbiamo anche corretto un errore per cui <b>l’app poteva chiudersi aprendo il Codex Mostri</b> e aumentato di <b>1000 volte il limite di danno per colpo</b>. Accetta questo regalo come ringraziamento 🐾",
+   "tr": "CocoMico Quest oynadığın için teşekkürler! Ver 3.4 ile <b>13 yeni dil eklendi</b>, oyun artık 20 dilde oynanabiliyor. Ayrıca <b>Canavar Kodeksi açılınca uygulamanın kapanabildiği</b> hatayı düzelttik ve vuruş başına <b>hasar sınırını 1000 katına</b> çıkardık. Teşekkür hediyemizi kabul et 🐾",
+   "ru": "Спасибо, что играете в CocoMico Quest! В Ver 3.4 <b>добавлено 13 языков</b> — теперь игра доступна на 20. Также исправлена ошибка, из-за которой <b>приложение могло закрыться при открытии Кодекса монстров</b>, а <b>предел урона за удар увеличен в 1000 раз</b>. Примите этот подарок в знак благодарности 🐾",
+   "uk": "Дякуємо, що граєте в CocoMico Quest! У Ver 3.4 <b>додано 13 мов</b> — тепер гра доступна 20 мовами. Також виправлено помилку, через яку <b>застосунок міг закритися під час відкриття Кодексу монстрів</b>, а <b>межу шкоди за удар збільшено в 1000 разів</b>. Прийміть цей подарунок на знак подяки 🐾",
+   "vi": "Cảm ơn bạn đã chơi CocoMico Quest! Ver 3.4 <b>thêm 13 ngôn ngữ</b>, giờ đây bạn có thể chơi bằng 20 ngôn ngữ. Chúng tôi cũng đã sửa lỗi <b>ứng dụng có thể tắt khi mở Đồ giám quái vật</b> và nâng <b>giới hạn sát thương mỗi đòn lên 1000 lần</b>. Xin hãy nhận món quà cảm ơn này 🐾",
+   "id": "Terima kasih sudah bermain CocoMico Quest! Ver 3.4 <b>menambahkan 13 bahasa</b>, jadi game kini bisa dimainkan dalam 20 bahasa. Kami juga memperbaiki bug yang <b>membuat aplikasi tertutup saat membuka Buku Monster</b>, dan menaikkan <b>batas kerusakan per serangan hingga 1000×</b>. Terimalah hadiah ini sebagai ucapan terima kasih 🐾",
+   "th": "ขอบคุณที่เล่น CocoMico Quest! Ver 3.4 <b>เพิ่ม 13 ภาษา</b> ตอนนี้เล่นได้ 20 ภาษาแล้ว นอกจากนี้ยังแก้ปัญหา<b>แอปปิดตัวเมื่อเปิดสมุดมอนสเตอร์</b> และเพิ่ม<b>ขีดจำกัดความเสียหายต่อการโจมตีเป็น 1000 เท่า</b> โปรดรับของขวัญนี้เพื่อเป็นการขอบคุณ🐾",
+   "pl": "Dziękujemy, że grasz w CocoMico Quest! Ver 3.4 <b>dodaje 13 języków</b> – gra jest teraz dostępna w 20. Naprawiliśmy też błąd, przez który <b>aplikacja mogła się zamknąć po otwarciu Kodeksu potworów</b>, i zwiększyliśmy <b>limit obrażeń na cios 1000-krotnie</b>. Przyjmij ten prezent jako podziękowanie 🐾",
+   "nl": "Bedankt dat je CocoMico Quest speelt! Ver 3.4 <b>voegt 13 talen toe</b>, dus je kunt nu in 20 talen spelen. We hebben ook een fout opgelost waardoor <b>de app kon sluiten bij het openen van het Monstercodex</b>, en de <b>schadelimiet per treffer 1000× verhoogd</b>. Aanvaard dit cadeau als dank 🐾",
+   "sv": "Tack för att du spelar CocoMico Quest! Ver 3.4 <b>lägger till 13 språk</b>, så nu kan du spela på 20 språk. Vi har också fixat ett fel där <b>appen kunde stängas när man öppnade Monsterkodexen</b>, och höjt <b>skadetaket per träff 1000 gånger</b>. Ta emot den här gåvan som tack 🐾"
+  },
+  "rw": {
+   "gem": 1000,
+   "gtk": 100
+  }
  }
 ]
