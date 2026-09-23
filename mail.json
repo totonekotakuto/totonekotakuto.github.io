@@ -165,5 +165,57 @@
    "gem": 1000,
    "gtk": 100
   }
+ },
+ {
+  "id": "dl3000_thanks",
+  "startedBefore": "2026-09-24",
+  "until": "2027-06-30",
+  "title": {
+   "ja": "3,000ダウンロード記念のおくりもの",
+   "en": "3,000 Downloads - Thank You Gift",
+   "zh": "3,000 次下载纪念礼物",
+   "zhTW": "3,000 次下載紀念禮物",
+   "ko": "3,000 다운로드 기념 선물",
+   "de": "3.000 Downloads - Dankeschön",
+   "hi": "3,000 डाउनलोड - धन्यवाद उपहार",
+   "es": "3.000 descargas: regalo de agradecimiento",
+   "fr": "3 000 téléchargements : cadeau de remerciement",
+   "pt": "3.000 downloads: presente de agradecimento",
+   "it": "3.000 download: regalo di ringraziamento",
+   "tr": "3.000 İndirme - Teşekkür Hediyesi",
+   "ru": "3 000 загрузок — подарок в благодарность",
+   "uk": "3 000 завантажень — подарунок на знак подяки",
+   "vi": "3.000 lượt tải - Quà cảm ơn",
+   "id": "3.000 Unduhan - Hadiah Terima Kasih",
+   "th": "ของขวัญฉลอง 3,000 ดาวน์โหลด",
+   "pl": "3000 pobrań – prezent z podziękowaniem",
+   "nl": "3.000 downloads - bedankcadeau",
+   "sv": "3 000 nedladdningar – tackgåva"
+  },
+  "body": {
+   "ja": "おかげさまで、CocoMico Quest のダウンロードが<b>3,000本</b>を超えました！ 遊んでくださっているみなさんのおかげです。本当にありがとうございます。記念に<b>ジェム3,000</b>をお贈りします。これからもココとミコの冒険をよろしくお願いします🐾",
+   "en": "CocoMico Quest has passed <b>3,000 downloads</b>! That is thanks to everyone playing - we are truly grateful. Please accept <b>3,000 Gems</b> to celebrate, and enjoy many more adventures with Coco and Mico 🐾",
+   "zh": "《CocoMico Quest》的下载量已突破<b>3,000次</b>！这都要感谢一直游玩的各位，真的非常感谢。为纪念这一刻，送上<b>钻石3,000</b>。今后也请多多关照可可和米可的冒险🐾",
+   "zhTW": "《CocoMico Quest》的下載量已突破<b>3,000次</b>！這都要感謝一直遊玩的各位，真的非常感謝。為紀念這一刻，送上<b>鑽石3,000</b>。今後也請多多指教可可和米可的冒險🐾",
+   "ko": "CocoMico Quest의 다운로드가 <b>3,000회</b>를 넘었습니다! 플레이해 주시는 여러분 덕분이에요. 정말 감사합니다. 기념으로 <b>젬 3,000</b>을 보내 드립니다. 앞으로도 코코와 미코의 모험을 잘 부탁드려요 🐾",
+   "de": "CocoMico Quest hat <b>3.000 Downloads</b> überschritten! Das verdanken wir allen, die spielen - vielen Dank. Nimm zur Feier <b>3.000 Juwelen</b> und erlebe noch viele Abenteuer mit Coco und Mico 🐾",
+   "hi": "CocoMico Quest के <b>3,000 डाउनलोड</b> पूरे हो गए! यह सब खेलने वाले आप सबकी वजह से है - बहुत-बहुत धन्यवाद। इस मौके पर <b>3,000 जेम</b> स्वीकार करें, और कोको व मिको के साथ और भी रोमांच का मज़ा लें 🐾",
+   "es": "¡CocoMico Quest ha superado las <b>3.000 descargas</b>! Es gracias a todos los que jugáis: muchísimas gracias. Acepta <b>3.000 Gemas</b> para celebrarlo y disfruta de muchas más aventuras con Coco y Mico 🐾",
+   "fr": "CocoMico Quest a dépassé les <b>3 000 téléchargements</b> ! C’est grâce à vous tous qui jouez : merci infiniment. Acceptez <b>3 000 gemmes</b> pour fêter ça, et vivez encore de nombreuses aventures avec Coco et Mico 🐾",
+   "pt": "CocoMico Quest passou de <b>3.000 downloads</b>! Tudo graças a vocês que jogam — muito obrigado. Aceite <b>3.000 Gemas</b> para comemorar e aproveite muitas outras aventuras com Coco e Mico 🐾",
+   "it": "CocoMico Quest ha superato i <b>3.000 download</b>! È merito di tutti voi che giocate: grazie di cuore. Accetta <b>3.000 Gemme</b> per festeggiare e goditi tante altre avventure con Coco e Mico 🐾",
+   "tr": "CocoMico Quest <b>3.000 indirmeyi</b> geçti! Bunu oynayan herkese borçluyuz, çok teşekkürler. Kutlamak için <b>3.000 Cevher</b> kabul et ve Coco ile Mico’yla daha nice maceranın tadını çıkar 🐾",
+   "ru": "CocoMico Quest превысила <b>3 000 загрузок</b>! Это благодаря всем, кто играет, — огромное спасибо. Примите <b>3 000 гемов</b> в честь этого события и наслаждайтесь новыми приключениями Коко и Мико 🐾",
+   "uk": "CocoMico Quest перевищила <b>3 000 завантажень</b>! Це завдяки всім, хто грає, — щиро дякуємо. Прийміть <b>3 000 гемів</b> на честь цієї події та насолоджуйтеся новими пригодами Коко й Міко 🐾",
+   "vi": "CocoMico Quest đã vượt mốc <b>3.000 lượt tải</b>! Tất cả là nhờ mọi người đã chơi — xin chân thành cảm ơn. Hãy nhận <b>3.000 Ngọc</b> để ăn mừng và tận hưởng thêm nhiều cuộc phiêu lưu cùng Coco và Mico 🐾",
+   "id": "CocoMico Quest telah melewati <b>3.000 unduhan</b>! Semua berkat kalian yang bermain — terima kasih banyak. Terimalah <b>3.000 Gem</b> sebagai perayaan, dan nikmati lebih banyak petualangan bersama Coco dan Mico 🐾",
+   "th": "CocoMico Quest มียอดดาวน์โหลดเกิน <b>3,000 ครั้ง</b>แล้ว! ทั้งหมดนี้เป็นเพราะทุกคนที่เล่น ขอบคุณจริงๆ รับ<b>เจม 3,000</b> ไปฉลองกัน แล้วสนุกกับการผจญภัยของโคโคะและมิโกะต่อไปนะ 🐾",
+   "pl": "CocoMico Quest przekroczyło <b>3000 pobrań</b>! To zasługa wszystkich graczy — ogromnie dziękujemy. Przyjmij <b>3000 klejnotów</b> na świętowanie i przeżyj jeszcze wiele przygód z Coco i Mico 🐾",
+   "nl": "CocoMico Quest is de <b>3.000 downloads</b> gepasseerd! Dat danken we aan iedereen die speelt — heel erg bedankt. Neem <b>3.000 Juwelen</b> aan om het te vieren en beleef nog veel avonturen met Coco en Mico 🐾",
+   "sv": "CocoMico Quest har passerat <b>3 000 nedladdningar</b>! Det är tack vare alla som spelar – stort tack. Ta emot <b>3 000 juveler</b> för att fira, och njut av många fler äventyr med Coco och Mico 🐾"
+  },
+  "rw": {
+   "gem": 3000
+  }
  }
 ]
