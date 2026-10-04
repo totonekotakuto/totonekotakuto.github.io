@@ -217,5 +217,57 @@
   "rw": {
    "gem": 3000
   }
+ },
+ {
+  "id": "ver40_preview",
+  "existingOnly": "4.0.0",
+  "until": "2027-06-30",
+  "title": {
+   "ja": "Ver4.0 アップデート予告",
+   "en": "Coming Soon: Ver 4.0 Update",
+   "zh": "Ver4.0 更新预告",
+   "zhTW": "Ver4.0 更新預告",
+   "ko": "Ver4.0 업데이트 예고",
+   "de": "Vorschau: Update Ver. 4.0",
+   "hi": "जल्द आ रहा है: Ver 4.0 अपडेट",
+   "es": "Próximamente: actualización Ver. 4.0",
+   "fr": "Bientôt : mise à jour Ver. 4.0",
+   "pt": "Em breve: atualização Ver. 4.0",
+   "it": "In arrivo: aggiornamento Ver. 4.0",
+   "tr": "Yakında: Ver 4.0 güncellemesi",
+   "ru": "Скоро: обновление Ver 4.0",
+   "uk": "Незабаром: оновлення Ver 4.0",
+   "vi": "Sắp ra mắt: bản cập nhật Ver 4.0",
+   "id": "Segera hadir: pembaruan Ver 4.0",
+   "th": "เร็ว ๆ นี้: อัปเดต Ver 4.0",
+   "pl": "Wkrótce: aktualizacja Ver 4.0",
+   "nl": "Binnenkort: update Ver 4.0",
+   "sv": "Snart: uppdatering Ver 4.0"
+  },
+  "body": {
+   "ja": "いつもCocoMico Questを遊んでいただきありがとうございます！<br>次の大型アップデート<b>Ver4.0</b>の準備を進めています。<br>・<b>物語の第一部が完結</b>：謎の猫「コドク」との全5戦<br>・<b>仲間の編成</b>：仲間と一緒に戦えるように<br>・<b>縛り転生</b>：5種類の新しい挑戦<br>・<b>ルナ装備</b>：最上位の新しい装備<br>・<b>ダンジョン50階</b>・<b>7日間の勇者手帳</b>・<b>30日パス</b>など<br>配信まで、もう少しお待ちください。<br>ひと足早く、ジェム1,000をお贈りします🐾",
+   "en": "Thank you for playing CocoMico Quest!<br>We are preparing our next big update, <b>Ver 4.0</b>.<br>・<b>Part 1 of the story concludes</b>: five battles with the mysterious cat Kodoku<br>・<b>Party formation</b>: fight alongside your companions<br>・<b>Challenge Runs</b>: five new kinds of challenge<br>・<b>Luna gear</b>: new top-tier equipment<br>・<b>Dungeon floor 50</b>, the <b>7-Day Hero's Journal</b>, the <b>30-Day Pass</b> and more<br>Please wait a little longer for the release.<br>As an early thank-you, please accept 1,000 Gems 🐾",
+   "zh": "感谢你一直游玩《CocoMico Quest》！<br>我们正在准备下一次大型更新<b>Ver4.0</b>。<br>・<b>故事第一部完结</b>：与神秘的猫「孤独」的全5战<br>・<b>队伍编成</b>：可以和伙伴一起战斗<br>・<b>挑战转生</b>：5种新的挑战<br>・<b>露娜装备</b>：全新的最高级装备<br>・<b>地下城50层</b>・<b>七日勇者手册</b>・<b>30日通行证</b>等<br>距离上线还请稍等片刻。<br>先送上钻石1,000作为谢礼🐾",
+   "zhTW": "感謝你一直遊玩《CocoMico Quest》！<br>我們正在準備下一次大型更新<b>Ver4.0</b>。<br>・<b>故事第一部完結</b>：與神秘的貓「孤獨」的全5戰<br>・<b>隊伍編成</b>：可以和夥伴一起戰鬥<br>・<b>挑戰轉生</b>：5種新的挑戰<br>・<b>露娜裝備</b>：全新的最高級裝備<br>・<b>地下城50層</b>・<b>七日勇者手冊</b>・<b>30日通行證</b>等<br>距離上線還請稍等片刻。<br>先送上鑽石1,000作為謝禮🐾",
+   "ko": "CocoMico Quest를 즐겨 주셔서 감사합니다!<br>다음 대형 업데이트 <b>Ver4.0</b>을 준비하고 있습니다.<br>・<b>스토리 1부 완결</b>: 수수께끼의 고양이 '코도쿠'와의 5번의 전투<br>・<b>파티 편성</b>: 동료와 함께 싸울 수 있어요<br>・<b>도전 환생</b>: 5가지 새로운 도전<br>・<b>루나 장비</b>: 최상위 새 장비<br>・<b>던전 50층</b>・<b>7일간의 용사 수첩</b>・<b>30일 패스</b> 등<br>배포까지 조금만 기다려 주세요.<br>한발 먼저 젬 1,000개를 보내 드립니다🐾",
+   "de": "Danke, dass du CocoMico Quest spielst!<br>Wir bereiten unser nächstes großes Update <b>Ver. 4.0</b> vor.<br>・<b>Teil 1 der Geschichte endet</b>: fünf Kämpfe gegen die geheimnisvolle Katze Kodoku<br>・<b>Gruppenaufstellung</b>: kämpfe zusammen mit deinen Gefährten<br>・<b>Prüfungen</b>: fünf neue Herausforderungen<br>・<b>Luna-Ausrüstung</b>: neue Ausrüstung der höchsten Stufe<br>・<b>Dungeon bis Ebene 50</b>, das <b>7-Tage-Heldentagebuch</b>, der <b>30-Tage-Pass</b> und mehr<br>Bitte gedulde dich noch ein wenig bis zur Veröffentlichung.<br>Als kleines Dankeschön vorab schenken wir dir 1.000 Juwelen 🐾",
+   "hi": "CocoMico Quest खेलने के लिए धन्यवाद!<br>हम अगले बड़े अपडेट <b>Ver 4.0</b> की तैयारी कर रहे हैं।<br>・<b>कहानी का पहला भाग पूरा</b>: रहस्यमयी बिल्ली कोडोकु से 5 लड़ाइयाँ<br>・<b>दल बनाना</b>: साथियों के साथ मिलकर लड़ें<br>・<b>चुनौती प्रेस्टीज</b>: 5 नई तरह की चुनौतियाँ<br>・<b>लूना गियर</b>: सबसे ऊँचे दर्जे का नया उपकरण<br>・<b>डंजन की 50वीं मंज़िल</b>, <b>7 दिन की वीर डायरी</b>, <b>30-दिन पास</b> और बहुत कुछ<br>रिलीज़ तक थोड़ा और इंतज़ार करें।<br>पहले से धन्यवाद के रूप में 1,000 जेम स्वीकार करें 🐾",
+   "es": "¡Gracias por jugar a CocoMico Quest!<br>Estamos preparando nuestra próxima gran actualización, la <b>Ver. 4.0</b>.<br>・<b>Termina la primera parte de la historia</b>: cinco combates contra el misterioso gato Kodoku<br>・<b>Formación de grupo</b>: lucha junto a tus compañeros<br>・<b>Retos</b>: cinco nuevos tipos de desafío<br>・<b>Equipo Luna</b>: nuevo equipo del rango más alto<br>・<b>Mazmorra hasta el piso 50</b>, el <b>Diario del héroe de 7 días</b>, el <b>Pase de 30 días</b> y más<br>Espera un poquito más hasta el lanzamiento.<br>Como agradecimiento anticipado, recibe 1.000 Gemas 🐾",
+   "fr": "Merci de jouer à CocoMico Quest !<br>Nous préparons notre prochaine grande mise à jour, la <b>Ver. 4.0</b>.<br>・<b>La première partie de l’histoire s’achève</b> : cinq combats contre le mystérieux chat Kodoku<br>・<b>Formation d’équipe</b> : combats aux côtés de tes compagnons<br>・<b>Épreuves</b> : cinq nouveaux défis<br>・<b>Équipement Luna</b> : un nouvel équipement du plus haut rang<br>・<b>Donjon jusqu’à l’étage 50</b>, le <b>Carnet du héros de 7 jours</b>, le <b>Pass 30 jours</b> et plus encore<br>Merci de patienter encore un peu jusqu’à la sortie.<br>En remerciement anticipé, voici 1 000 Gemmes 🐾",
+   "pt": "Obrigado por jogar CocoMico Quest!<br>Estamos preparando nossa próxima grande atualização, a <b>Ver. 4.0</b>.<br>・<b>A primeira parte da história chega ao fim</b>: cinco batalhas contra o misterioso gato Kodoku<br>・<b>Formação de grupo</b>: lute ao lado dos seus companheiros<br>・<b>Desafios</b>: cinco novos tipos de desafio<br>・<b>Equipamento Luna</b>: novo equipamento do nível mais alto<br>・<b>Masmorra até o andar 50</b>, o <b>Diário do herói de 7 dias</b>, o <b>Passe de 30 dias</b> e mais<br>Aguarde só mais um pouco até o lançamento.<br>Como agradecimento antecipado, receba 1.000 Gemas 🐾",
+   "it": "Grazie per giocare a CocoMico Quest!<br>Stiamo preparando il nostro prossimo grande aggiornamento, la <b>Ver. 4.0</b>.<br>・<b>Si conclude la prima parte della storia</b>: cinque battaglie contro il misterioso gatto Kodoku<br>・<b>Formazione del gruppo</b>: combatti insieme ai tuoi compagni<br>・<b>Sfide</b>: cinque nuovi tipi di sfida<br>・<b>Equip Luna</b>: nuovo equipaggiamento di grado massimo<br>・<b>Dungeon fino al piano 50</b>, il <b>Diario dell’eroe di 7 giorni</b>, il <b>Pass 30 giorni</b> e altro ancora<br>Attendi ancora un po’ fino all’uscita.<br>Come ringraziamento anticipato, ecco 1.000 Gemme 🐾",
+   "tr": "CocoMico Quest'i oynadığın için teşekkürler!<br>Bir sonraki büyük güncellememiz <b>Ver 4.0</b> üzerinde çalışıyoruz.<br>・<b>Hikâyenin birinci bölümü sona eriyor</b>: gizemli kedi Kodoku ile beş savaş<br>・<b>Takım kurma</b>: yoldaşlarınla birlikte savaş<br>・<b>Meydan Okumalar</b>: beş yeni tür meydan okuma<br>・<b>Luna ekipmanı</b>: en üst seviyede yeni ekipman<br>・<b>Zindanda 50. kat</b>, <b>7 Günlük Kahraman Defteri</b>, <b>30 Günlük Pas</b> ve dahası<br>Yayına kadar biraz daha bekle lütfen.<br>Önceden bir teşekkür olarak 1.000 Cevher hediye ediyoruz 🐾",
+   "ru": "Спасибо, что играете в CocoMico Quest!<br>Мы готовим следующее большое обновление — <b>Ver 4.0</b>.<br>・<b>Завершение первой части истории</b>: пять битв с загадочным котом Кодоку<br>・<b>Сбор отряда</b>: сражайтесь вместе с товарищами<br>・<b>Испытания</b>: пять новых видов испытаний<br>・<b>Снаряжение Луны</b>: новое снаряжение высшего ранга<br>・<b>Подземелье до 50-го этажа</b>, <b>Дневник героя на 7 дней</b>, <b>Пропуск на 30 дней</b> и многое другое<br>Подождите ещё немного до выхода.<br>В знак благодарности заранее дарим 1 000 гемов 🐾",
+   "uk": "Дякуємо, що граєте в CocoMico Quest!<br>Ми готуємо наступне велике оновлення — <b>Ver 4.0</b>.<br>・<b>Завершення першої частини історії</b>: п’ять битв із загадковим котом Кодоку<br>・<b>Збір загону</b>: бийтеся разом із товаришами<br>・<b>Випробування</b>: п’ять нових видів випробувань<br>・<b>Спорядження Луни</b>: нове спорядження найвищого рангу<br>・<b>Підземелля до 50-го поверху</b>, <b>Щоденник героя на 7 днів</b>, <b>Пропуск на 30 днів</b> і багато іншого<br>Зачекайте ще трохи до виходу.<br>На знак подяки наперед даруємо 1 000 гемів 🐾",
+   "vi": "Cảm ơn bạn đã chơi CocoMico Quest!<br>Chúng tôi đang chuẩn bị bản cập nhật lớn tiếp theo <b>Ver 4.0</b>.<br>・<b>Phần 1 của câu chuyện khép lại</b>: 5 trận đấu với chú mèo bí ẩn Kodoku<br>・<b>Lập đội</b>: chiến đấu cùng đồng đội<br>・<b>Thử thách</b>: 5 loại thử thách mới<br>・<b>Trang bị Luna</b>: trang bị mới cấp cao nhất<br>・<b>Hầm ngục tầng 50</b>, <b>Sổ tay anh hùng 7 ngày</b>, <b>Thẻ 30 ngày</b> và nhiều hơn nữa<br>Hãy chờ thêm một chút đến ngày ra mắt nhé.<br>Xin gửi trước 1.000 Ngọc để cảm ơn bạn 🐾",
+   "id": "Terima kasih sudah bermain CocoMico Quest!<br>Kami sedang menyiapkan pembaruan besar berikutnya, <b>Ver 4.0</b>.<br>・<b>Bagian pertama cerita berakhir</b>: lima pertarungan melawan kucing misterius Kodoku<br>・<b>Formasi tim</b>: bertarung bersama teman-temanmu<br>・<b>Tantangan</b>: lima jenis tantangan baru<br>・<b>Perlengkapan Luna</b>: perlengkapan baru tingkat tertinggi<br>・<b>Dungeon sampai lantai 50</b>, <b>Buku Pahlawan 7 Hari</b>, <b>Pass 30 Hari</b>, dan lainnya<br>Tunggu sebentar lagi sampai rilis, ya.<br>Sebagai ucapan terima kasih lebih awal, terimalah 1.000 Gem 🐾",
+   "th": "ขอบคุณที่เล่น CocoMico Quest!<br>เรากำลังเตรียมอัปเดตครั้งใหญ่ <b>Ver 4.0</b><br>・<b>เรื่องราวภาคแรกจบลง</b>: ศึก 5 ครั้งกับแมวปริศนาโคโดคุ<br>・<b>จัดทีม</b>: ต่อสู้ไปพร้อมกับเพื่อนร่วมทาง<br>・<b>โหมดท้าทาย</b>: ความท้าทายใหม่ 5 แบบ<br>・<b>อุปกรณ์ลูน่า</b>: อุปกรณ์ใหม่ระดับสูงสุด<br>・<b>ดันเจี้ยนชั้น 50</b> <b>สมุดผู้กล้า 7 วัน</b> <b>พาส 30 วัน</b> และอื่น ๆ<br>โปรดรออีกสักนิดจนถึงวันเปิดให้เล่น<br>มอบเจม 1,000 ล่วงหน้าเป็นการขอบคุณ 🐾",
+   "pl": "Dziękujemy za grę w CocoMico Quest!<br>Przygotowujemy kolejną dużą aktualizację — <b>Ver 4.0</b>.<br>・<b>Koniec pierwszej części historii</b>: pięć walk z tajemniczym kotem Kodoku<br>・<b>Skład drużyny</b>: walcz razem z towarzyszami<br>・<b>Wyzwania</b>: pięć nowych rodzajów wyzwań<br>・<b>Ekwipunek Luna</b>: nowy ekwipunek najwyższej rangi<br>・<b>Loch do 50. piętra</b>, <b>Dziennik bohatera na 7 dni</b>, <b>Karnet 30 dni</b> i więcej<br>Prosimy o jeszcze chwilę cierpliwości do premiery.<br>W ramach podziękowania z góry przesyłamy 1000 gemów 🐾",
+   "nl": "Bedankt dat je CocoMico Quest speelt!<br>We bereiden onze volgende grote update voor: <b>Ver 4.0</b>.<br>・<b>Deel 1 van het verhaal wordt afgesloten</b>: vijf gevechten met de mysterieuze kat Kodoku<br>・<b>Team samenstellen</b>: vecht samen met je metgezellen<br>・<b>Uitdagingen</b>: vijf nieuwe soorten uitdagingen<br>・<b>Luna-uitrusting</b>: nieuwe uitrusting van de hoogste rang<br>・<b>Dungeon tot verdieping 50</b>, het <b>Heldendagboek van 7 dagen</b>, de <b>30-dagenpas</b> en meer<br>Nog even geduld tot de release.<br>Als bedankje vooraf krijg je 1.000 Gems 🐾",
+   "sv": "Tack för att du spelar CocoMico Quest!<br>Vi förbereder vår nästa stora uppdatering, <b>Ver 4.0</b>.<br>・<b>Första delen av berättelsen avslutas</b>: fem strider mot den mystiska katten Kodoku<br>・<b>Lagsammansättning</b>: slåss tillsammans med dina följeslagare<br>・<b>Utmaningar</b>: fem nya sorters utmaningar<br>・<b>Luna-utrustning</b>: ny utrustning av högsta rang<br>・<b>Dungeon till våning 50</b>, <b>Hjältedagbok för 7 dagar</b>, <b>30-dagarspass</b> och mer<br>Vänta lite till på lanseringen.<br>Som ett tack i förväg får du 1 000 Gems 🐾"
+  },
+  "rw": {
+   "gem": 1000
+  }
  }
 ]
