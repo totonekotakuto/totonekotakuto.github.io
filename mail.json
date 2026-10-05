@@ -269,5 +269,33 @@
   "rw": {
    "gem": 1000
   }
+ },
+ {
+  "id": "ads_1004_sorry",
+  "until": "2026-10-31",
+  "title": {
+   "ja": "広告が見られなかった件のお詫び",
+   "en": "Our Apologies: Ads Were Unavailable",
+   "zh": "关于广告无法观看的致歉",
+   "zhTW": "關於廣告無法觀看的致歉",
+   "ko": "광고를 볼 수 없었던 문제에 대한 사과",
+   "de": "Entschuldigung: Werbevideos waren nicht verfügbar",
+   "hi": "विज्ञापन न दिखने के लिए क्षमा",
+   "es": "Disculpas: los anuncios no estaban disponibles"
+  },
+  "body": {
+   "ja": "いつもCocoMico Questを遊んでいただきありがとうございます。10月4日から5日にかけて、こちらの広告の配信設定が原因で、<b>動画広告がほとんど表示されない状態</b>になっていました。広告で受け取れるはずだった報酬をお届けできず、申し訳ございません。現在は設定を元に戻しています。お詫びの気持ちを込めて、ジェムと宝石ガチャ券をお受け取りください。",
+   "en": "Thank you for playing CocoMico Quest. From October 4 to 5, a problem with our ad settings meant that <b>video ads almost never appeared</b>. We are sorry you could not receive the rewards you would normally get from them. The settings have now been restored. Please accept these Gems and Gem Gacha Tickets as our apology.",
+   "zh": "感谢你一直游玩《CocoMico Quest》。10月4日至5日期间，由于我们的广告投放设置出现问题，<b>视频广告几乎无法播放</b>。没能让你领取原本可以通过广告获得的奖励，非常抱歉。目前设置已经恢复。请收下钻石与宝石扭蛋券，聊表歉意。",
+   "zhTW": "感謝你一直遊玩《CocoMico Quest》。10月4日至5日期間，由於我們的廣告投放設定出現問題，<b>影片廣告幾乎無法播放</b>。沒能讓你領取原本可以透過廣告獲得的獎勵，非常抱歉。目前設定已經恢復。請收下鑽石與寶石轉蛋券，聊表歉意。",
+   "ko": "항상 CocoMico Quest를 플레이해 주셔서 감사합니다. 10월 4일부터 5일까지 저희 광고 송출 설정의 문제로 <b>동영상 광고가 거의 표시되지 않는 상태</b>였습니다. 광고로 받으실 수 있었던 보상을 드리지 못해 죄송합니다. 현재는 설정을 원래대로 되돌렸습니다. 사과의 마음을 담아 젬과 보석 가챠권을 받아 주세요.",
+   "de": "Danke, dass du CocoMico Quest spielst. Vom 4. bis 5. Oktober wurden wegen eines Fehlers in unseren Werbeeinstellungen <b>kaum Werbevideos angezeigt</b>. Es tut uns leid, dass du die Belohnungen dafür nicht erhalten konntest. Die Einstellungen sind inzwischen wiederhergestellt. Bitte nimm diese Juwelen und Juwelen-Gacha-Tickets als Entschuldigung an.",
+   "hi": "CocoMico Quest खेलने के लिए धन्यवाद। 4 से 5 अक्टूबर के बीच हमारी विज्ञापन सेटिंग की गड़बड़ी के कारण <b>वीडियो विज्ञापन लगभग दिखाई ही नहीं दिए</b>। विज्ञापनों से मिलने वाले इनाम आप तक नहीं पहुँच सके, इसके लिए हमें खेद है। सेटिंग अब ठीक कर दी गई है। क्षमा के रूप में कृपया ये जेम और जेम-गाचा टिकट स्वीकार करें।",
+   "es": "Gracias por jugar a CocoMico Quest. Del 4 al 5 de octubre, un problema en nuestra configuración de anuncios hizo que <b>los anuncios en vídeo casi no aparecieran</b>. Sentimos que no pudieras recibir las recompensas que normalmente se obtienen con ellos. La configuración ya se ha restablecido. Acepta estas Gemas y Tickets de Joya como disculpa."
+  },
+  "rw": {
+   "gem": 500,
+   "gtk": 50
+  }
  }
 ]
