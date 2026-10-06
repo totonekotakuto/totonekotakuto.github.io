@@ -1,5 +1,22 @@
 [
  {
+  "id": "rs_ettkky7q_1006",
+  "to": [
+   "ETTKKY7Q"
+  ],
+  "minSt": 99999999,
+  "until": "2026-11-30",
+  "save": "saves/pf30ur6jbf7hwsdu.json",
+  "title": {
+   "ja": "お約束の記録をお届けします",
+   "en": "Your Restored Save"
+  },
+  "body": {
+   "ja": "このたびは大切な記録が失われ、ご不便とご心配をおかけしましたことを心よりお詫び申し上げます。お約束していた、St320・転生4回に近い進み具合の記録をお渡し致します。受け取ると、今の記録と並べてどちらで遊ぶかを選べます。選ばなかった方の記録も「iCloudバックアップ」の画面から戻せます。なお、装備やスキルの中身は元の記録と同じではございませんので、ご了承下さい。",
+   "en": "We sincerely apologize for the loss of your save data and for the trouble and worry it caused. Here is the save we promised, built to be close to your progress (Stage 320, 4 Prestiges). When you receive it, you can choose between it and your current save. The save you do not choose can still be restored from the \"iCloud Backup\" screen. Please note that your equipment and skills will not be exactly the same as in your original save."
+  }
+ },
+ {
   "id": "ver31_thanks",
   "existingOnly": "3.1.0",
   "until": "2027-06-30",
