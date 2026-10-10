@@ -105,6 +105,7 @@
  },
  {
   "id": "dl1000_thanks",
+  "startedBefore": "2026-09-21",
   "until": "2027-06-30",
   "title": {
    "ja": "1,000ダウンロード記念のおくりもの",
@@ -237,6 +238,7 @@
  },
  {
   "id": "ver40_preview",
+  "startedBefore": "2026-10-06",
   "existingOnly": "4.0.0",
   "until": "2027-06-30",
   "title": {
@@ -289,6 +291,7 @@
  },
  {
   "id": "ads_1004_sorry",
+  "startedBefore": "2026-10-06",
   "until": "2026-10-31",
   "title": {
    "ja": "広告が見られなかった件のお詫び",
