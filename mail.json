@@ -1,397 +1,380 @@
 [
- {
-  "id": "rs_ettkky7q_1006",
-  "to": [
-   "ETTKKY7Q"
-  ],
-  "minSt": 99999999,
-  "until": "2026-11-30",
-  "save": "saves/pf30ur6jbf7hwsdu.json",
-  "title": {
-   "ja": "お約束の記録をお届けします",
-   "en": "Your Restored Save"
+  {
+    "id": "ver31_thanks",
+    "existingOnly": "3.1.0",
+    "until": "2027-06-30",
+    "title": {
+      "ja": "Ver3.1アップデートの御礼",
+      "en": "Thanks for Updating to Ver 3.1",
+      "zh": "Ver3.1 更新答谢礼",
+      "zhTW": "Ver3.1 更新答謝禮",
+      "ko": "Ver3.1 업데이트 감사 선물",
+      "de": "Danke für das Update auf Ver. 3.1",
+      "hi": "Ver3.1 अपडेट के लिए धन्यवाद",
+      "es": "Gracias por actualizar a Ver3.1"
+    },
+    "body": {
+      "ja": "いつもCocoMico Questを遊んでいただきありがとうございます！ Ver3.1では、能力値の999の壁を<b>ねこ魂で越えられる</b>ようになり、St1000の先に<b>深淵</b>が開きました。アイテム図鑑は48種に、宝石ガチャには100連、ランキングには討伐イベントと転生回数、そしてライバル指名が加わっています。セーブはiCloudにも守られるようになりました。感謝の気持ちを込めた贈り物をどうぞ🐾",
+      "en": "Thank you for playing CocoMico Quest! In Ver 3.1 the 999 stat cap can now be <b>lifted with Cat Souls</b>, and the <b>Abyss</b> opens beyond Stage 1000. The item book grew to 48 kinds, the Gem Gacha gained a 100-pull, and the rankings now include Raid Event boards, Rebirth count and rivals. Your save is also backed up to iCloud. Please accept this gift as our thanks 🐾",
+      "zh": "感谢你一直游玩《CocoMico Quest》！Ver3.1 中，能力值 999 的上限可以<b>用猫魂突破</b>，第1000层之后的<b>深渊</b>也已开放。道具图鉴增至48种，宝石扭蛋新增100连，排行榜加入了讨伐活动、转生次数以及对手指定。存档还会自动备份到 iCloud。请收下这份感谢的礼物🐾",
+      "zhTW": "感謝你一直遊玩《CocoMico Quest》！Ver3.1 中，能力值 999 的上限可以<b>用貓魂突破</b>，第1000層之後的<b>深淵</b>也已開放。道具圖鑑增至48種，寶石轉蛋新增100連，排行榜加入了討伐活動、轉生次數以及對手指定。存檔還會自動備份到 iCloud。請收下這份感謝的禮物🐾",
+      "ko": "항상 CocoMico Quest를 플레이해 주셔서 감사합니다! Ver3.1에서는 능력치 999의 벽을 <b>고양이 영혼으로 넘을 수</b> 있게 되었고, St1000 너머에 <b>심연</b>이 열렸습니다. 아이템 도감은 48종으로, 보석 가챠에는 100연차가, 랭킹에는 토벌 이벤트와 환생 횟수, 그리고 라이벌 지정이 더해졌어요. 세이브는 iCloud에도 보관됩니다. 감사의 선물을 받아 주세요 🐾",
+      "de": "Danke, dass du CocoMico Quest spielst! In Ver. 3.1 lässt sich das 999er-Limit der Werte <b>mit Katzenseelen anheben</b>, und jenseits von Stufe 1000 öffnet sich der <b>Abgrund</b>. Das Item-Buch ist auf 48 Sorten gewachsen, das Juwelen-Gacha hat einen 100er-Zug, und die Ranglisten umfassen jetzt das Raid-Event, Wiedergeburten und Rivalen. Dein Spielstand wird zudem in iCloud gesichert. Viel Freude mit diesem Geschenk 🐾",
+      "hi": "CocoMico Quest खेलने के लिए धन्यवाद! Ver3.1 में 999 की स्टेट सीमा को <b>कैट सोल से पार</b> किया जा सकता है, और स्टेज 1000 के आगे <b>एबिस</b> खुल गया है। आइटम बुक 48 तरह की हो गई, जेम गाचा में ×100 पुल आया, और रैंकिंग में रेड इवेंट, पुनर्जन्म संख्या और राइवल जुड़े। आपका सेव iCloud में भी सुरक्षित रहता है। यह उपहार स्वीकार करें 🐾",
+      "es": "¡Gracias por jugar a CocoMico Quest! En la Ver3.1 el tope de 999 en los stats se puede <b>superar con Almas de Gato</b>, y tras el Nv1000 se abre el <b>Abismo</b>. El códice llegó a 48 tipos, el Gacha de Joyas tiene tiradas ×100, y en las clasificaciones se añadieron el evento de incursión, los renaceres y los rivales. Tu partida también se guarda en iCloud. Acepta este regalo como agradecimiento 🐾"
+    },
+    "rw": {
+      "gem": 1000,
+      "gtk": 100
+    }
   },
-  "body": {
-   "ja": "このたびは大切な記録が失われ、ご不便とご心配をおかけしましたことを心よりお詫び申し上げます。お約束していた、St320・転生4回に近い進み具合の記録をお渡し致します。受け取ると、今の記録と並べてどちらで遊ぶかを選べます。選ばなかった方の記録も「iCloudバックアップ」の画面から戻せます。なお、装備やスキルの中身は元の記録と同じではございませんので、ご了承下さい。",
-   "en": "We sincerely apologize for the loss of your save data and for the trouble and worry it caused. Here is the save we promised, built to be close to your progress (Stage 320, 4 Prestiges). When you receive it, you can choose between it and your current save. The save you do not choose can still be restored from the \"iCloud Backup\" screen. Please note that your equipment and skills will not be exactly the same as in your original save."
+  {
+    "id": "ver32_thanks",
+    "existingOnly": "3.2.0",
+    "until": "2027-06-30",
+    "title": {
+      "ja": "Ver3.2アップデートの御礼",
+      "en": "Thanks for Updating to Ver 3.2",
+      "zh": "Ver3.2 更新答谢礼",
+      "zhTW": "Ver3.2 更新答謝禮",
+      "ko": "Ver3.2 업데이트 감사 선물",
+      "de": "Danke für das Update auf Ver. 3.2",
+      "hi": "Ver3.2 अपडेट के लिए धन्यवाद",
+      "es": "Gracias por actualizar a Ver3.2"
+    },
+    "body": {
+      "ja": "いつもCocoMico Questを遊んでいただきありがとうございます！ Ver3.2では<b>友達招待</b>を追加しました。招待コードを贈り合うと、二人ともジェムと宝石ガチャ券を受け取れます。あわせて<b>Mac</b>でも遊べるようになり、<b>ガチャと強化の演出</b>を全面的に作り直しました。新しい演出を見に行く前に、感謝の気持ちをお受け取りください🐾",
+      "en": "Thank you for playing CocoMico Quest! Ver 3.2 adds <b>Friend Invites</b> — share your code and you both receive Gems and Gem Gacha Tickets. The game now runs on <b>Mac</b> as well, and the <b>gacha and enhancement effects</b> have been rebuilt from the ground up. Please accept this gift before you go and see them 🐾",
+      "zh": "感谢你一直游玩《CocoMico Quest》！Ver3.2 新增了<b>好友邀请</b>，互相赠送邀请码，双方都能获得钻石与宝石扭蛋券。同时游戏也支持<b>Mac</b>了，并且<b>扭蛋与强化的演出</b>已全面重制。在去看新演出之前，请收下这份感谢的礼物🐾",
+      "zhTW": "感謝你一直遊玩《CocoMico Quest》！Ver3.2 新增了<b>好友邀請</b>，互相贈送邀請碼，雙方都能獲得鑽石與寶石轉蛋券。同時遊戲也支援<b>Mac</b>了，並且<b>轉蛋與強化的演出</b>已全面重製。在去看新演出之前，請收下這份感謝的禮物🐾",
+      "ko": "항상 CocoMico Quest를 플레이해 주셔서 감사합니다! Ver3.2에는 <b>친구 초대</b>가 추가되었어요. 초대 코드를 주고받으면 두 사람 모두 젬과 보석 가챠권을 받을 수 있습니다. 또한 <b>Mac</b>에서도 즐길 수 있게 되었고, <b>가챠와 강화 연출</b>을 전면적으로 새로 만들었어요. 새 연출을 보러 가기 전에 감사의 선물을 받아 주세요 🐾",
+      "de": "Danke, dass du CocoMico Quest spielst! Ver. 3.2 bringt <b>Freunde einladen</b> — teilt euren Code, und ihr beide erhaltet Juwelen und Juwelen-Gacha-Tickets. Das Spiel läuft jetzt auch auf dem <b>Mac</b>, und die <b>Gacha- und Verstärkungseffekte</b> wurden komplett neu gebaut. Nimm dieses Geschenk an, bevor du sie dir ansiehst 🐾",
+      "hi": "CocoMico Quest खेलने के लिए धन्यवाद! Ver3.2 में <b>फ्रेंड इनवाइट</b> जुड़ा है — कोड शेयर करें और दोनों को जेम और जेम-गाचा टिकट मिलेंगे। गेम अब <b>Mac</b> पर भी चलता है, और <b>गाचा और एन्हांस के इफेक्ट</b> पूरी तरह नए बनाए गए हैं। उन्हें देखने जाने से पहले यह उपहार स्वीकार करें 🐾",
+      "es": "¡Gracias por jugar a CocoMico Quest! La Ver3.2 añade <b>Invitar amigos</b>: al intercambiar códigos, los dos recibís Gemas y Tickets de Joya. Además ya se puede jugar en <b>Mac</b> y hemos rehecho por completo <b>los efectos del gacha y de la mejora</b>. Antes de ir a verlos, acepta nuestro agradecimiento 🐾"
+    },
+    "rw": {
+      "gem": 1000,
+      "gtk": 100
+    }
+  },
+  {
+    "id": "ver33_thanks",
+    "existingOnly": "3.3.0",
+    "until": "2027-06-30",
+    "title": {
+      "ja": "Ver3.3アップデートの御礼",
+      "en": "Thanks for Updating to Ver 3.3",
+      "zh": "Ver3.3 更新答谢礼",
+      "zhTW": "Ver3.3 更新答謝禮",
+      "ko": "Ver3.3 업데이트 감사 선물",
+      "de": "Danke für das Update auf Ver. 3.3",
+      "hi": "Ver3.3 अपडेट के लिए धन्यवाद",
+      "es": "Gracias por actualizar a Ver3.3"
+    },
+    "body": {
+      "ja": "いつもCocoMico Questを遊んでいただきありがとうございます！ Ver3.3では、長く遊んでも<b>本体が熱くなりにくい</b>ように描画の仕組みを全面的に見直しました。端末が熱い時や低電力モードの時は、自動で軽い描画に切り替わります。あわせて、<b>放置報酬が受け取れなくなる</b>不具合と、<b>転職の後に画面下のタブが切れる</b>不具合を直しました。感謝の気持ちを込めた贈り物をどうぞ🐾",
+      "en": "Thank you for playing CocoMico Quest! In Ver 3.3 we reworked how the game draws so your <b>device stays cooler</b> during long sessions - it switches to lighter graphics automatically when the device gets warm or Low Power Mode is on. We also fixed a bug where <b>idle rewards could be lost</b> and one where <b>the bottom tabs were cut off after a job change</b>. Please accept this gift as our thanks 🐾",
+      "zh": "感谢你一直游玩《CocoMico Quest》！Ver3.3 全面调整了绘制方式，<b>长时间游玩也不易发热</b>。当机身变热或开启低电量模式时，会自动切换为更轻的画面。同时修正了<b>放置奖励无法领取</b>的问题，以及<b>转职后底部标签被截断</b>的问题。请收下这份感谢的礼物🐾",
+      "zhTW": "感謝你一直遊玩《CocoMico Quest》！Ver3.3 全面調整了繪製方式，<b>長時間遊玩也不易發熱</b>。當機身變熱或開啟低耗電模式時，會自動切換為更輕的畫面。同時修正了<b>放置獎勵無法領取</b>的問題，以及<b>轉職後底部標籤被截斷</b>的問題。請收下這份感謝的禮物🐾",
+      "ko": "항상 CocoMico Quest를 플레이해 주셔서 감사합니다! Ver3.3에서는 오래 플레이해도 <b>기기가 덜 뜨거워지도록</b> 그리는 방식을 전면적으로 손봤습니다. 기기가 뜨겁거나 저전력 모드일 때는 자동으로 가벼운 그래픽으로 바뀝니다. 또한 <b>방치 보상을 받지 못하는</b> 문제와 <b>전직 후 하단 탭이 잘리는</b> 문제를 수정했어요. 감사의 선물을 받아 주세요 🐾",
+      "de": "Danke, dass du CocoMico Quest spielst! In Ver. 3.3 haben wir die Darstellung überarbeitet, damit dein <b>Gerät auch bei langen Sitzungen kühler bleibt</b> - wird es warm oder ist der Stromsparmodus an, schaltet das Spiel automatisch auf eine sparsamere Grafik. Außerdem haben wir einen Fehler behoben, bei dem <b>Offline-Belohnungen verloren gehen konnten</b>, und einen, bei dem <b>die unteren Tabs nach einem Klassenwechsel abgeschnitten waren</b>. Viel Freude mit diesem Geschenk 🐾",
+      "hi": "CocoMico Quest खेलने के लिए धन्यवाद! Ver3.3 में हमने ड्रॉइंग का तरीका पूरी तरह बदला है ताकि लंबे समय तक खेलने पर भी <b>डिवाइस कम गर्म हो</b>। डिवाइस गर्म होने या लो पावर मोड में ग्राफ़िक्स अपने आप हल्के हो जाते हैं। साथ ही <b>आइडल इनाम न मिलने</b> वाली और <b>जॉब बदलने के बाद नीचे के टैब कट जाने</b> वाली गड़बड़ी ठीक की। यह उपहार स्वीकार करें 🐾",
+      "es": "¡Gracias por jugar a CocoMico Quest! En la Ver3.3 hemos revisado a fondo cómo dibuja el juego para que <b>el dispositivo se caliente menos</b> en partidas largas: si se calienta o activas el modo de bajo consumo, pasa solo a gráficos más ligeros. También corregimos un fallo por el que <b>se perdían las recompensas inactivas</b> y otro que <b>cortaba las pestañas inferiores tras cambiar de clase</b>. Acepta este regalo como agradecimiento 🐾"
+    },
+    "rw": {
+      "gem": 1000,
+      "gtk": 100
+    }
+  },
+  {
+    "id": "dl1000_thanks",
+    "startedBefore": "2026-09-21",
+    "until": "2027-06-30",
+    "title": {
+      "ja": "1,000ダウンロード記念のおくりもの",
+      "en": "1,000 Downloads - Thank You Gift",
+      "zh": "1,000 次下载纪念礼物",
+      "zhTW": "1,000 次下載紀念禮物",
+      "ko": "1,000 다운로드 기념 선물",
+      "de": "1.000 Downloads - Dankeschön",
+      "hi": "1,000 डाउनलोड - धन्यवाद उपहार",
+      "es": "1.000 descargas: regalo de agradecimiento"
+    },
+    "body": {
+      "ja": "おかげさまで、CocoMico Quest のダウンロードが<b>1,000本</b>を超えました！ 遊んでくださっているみなさんのおかげです。本当にありがとうございます。記念に<b>ジェム3,000</b>をお贈りします。これからもココとミコの冒険をよろしくお願いします🐾",
+      "en": "CocoMico Quest has passed <b>1,000 downloads</b>! That is thanks to everyone playing - we are truly grateful. Please accept <b>3,000 Gems</b> to celebrate, and enjoy many more adventures with Coco and Mico 🐾",
+      "zh": "《CocoMico Quest》的下载量已突破<b>1,000次</b>！这都要感谢一直游玩的各位，真的非常感谢。为纪念这一刻，送上<b>钻石3,000</b>。今后也请多多关照可可和米可的冒险🐾",
+      "zhTW": "《CocoMico Quest》的下載量已突破<b>1,000次</b>！這都要感謝一直遊玩的各位，真的非常感謝。為紀念這一刻，送上<b>鑽石3,000</b>。今後也請多多指教可可和米可的冒險🐾",
+      "ko": "CocoMico Quest의 다운로드가 <b>1,000회</b>를 넘었습니다! 플레이해 주시는 여러분 덕분이에요. 정말 감사합니다. 기념으로 <b>젬 3,000</b>을 보내 드립니다. 앞으로도 코코와 미코의 모험을 잘 부탁드려요 🐾",
+      "de": "CocoMico Quest hat <b>1.000 Downloads</b> überschritten! Das verdanken wir allen, die spielen - vielen Dank. Nimm zur Feier <b>3.000 Juwelen</b> und erlebe noch viele Abenteuer mit Coco und Mico 🐾",
+      "hi": "CocoMico Quest के <b>1,000 डाउनलोड</b> पूरे हो गए! यह सब खेलने वाले आप सबकी वजह से है - बहुत-बहुत धन्यवाद। इस मौके पर <b>3,000 जेम</b> स्वीकार करें, और कोको व मिको के साथ और भी रोमांच का मज़ा लें 🐾",
+      "es": "¡CocoMico Quest ha superado las <b>1.000 descargas</b>! Es gracias a todos los que jugáis: muchísimas gracias. Acepta <b>3.000 Gemas</b> para celebrarlo y disfruta de muchas más aventuras con Coco y Mico 🐾"
+    },
+    "rw": {
+      "gem": 3000
+    }
+  },
+  {
+    "id": "ver34_thanks",
+    "existingOnly": "3.4.0",
+    "until": "2027-06-30",
+    "title": {
+      "ja": "Ver3.4アップデートの御礼",
+      "en": "Thanks for Updating to Ver 3.4",
+      "ko": "Ver3.4 업데이트 감사 선물",
+      "de": "Danke fürs Update auf Ver 3.4",
+      "hi": "Ver 3.4 अपडेट के लिए धन्यवाद",
+      "zh": "Ver3.4 更新感谢礼",
+      "zhTW": "Ver3.4 更新感謝禮",
+      "es": "Gracias por actualizar a la Ver 3.4",
+      "fr": "Merci pour la mise à jour Ver 3.4",
+      "pt": "Obrigado por atualizar para a Ver 3.4",
+      "it": "Grazie per l’aggiornamento alla Ver 3.4",
+      "tr": "Ver 3.4 güncellemesi için teşekkürler",
+      "ru": "Спасибо за обновление до Ver 3.4",
+      "uk": "Дякуємо за оновлення до Ver 3.4",
+      "vi": "Cảm ơn bạn đã cập nhật Ver 3.4",
+      "id": "Terima kasih sudah memperbarui ke Ver 3.4",
+      "th": "ขอบคุณที่อัปเดตเป็น Ver 3.4",
+      "pl": "Dziękujemy za aktualizację do Ver 3.4",
+      "nl": "Bedankt voor het updaten naar Ver 3.4",
+      "sv": "Tack för att du uppdaterade till Ver 3.4"
+    },
+    "body": {
+      "ja": "いつもCocoMico Questを遊んでいただきありがとうございます！ Ver3.4では<b>13の言語を追加</b>し、20言語で遊べるようになりました。あわせて、<b>モンスター図鑑を開くとアプリが終了する</b>ことがある不具合を直し、1回の攻撃で出せる<b>ダメージの上限を1000倍</b>に引き上げました。感謝の気持ちを込めた贈り物をどうぞ🐾",
+      "en": "Thank you for playing CocoMico Quest! Ver 3.4 <b>adds 13 languages</b>, so the game is now playable in 20. We also fixed a bug where <b>opening the Monster Codex could close the app</b>, and raised the <b>damage cap per hit by 1000×</b>. Please accept this gift as our thanks 🐾",
+      "ko": "언제나 CocoMico Quest를 즐겨 주셔서 감사합니다! Ver3.4에서는 <b>13개 언어를 추가</b>해 20개 언어로 즐길 수 있게 되었습니다. 또한 <b>몬스터 도감을 열면 앱이 종료되는</b> 문제를 고치고, 1회 공격의 <b>대미지 상한을 1000배</b>로 올렸습니다. 감사의 마음을 담은 선물을 받아 주세요🐾",
+      "de": "Danke, dass du CocoMico Quest spielst! Mit Ver 3.4 kommen <b>13 neue Sprachen</b> hinzu – das Spiel gibt es jetzt in 20 Sprachen. Außerdem haben wir einen Fehler behoben, bei dem <b>sich die App beim Öffnen des Monster-Kodex schließen</b> konnte, und die <b>Schadensobergrenze pro Treffer um das 1000-Fache</b> angehoben. Bitte nimm dieses Geschenk als Dankeschön an 🐾",
+      "hi": "CocoMico Quest खेलने के लिए धन्यवाद! Ver 3.4 में <b>13 नई भाषाएँ</b> जोड़ी गई हैं, अब गेम 20 भाषाओं में खेला जा सकता है। साथ ही <b>मॉन्स्टर कोडेक्स खोलने पर ऐप बंद हो जाने</b> की समस्या ठीक की गई है, और एक वार में <b>नुकसान की सीमा 1000 गुना</b> कर दी गई है। धन्यवाद के रूप में यह उपहार स्वीकार करें🐾",
+      "zh": "感谢您一直以来游玩 CocoMico Quest！Ver3.4 <b>新增了13种语言</b>，现在可以用20种语言游玩。同时修复了<b>打开怪物图鉴时应用可能退出</b>的问题，并将单次攻击的<b>伤害上限提高到1000倍</b>。请收下这份感谢的礼物🐾",
+      "zhTW": "感謝您一直以來遊玩 CocoMico Quest！Ver3.4 <b>新增了13種語言</b>，現在可以用20種語言遊玩。同時修正了<b>打開怪物圖鑑時應用程式可能關閉</b>的問題，並將單次攻擊的<b>傷害上限提高到1000倍</b>。請收下這份感謝的禮物🐾",
+      "es": "¡Gracias por jugar a CocoMico Quest! La Ver 3.4 <b>añade 13 idiomas</b>, así que ahora puedes jugar en 20. También corregimos un error por el que <b>la app podía cerrarse al abrir el Códice de Monstruos</b> y multiplicamos por <b>1000 el límite de daño por golpe</b>. Acepta este regalo como agradecimiento 🐾",
+      "fr": "Merci de jouer à CocoMico Quest ! La Ver 3.4 <b>ajoute 13 langues</b> : le jeu est désormais disponible en 20 langues. Nous avons aussi corrigé un bug où <b>l’app pouvait se fermer en ouvrant le Codex des Monstres</b>, et multiplié par <b>1000 la limite de dégâts par coup</b>. Merci d’accepter ce cadeau en remerciement 🐾",
+      "pt": "Obrigado por jogar CocoMico Quest! A Ver 3.4 <b>adiciona 13 idiomas</b>, e agora dá para jogar em 20. Também corrigimos um erro em que <b>o app podia fechar ao abrir o Codex de Monstros</b> e aumentamos o <b>limite de dano por golpe em 1000×</b>. Aceite este presente como agradecimento 🐾",
+      "it": "Grazie per giocare a CocoMico Quest! La Ver 3.4 <b>aggiunge 13 lingue</b>: ora il gioco è disponibile in 20. Abbiamo anche corretto un errore per cui <b>l’app poteva chiudersi aprendo il Codex Mostri</b> e aumentato di <b>1000 volte il limite di danno per colpo</b>. Accetta questo regalo come ringraziamento 🐾",
+      "tr": "CocoMico Quest oynadığın için teşekkürler! Ver 3.4 ile <b>13 yeni dil eklendi</b>, oyun artık 20 dilde oynanabiliyor. Ayrıca <b>Canavar Kodeksi açılınca uygulamanın kapanabildiği</b> hatayı düzelttik ve vuruş başına <b>hasar sınırını 1000 katına</b> çıkardık. Teşekkür hediyemizi kabul et 🐾",
+      "ru": "Спасибо, что играете в CocoMico Quest! В Ver 3.4 <b>добавлено 13 языков</b> — теперь игра доступна на 20. Также исправлена ошибка, из-за которой <b>приложение могло закрыться при открытии Кодекса монстров</b>, а <b>предел урона за удар увеличен в 1000 раз</b>. Примите этот подарок в знак благодарности 🐾",
+      "uk": "Дякуємо, що граєте в CocoMico Quest! У Ver 3.4 <b>додано 13 мов</b> — тепер гра доступна 20 мовами. Також виправлено помилку, через яку <b>застосунок міг закритися під час відкриття Кодексу монстрів</b>, а <b>межу шкоди за удар збільшено в 1000 разів</b>. Прийміть цей подарунок на знак подяки 🐾",
+      "vi": "Cảm ơn bạn đã chơi CocoMico Quest! Ver 3.4 <b>thêm 13 ngôn ngữ</b>, giờ đây bạn có thể chơi bằng 20 ngôn ngữ. Chúng tôi cũng đã sửa lỗi <b>ứng dụng có thể tắt khi mở Đồ giám quái vật</b> và nâng <b>giới hạn sát thương mỗi đòn lên 1000 lần</b>. Xin hãy nhận món quà cảm ơn này 🐾",
+      "id": "Terima kasih sudah bermain CocoMico Quest! Ver 3.4 <b>menambahkan 13 bahasa</b>, jadi game kini bisa dimainkan dalam 20 bahasa. Kami juga memperbaiki bug yang <b>membuat aplikasi tertutup saat membuka Buku Monster</b>, dan menaikkan <b>batas kerusakan per serangan hingga 1000×</b>. Terimalah hadiah ini sebagai ucapan terima kasih 🐾",
+      "th": "ขอบคุณที่เล่น CocoMico Quest! Ver 3.4 <b>เพิ่ม 13 ภาษา</b> ตอนนี้เล่นได้ 20 ภาษาแล้ว นอกจากนี้ยังแก้ปัญหา<b>แอปปิดตัวเมื่อเปิดสมุดมอนสเตอร์</b> และเพิ่ม<b>ขีดจำกัดความเสียหายต่อการโจมตีเป็น 1000 เท่า</b> โปรดรับของขวัญนี้เพื่อเป็นการขอบคุณ🐾",
+      "pl": "Dziękujemy, że grasz w CocoMico Quest! Ver 3.4 <b>dodaje 13 języków</b> – gra jest teraz dostępna w 20. Naprawiliśmy też błąd, przez który <b>aplikacja mogła się zamknąć po otwarciu Kodeksu potworów</b>, i zwiększyliśmy <b>limit obrażeń na cios 1000-krotnie</b>. Przyjmij ten prezent jako podziękowanie 🐾",
+      "nl": "Bedankt dat je CocoMico Quest speelt! Ver 3.4 <b>voegt 13 talen toe</b>, dus je kunt nu in 20 talen spelen. We hebben ook een fout opgelost waardoor <b>de app kon sluiten bij het openen van het Monstercodex</b>, en de <b>schadelimiet per treffer 1000× verhoogd</b>. Aanvaard dit cadeau als dank 🐾",
+      "sv": "Tack för att du spelar CocoMico Quest! Ver 3.4 <b>lägger till 13 språk</b>, så nu kan du spela på 20 språk. Vi har också fixat ett fel där <b>appen kunde stängas när man öppnade Monsterkodexen</b>, och höjt <b>skadetaket per träff 1000 gånger</b>. Ta emot den här gåvan som tack 🐾"
+    },
+    "rw": {
+      "gem": 1000,
+      "gtk": 100
+    }
+  },
+  {
+    "id": "dl3000_thanks",
+    "startedBefore": "2026-09-24",
+    "until": "2027-06-30",
+    "title": {
+      "ja": "3,000ダウンロード記念のおくりもの",
+      "en": "3,000 Downloads - Thank You Gift",
+      "zh": "3,000 次下载纪念礼物",
+      "zhTW": "3,000 次下載紀念禮物",
+      "ko": "3,000 다운로드 기념 선물",
+      "de": "3.000 Downloads - Dankeschön",
+      "hi": "3,000 डाउनलोड - धन्यवाद उपहार",
+      "es": "3.000 descargas: regalo de agradecimiento",
+      "fr": "3 000 téléchargements : cadeau de remerciement",
+      "pt": "3.000 downloads: presente de agradecimento",
+      "it": "3.000 download: regalo di ringraziamento",
+      "tr": "3.000 İndirme - Teşekkür Hediyesi",
+      "ru": "3 000 загрузок — подарок в благодарность",
+      "uk": "3 000 завантажень — подарунок на знак подяки",
+      "vi": "3.000 lượt tải - Quà cảm ơn",
+      "id": "3.000 Unduhan - Hadiah Terima Kasih",
+      "th": "ของขวัญฉลอง 3,000 ดาวน์โหลด",
+      "pl": "3000 pobrań – prezent z podziękowaniem",
+      "nl": "3.000 downloads - bedankcadeau",
+      "sv": "3 000 nedladdningar – tackgåva"
+    },
+    "body": {
+      "ja": "おかげさまで、CocoMico Quest のダウンロードが<b>3,000本</b>を超えました！ 遊んでくださっているみなさんのおかげです。本当にありがとうございます。記念に<b>ジェム3,000</b>をお贈りします。これからもココとミコの冒険をよろしくお願いします🐾",
+      "en": "CocoMico Quest has passed <b>3,000 downloads</b>! That is thanks to everyone playing - we are truly grateful. Please accept <b>3,000 Gems</b> to celebrate, and enjoy many more adventures with Coco and Mico 🐾",
+      "zh": "《CocoMico Quest》的下载量已突破<b>3,000次</b>！这都要感谢一直游玩的各位，真的非常感谢。为纪念这一刻，送上<b>钻石3,000</b>。今后也请多多关照可可和米可的冒险🐾",
+      "zhTW": "《CocoMico Quest》的下載量已突破<b>3,000次</b>！這都要感謝一直遊玩的各位，真的非常感謝。為紀念這一刻，送上<b>鑽石3,000</b>。今後也請多多指教可可和米可的冒險🐾",
+      "ko": "CocoMico Quest의 다운로드가 <b>3,000회</b>를 넘었습니다! 플레이해 주시는 여러분 덕분이에요. 정말 감사합니다. 기념으로 <b>젬 3,000</b>을 보내 드립니다. 앞으로도 코코와 미코의 모험을 잘 부탁드려요 🐾",
+      "de": "CocoMico Quest hat <b>3.000 Downloads</b> überschritten! Das verdanken wir allen, die spielen - vielen Dank. Nimm zur Feier <b>3.000 Juwelen</b> und erlebe noch viele Abenteuer mit Coco und Mico 🐾",
+      "hi": "CocoMico Quest के <b>3,000 डाउनलोड</b> पूरे हो गए! यह सब खेलने वाले आप सबकी वजह से है - बहुत-बहुत धन्यवाद। इस मौके पर <b>3,000 जेम</b> स्वीकार करें, और कोको व मिको के साथ और भी रोमांच का मज़ा लें 🐾",
+      "es": "¡CocoMico Quest ha superado las <b>3.000 descargas</b>! Es gracias a todos los que jugáis: muchísimas gracias. Acepta <b>3.000 Gemas</b> para celebrarlo y disfruta de muchas más aventuras con Coco y Mico 🐾",
+      "fr": "CocoMico Quest a dépassé les <b>3 000 téléchargements</b> ! C’est grâce à vous tous qui jouez : merci infiniment. Acceptez <b>3 000 gemmes</b> pour fêter ça, et vivez encore de nombreuses aventures avec Coco et Mico 🐾",
+      "pt": "CocoMico Quest passou de <b>3.000 downloads</b>! Tudo graças a vocês que jogam — muito obrigado. Aceite <b>3.000 Gemas</b> para comemorar e aproveite muitas outras aventuras com Coco e Mico 🐾",
+      "it": "CocoMico Quest ha superato i <b>3.000 download</b>! È merito di tutti voi che giocate: grazie di cuore. Accetta <b>3.000 Gemme</b> per festeggiare e goditi tante altre avventure con Coco e Mico 🐾",
+      "tr": "CocoMico Quest <b>3.000 indirmeyi</b> geçti! Bunu oynayan herkese borçluyuz, çok teşekkürler. Kutlamak için <b>3.000 Cevher</b> kabul et ve Coco ile Mico’yla daha nice maceranın tadını çıkar 🐾",
+      "ru": "CocoMico Quest превысила <b>3 000 загрузок</b>! Это благодаря всем, кто играет, — огромное спасибо. Примите <b>3 000 гемов</b> в честь этого события и наслаждайтесь новыми приключениями Коко и Мико 🐾",
+      "uk": "CocoMico Quest перевищила <b>3 000 завантажень</b>! Це завдяки всім, хто грає, — щиро дякуємо. Прийміть <b>3 000 гемів</b> на честь цієї події та насолоджуйтеся новими пригодами Коко й Міко 🐾",
+      "vi": "CocoMico Quest đã vượt mốc <b>3.000 lượt tải</b>! Tất cả là nhờ mọi người đã chơi — xin chân thành cảm ơn. Hãy nhận <b>3.000 Ngọc</b> để ăn mừng và tận hưởng thêm nhiều cuộc phiêu lưu cùng Coco và Mico 🐾",
+      "id": "CocoMico Quest telah melewati <b>3.000 unduhan</b>! Semua berkat kalian yang bermain — terima kasih banyak. Terimalah <b>3.000 Gem</b> sebagai perayaan, dan nikmati lebih banyak petualangan bersama Coco dan Mico 🐾",
+      "th": "CocoMico Quest มียอดดาวน์โหลดเกิน <b>3,000 ครั้ง</b>แล้ว! ทั้งหมดนี้เป็นเพราะทุกคนที่เล่น ขอบคุณจริงๆ รับ<b>เจม 3,000</b> ไปฉลองกัน แล้วสนุกกับการผจญภัยของโคโคะและมิโกะต่อไปนะ 🐾",
+      "pl": "CocoMico Quest przekroczyło <b>3000 pobrań</b>! To zasługa wszystkich graczy — ogromnie dziękujemy. Przyjmij <b>3000 klejnotów</b> na świętowanie i przeżyj jeszcze wiele przygód z Coco i Mico 🐾",
+      "nl": "CocoMico Quest is de <b>3.000 downloads</b> gepasseerd! Dat danken we aan iedereen die speelt — heel erg bedankt. Neem <b>3.000 Juwelen</b> aan om het te vieren en beleef nog veel avonturen met Coco en Mico 🐾",
+      "sv": "CocoMico Quest har passerat <b>3 000 nedladdningar</b>! Det är tack vare alla som spelar – stort tack. Ta emot <b>3 000 juveler</b> för att fira, och njut av många fler äventyr med Coco och Mico 🐾"
+    },
+    "rw": {
+      "gem": 3000
+    }
+  },
+  {
+    "id": "ver40_preview",
+    "startedBefore": "2026-10-06",
+    "existingOnly": "4.0.0",
+    "until": "2027-06-30",
+    "title": {
+      "ja": "Ver4.0 アップデート予告",
+      "en": "Coming Soon: Ver 4.0 Update",
+      "zh": "Ver4.0 更新预告",
+      "zhTW": "Ver4.0 更新預告",
+      "ko": "Ver4.0 업데이트 예고",
+      "de": "Vorschau: Update Ver. 4.0",
+      "hi": "जल्द आ रहा है: Ver 4.0 अपडेट",
+      "es": "Próximamente: actualización Ver. 4.0",
+      "fr": "Bientôt : mise à jour Ver. 4.0",
+      "pt": "Em breve: atualização Ver. 4.0",
+      "it": "In arrivo: aggiornamento Ver. 4.0",
+      "tr": "Yakında: Ver 4.0 güncellemesi",
+      "ru": "Скоро: обновление Ver 4.0",
+      "uk": "Незабаром: оновлення Ver 4.0",
+      "vi": "Sắp ra mắt: bản cập nhật Ver 4.0",
+      "id": "Segera hadir: pembaruan Ver 4.0",
+      "th": "เร็ว ๆ นี้: อัปเดต Ver 4.0",
+      "pl": "Wkrótce: aktualizacja Ver 4.0",
+      "nl": "Binnenkort: update Ver 4.0",
+      "sv": "Snart: uppdatering Ver 4.0"
+    },
+    "body": {
+      "ja": "いつもCocoMico Questを遊んでいただきありがとうございます！<br>次の大型アップデート<b>Ver4.0</b>の準備を進めています。<br>・<b>物語の第一部が完結</b>：謎の猫「コドク」との全5戦<br>・<b>仲間の編成</b>：仲間と一緒に戦えるように<br>・<b>縛り転生</b>：5種類の新しい挑戦<br>・<b>ルナ装備</b>：最上位の新しい装備<br>・<b>ダンジョン50階</b>・<b>7日間の勇者手帳</b>・<b>30日パス</b>など<br>配信まで、もう少しお待ちください。<br>ひと足早く、ジェム1,000をお贈りします🐾",
+      "en": "Thank you for playing CocoMico Quest!<br>We are preparing our next big update, <b>Ver 4.0</b>.<br>・<b>Part 1 of the story concludes</b>: five battles with the mysterious cat Kodoku<br>・<b>Party formation</b>: fight alongside your companions<br>・<b>Challenge Runs</b>: five new kinds of challenge<br>・<b>Luna gear</b>: new top-tier equipment<br>・<b>Dungeon floor 50</b>, the <b>7-Day Hero's Journal</b>, the <b>30-Day Pass</b> and more<br>Please wait a little longer for the release.<br>As an early thank-you, please accept 1,000 Gems 🐾",
+      "zh": "感谢你一直游玩《CocoMico Quest》！<br>我们正在准备下一次大型更新<b>Ver4.0</b>。<br>・<b>故事第一部完结</b>：与神秘的猫「孤独」的全5战<br>・<b>队伍编成</b>：可以和伙伴一起战斗<br>・<b>挑战转生</b>：5种新的挑战<br>・<b>露娜装备</b>：全新的最高级装备<br>・<b>地下城50层</b>・<b>七日勇者手册</b>・<b>30日通行证</b>等<br>距离上线还请稍等片刻。<br>先送上钻石1,000作为谢礼🐾",
+      "zhTW": "感謝你一直遊玩《CocoMico Quest》！<br>我們正在準備下一次大型更新<b>Ver4.0</b>。<br>・<b>故事第一部完結</b>：與神秘的貓「孤獨」的全5戰<br>・<b>隊伍編成</b>：可以和夥伴一起戰鬥<br>・<b>挑戰轉生</b>：5種新的挑戰<br>・<b>露娜裝備</b>：全新的最高級裝備<br>・<b>地下城50層</b>・<b>七日勇者手冊</b>・<b>30日通行證</b>等<br>距離上線還請稍等片刻。<br>先送上鑽石1,000作為謝禮🐾",
+      "ko": "CocoMico Quest를 즐겨 주셔서 감사합니다!<br>다음 대형 업데이트 <b>Ver4.0</b>을 준비하고 있습니다.<br>・<b>스토리 1부 완결</b>: 수수께끼의 고양이 '코도쿠'와의 5번의 전투<br>・<b>파티 편성</b>: 동료와 함께 싸울 수 있어요<br>・<b>도전 환생</b>: 5가지 새로운 도전<br>・<b>루나 장비</b>: 최상위 새 장비<br>・<b>던전 50층</b>・<b>7일간의 용사 수첩</b>・<b>30일 패스</b> 등<br>배포까지 조금만 기다려 주세요.<br>한발 먼저 젬 1,000개를 보내 드립니다🐾",
+      "de": "Danke, dass du CocoMico Quest spielst!<br>Wir bereiten unser nächstes großes Update <b>Ver. 4.0</b> vor.<br>・<b>Teil 1 der Geschichte endet</b>: fünf Kämpfe gegen die geheimnisvolle Katze Kodoku<br>・<b>Gruppenaufstellung</b>: kämpfe zusammen mit deinen Gefährten<br>・<b>Prüfungen</b>: fünf neue Herausforderungen<br>・<b>Luna-Ausrüstung</b>: neue Ausrüstung der höchsten Stufe<br>・<b>Dungeon bis Ebene 50</b>, das <b>7-Tage-Heldentagebuch</b>, der <b>30-Tage-Pass</b> und mehr<br>Bitte gedulde dich noch ein wenig bis zur Veröffentlichung.<br>Als kleines Dankeschön vorab schenken wir dir 1.000 Juwelen 🐾",
+      "hi": "CocoMico Quest खेलने के लिए धन्यवाद!<br>हम अगले बड़े अपडेट <b>Ver 4.0</b> की तैयारी कर रहे हैं।<br>・<b>कहानी का पहला भाग पूरा</b>: रहस्यमयी बिल्ली कोडोकु से 5 लड़ाइयाँ<br>・<b>दल बनाना</b>: साथियों के साथ मिलकर लड़ें<br>・<b>चुनौती प्रेस्टीज</b>: 5 नई तरह की चुनौतियाँ<br>・<b>लूना गियर</b>: सबसे ऊँचे दर्जे का नया उपकरण<br>・<b>डंजन की 50वीं मंज़िल</b>, <b>7 दिन की वीर डायरी</b>, <b>30-दिन पास</b> और बहुत कुछ<br>रिलीज़ तक थोड़ा और इंतज़ार करें।<br>पहले से धन्यवाद के रूप में 1,000 जेम स्वीकार करें 🐾",
+      "es": "¡Gracias por jugar a CocoMico Quest!<br>Estamos preparando nuestra próxima gran actualización, la <b>Ver. 4.0</b>.<br>・<b>Termina la primera parte de la historia</b>: cinco combates contra el misterioso gato Kodoku<br>・<b>Formación de grupo</b>: lucha junto a tus compañeros<br>・<b>Retos</b>: cinco nuevos tipos de desafío<br>・<b>Equipo Luna</b>: nuevo equipo del rango más alto<br>・<b>Mazmorra hasta el piso 50</b>, el <b>Diario del héroe de 7 días</b>, el <b>Pase de 30 días</b> y más<br>Espera un poquito más hasta el lanzamiento.<br>Como agradecimiento anticipado, recibe 1.000 Gemas 🐾",
+      "fr": "Merci de jouer à CocoMico Quest !<br>Nous préparons notre prochaine grande mise à jour, la <b>Ver. 4.0</b>.<br>・<b>La première partie de l’histoire s’achève</b> : cinq combats contre le mystérieux chat Kodoku<br>・<b>Formation d’équipe</b> : combats aux côtés de tes compagnons<br>・<b>Épreuves</b> : cinq nouveaux défis<br>・<b>Équipement Luna</b> : un nouvel équipement du plus haut rang<br>・<b>Donjon jusqu’à l’étage 50</b>, le <b>Carnet du héros de 7 jours</b>, le <b>Pass 30 jours</b> et plus encore<br>Merci de patienter encore un peu jusqu’à la sortie.<br>En remerciement anticipé, voici 1 000 Gemmes 🐾",
+      "pt": "Obrigado por jogar CocoMico Quest!<br>Estamos preparando nossa próxima grande atualização, a <b>Ver. 4.0</b>.<br>・<b>A primeira parte da história chega ao fim</b>: cinco batalhas contra o misterioso gato Kodoku<br>・<b>Formação de grupo</b>: lute ao lado dos seus companheiros<br>・<b>Desafios</b>: cinco novos tipos de desafio<br>・<b>Equipamento Luna</b>: novo equipamento do nível mais alto<br>・<b>Masmorra até o andar 50</b>, o <b>Diário do herói de 7 dias</b>, o <b>Passe de 30 dias</b> e mais<br>Aguarde só mais um pouco até o lançamento.<br>Como agradecimento antecipado, receba 1.000 Gemas 🐾",
+      "it": "Grazie per giocare a CocoMico Quest!<br>Stiamo preparando il nostro prossimo grande aggiornamento, la <b>Ver. 4.0</b>.<br>・<b>Si conclude la prima parte della storia</b>: cinque battaglie contro il misterioso gatto Kodoku<br>・<b>Formazione del gruppo</b>: combatti insieme ai tuoi compagni<br>・<b>Sfide</b>: cinque nuovi tipi di sfida<br>・<b>Equip Luna</b>: nuovo equipaggiamento di grado massimo<br>・<b>Dungeon fino al piano 50</b>, il <b>Diario dell’eroe di 7 giorni</b>, il <b>Pass 30 giorni</b> e altro ancora<br>Attendi ancora un po’ fino all’uscita.<br>Come ringraziamento anticipato, ecco 1.000 Gemme 🐾",
+      "tr": "CocoMico Quest'i oynadığın için teşekkürler!<br>Bir sonraki büyük güncellememiz <b>Ver 4.0</b> üzerinde çalışıyoruz.<br>・<b>Hikâyenin birinci bölümü sona eriyor</b>: gizemli kedi Kodoku ile beş savaş<br>・<b>Takım kurma</b>: yoldaşlarınla birlikte savaş<br>・<b>Meydan Okumalar</b>: beş yeni tür meydan okuma<br>・<b>Luna ekipmanı</b>: en üst seviyede yeni ekipman<br>・<b>Zindanda 50. kat</b>, <b>7 Günlük Kahraman Defteri</b>, <b>30 Günlük Pas</b> ve dahası<br>Yayına kadar biraz daha bekle lütfen.<br>Önceden bir teşekkür olarak 1.000 Cevher hediye ediyoruz 🐾",
+      "ru": "Спасибо, что играете в CocoMico Quest!<br>Мы готовим следующее большое обновление — <b>Ver 4.0</b>.<br>・<b>Завершение первой части истории</b>: пять битв с загадочным котом Кодоку<br>・<b>Сбор отряда</b>: сражайтесь вместе с товарищами<br>・<b>Испытания</b>: пять новых видов испытаний<br>・<b>Снаряжение Луны</b>: новое снаряжение высшего ранга<br>・<b>Подземелье до 50-го этажа</b>, <b>Дневник героя на 7 дней</b>, <b>Пропуск на 30 дней</b> и многое другое<br>Подождите ещё немного до выхода.<br>В знак благодарности заранее дарим 1 000 гемов 🐾",
+      "uk": "Дякуємо, що граєте в CocoMico Quest!<br>Ми готуємо наступне велике оновлення — <b>Ver 4.0</b>.<br>・<b>Завершення першої частини історії</b>: п’ять битв із загадковим котом Кодоку<br>・<b>Збір загону</b>: бийтеся разом із товаришами<br>・<b>Випробування</b>: п’ять нових видів випробувань<br>・<b>Спорядження Луни</b>: нове спорядження найвищого рангу<br>・<b>Підземелля до 50-го поверху</b>, <b>Щоденник героя на 7 днів</b>, <b>Пропуск на 30 днів</b> і багато іншого<br>Зачекайте ще трохи до виходу.<br>На знак подяки наперед даруємо 1 000 гемів 🐾",
+      "vi": "Cảm ơn bạn đã chơi CocoMico Quest!<br>Chúng tôi đang chuẩn bị bản cập nhật lớn tiếp theo <b>Ver 4.0</b>.<br>・<b>Phần 1 của câu chuyện khép lại</b>: 5 trận đấu với chú mèo bí ẩn Kodoku<br>・<b>Lập đội</b>: chiến đấu cùng đồng đội<br>・<b>Thử thách</b>: 5 loại thử thách mới<br>・<b>Trang bị Luna</b>: trang bị mới cấp cao nhất<br>・<b>Hầm ngục tầng 50</b>, <b>Sổ tay anh hùng 7 ngày</b>, <b>Thẻ 30 ngày</b> và nhiều hơn nữa<br>Hãy chờ thêm một chút đến ngày ra mắt nhé.<br>Xin gửi trước 1.000 Ngọc để cảm ơn bạn 🐾",
+      "id": "Terima kasih sudah bermain CocoMico Quest!<br>Kami sedang menyiapkan pembaruan besar berikutnya, <b>Ver 4.0</b>.<br>・<b>Bagian pertama cerita berakhir</b>: lima pertarungan melawan kucing misterius Kodoku<br>・<b>Formasi tim</b>: bertarung bersama teman-temanmu<br>・<b>Tantangan</b>: lima jenis tantangan baru<br>・<b>Perlengkapan Luna</b>: perlengkapan baru tingkat tertinggi<br>・<b>Dungeon sampai lantai 50</b>, <b>Buku Pahlawan 7 Hari</b>, <b>Pass 30 Hari</b>, dan lainnya<br>Tunggu sebentar lagi sampai rilis, ya.<br>Sebagai ucapan terima kasih lebih awal, terimalah 1.000 Gem 🐾",
+      "th": "ขอบคุณที่เล่น CocoMico Quest!<br>เรากำลังเตรียมอัปเดตครั้งใหญ่ <b>Ver 4.0</b><br>・<b>เรื่องราวภาคแรกจบลง</b>: ศึก 5 ครั้งกับแมวปริศนาโคโดคุ<br>・<b>จัดทีม</b>: ต่อสู้ไปพร้อมกับเพื่อนร่วมทาง<br>・<b>โหมดท้าทาย</b>: ความท้าทายใหม่ 5 แบบ<br>・<b>อุปกรณ์ลูน่า</b>: อุปกรณ์ใหม่ระดับสูงสุด<br>・<b>ดันเจี้ยนชั้น 50</b> <b>สมุดผู้กล้า 7 วัน</b> <b>พาส 30 วัน</b> และอื่น ๆ<br>โปรดรออีกสักนิดจนถึงวันเปิดให้เล่น<br>มอบเจม 1,000 ล่วงหน้าเป็นการขอบคุณ 🐾",
+      "pl": "Dziękujemy za grę w CocoMico Quest!<br>Przygotowujemy kolejną dużą aktualizację — <b>Ver 4.0</b>.<br>・<b>Koniec pierwszej części historii</b>: pięć walk z tajemniczym kotem Kodoku<br>・<b>Skład drużyny</b>: walcz razem z towarzyszami<br>・<b>Wyzwania</b>: pięć nowych rodzajów wyzwań<br>・<b>Ekwipunek Luna</b>: nowy ekwipunek najwyższej rangi<br>・<b>Loch do 50. piętra</b>, <b>Dziennik bohatera na 7 dni</b>, <b>Karnet 30 dni</b> i więcej<br>Prosimy o jeszcze chwilę cierpliwości do premiery.<br>W ramach podziękowania z góry przesyłamy 1000 gemów 🐾",
+      "nl": "Bedankt dat je CocoMico Quest speelt!<br>We bereiden onze volgende grote update voor: <b>Ver 4.0</b>.<br>・<b>Deel 1 van het verhaal wordt afgesloten</b>: vijf gevechten met de mysterieuze kat Kodoku<br>・<b>Team samenstellen</b>: vecht samen met je metgezellen<br>・<b>Uitdagingen</b>: vijf nieuwe soorten uitdagingen<br>・<b>Luna-uitrusting</b>: nieuwe uitrusting van de hoogste rang<br>・<b>Dungeon tot verdieping 50</b>, het <b>Heldendagboek van 7 dagen</b>, de <b>30-dagenpas</b> en meer<br>Nog even geduld tot de release.<br>Als bedankje vooraf krijg je 1.000 Gems 🐾",
+      "sv": "Tack för att du spelar CocoMico Quest!<br>Vi förbereder vår nästa stora uppdatering, <b>Ver 4.0</b>.<br>・<b>Första delen av berättelsen avslutas</b>: fem strider mot den mystiska katten Kodoku<br>・<b>Lagsammansättning</b>: slåss tillsammans med dina följeslagare<br>・<b>Utmaningar</b>: fem nya sorters utmaningar<br>・<b>Luna-utrustning</b>: ny utrustning av högsta rang<br>・<b>Dungeon till våning 50</b>, <b>Hjältedagbok för 7 dagar</b>, <b>30-dagarspass</b> och mer<br>Vänta lite till på lanseringen.<br>Som ett tack i förväg får du 1 000 Gems 🐾"
+    },
+    "rw": {
+      "gem": 1000
+    }
+  },
+  {
+    "id": "ads_1004_sorry",
+    "startedBefore": "2026-10-06",
+    "until": "2026-10-31",
+    "title": {
+      "ja": "広告が見られなかった件のお詫び",
+      "en": "Our Apologies: Ads Were Unavailable",
+      "zh": "关于广告无法观看的致歉",
+      "zhTW": "關於廣告無法觀看的致歉",
+      "ko": "광고를 볼 수 없었던 문제에 대한 사과",
+      "de": "Entschuldigung: Werbevideos waren nicht verfügbar",
+      "hi": "विज्ञापन न दिखने के लिए क्षमा",
+      "es": "Disculpas: los anuncios no estaban disponibles",
+      "fr": "Nos excuses : les publicités étaient indisponibles",
+      "pt": "Pedimos desculpas: os anúncios estavam indisponíveis",
+      "it": "Ci scusiamo: gli annunci non erano disponibili",
+      "tr": "Özür dileriz: Reklamlar kullanılamıyordu",
+      "ru": "Приносим извинения: реклама была недоступна",
+      "vi": "Lời xin lỗi: Quảng cáo không khả dụng",
+      "id": "Mohon maaf: Iklan tidak tersedia",
+      "th": "ขออภัย: ไม่สามารถดูโฆษณาได้",
+      "pl": "Przepraszamy: reklamy były niedostępne",
+      "uk": "Перепрошуємо: реклама була недоступна",
+      "nl": "Onze excuses: advertenties waren niet beschikbaar",
+      "sv": "Vi ber om ursäkt: annonserna var inte tillgängliga"
+    },
+    "body": {
+      "ja": "いつもCocoMico Questを遊んでいただきありがとうございます。10月4日から5日にかけて、こちらの広告の配信設定が原因で、<b>動画広告がほとんど表示されない状態</b>になっていました。広告で受け取れるはずだった報酬をお届けできず、申し訳ございません。現在は設定を元に戻しています。お詫びの気持ちを込めて、ジェムと宝石ガチャ券をお受け取りください。",
+      "en": "Thank you for playing CocoMico Quest. From October 4 to 5, a problem with our ad settings meant that <b>video ads almost never appeared</b>. We are sorry you could not receive the rewards you would normally get from them. The settings have now been restored. Please accept these Gems and Gem Gacha Tickets as our apology.",
+      "zh": "感谢你一直游玩《CocoMico Quest》。10月4日至5日期间，由于我们的广告投放设置出现问题，<b>视频广告几乎无法播放</b>。没能让你领取原本可以通过广告获得的奖励，非常抱歉。目前设置已经恢复。请收下钻石与宝石扭蛋券，聊表歉意。",
+      "zhTW": "感謝你一直遊玩《CocoMico Quest》。10月4日至5日期間，由於我們的廣告投放設定出現問題，<b>影片廣告幾乎無法播放</b>。沒能讓你領取原本可以透過廣告獲得的獎勵，非常抱歉。目前設定已經恢復。請收下鑽石與寶石轉蛋券，聊表歉意。",
+      "ko": "항상 CocoMico Quest를 플레이해 주셔서 감사합니다. 10월 4일부터 5일까지 저희 광고 송출 설정의 문제로 <b>동영상 광고가 거의 표시되지 않는 상태</b>였습니다. 광고로 받으실 수 있었던 보상을 드리지 못해 죄송합니다. 현재는 설정을 원래대로 되돌렸습니다. 사과의 마음을 담아 젬과 보석 가챠권을 받아 주세요.",
+      "de": "Danke, dass du CocoMico Quest spielst. Vom 4. bis 5. Oktober wurden wegen eines Fehlers in unseren Werbeeinstellungen <b>kaum Werbevideos angezeigt</b>. Es tut uns leid, dass du die Belohnungen dafür nicht erhalten konntest. Die Einstellungen sind inzwischen wiederhergestellt. Bitte nimm diese Juwelen und Juwelen-Gacha-Tickets als Entschuldigung an.",
+      "hi": "CocoMico Quest खेलने के लिए धन्यवाद। 4 से 5 अक्टूबर के बीच हमारी विज्ञापन सेटिंग की गड़बड़ी के कारण <b>वीडियो विज्ञापन लगभग दिखाई ही नहीं दिए</b>। विज्ञापनों से मिलने वाले इनाम आप तक नहीं पहुँच सके, इसके लिए हमें खेद है। सेटिंग अब ठीक कर दी गई है। क्षमा के रूप में कृपया ये जेम और जेम-गाचा टिकट स्वीकार करें।",
+      "es": "Gracias por jugar a CocoMico Quest. Del 4 al 5 de octubre, un problema en nuestra configuración de anuncios hizo que <b>los anuncios en vídeo casi no aparecieran</b>. Sentimos que no pudieras recibir las recompensas que normalmente se obtienen con ellos. La configuración ya se ha restablecido. Acepta estas Gemas y Tickets de Joya como disculpa.",
+      "fr": "Merci de jouer à CocoMico Quest. Du 4 au 5 octobre, un problème dans nos paramètres publicitaires a fait que <b>les vidéos publicitaires ne s'affichaient presque jamais</b>. Nous sommes désolés que vous n'ayez pas pu recevoir les récompenses habituelles. Les paramètres ont été rétablis. Veuillez accepter ces Gemmes et Tickets Joyau en guise d'excuses.",
+      "pt": "Obrigado por jogar CocoMico Quest. De 4 a 5 de outubro, um problema nas nossas configurações de anúncios fez com que <b>os anúncios em vídeo quase não aparecessem</b>. Lamentamos que você não tenha recebido as recompensas que normalmente ganharia com eles. As configurações já foram restauradas. Aceite estas Gemas e Bilhetes de Joia como pedido de desculpas.",
+      "it": "Grazie per giocare a CocoMico Quest. Dal 4 al 5 ottobre, un problema nelle nostre impostazioni pubblicitarie ha fatto sì che <b>i video pubblicitari non comparissero quasi mai</b>. Ci dispiace che tu non abbia potuto ricevere le ricompense che normalmente si ottengono. Le impostazioni sono state ripristinate. Accetta queste Gemme e Biglietti Gioiello come nostre scuse.",
+      "tr": "CocoMico Quest'i oynadığın için teşekkürler. 4-5 Ekim tarihlerinde reklam ayarlarımızdaki bir sorun nedeniyle <b>video reklamlar neredeyse hiç gösterilmedi</b>. Normalde reklamlardan alacağın ödülleri alamadığın için özür dileriz. Ayarlar artık eski haline getirildi. Lütfen özrümüzün bir göstergesi olarak bu Cevherleri ve Mücevher Biletlerini kabul et.",
+      "ru": "Спасибо, что играете в CocoMico Quest. С 4 по 5 октября из-за ошибки в наших настройках рекламы <b>видеореклама почти не показывалась</b>. Приносим извинения за то, что вы не смогли получить обычные награды за неё. Настройки уже восстановлены. Пожалуйста, примите эти Гемы и Билеты на самоцветы в качестве извинения.",
+      "vi": "Cảm ơn bạn đã chơi CocoMico Quest. Từ ngày 4 đến ngày 5 tháng 10, do sự cố trong cài đặt quảng cáo của chúng tôi, <b>quảng cáo video hầu như không hiển thị</b>. Chúng tôi xin lỗi vì bạn đã không nhận được phần thưởng thường có từ quảng cáo. Cài đặt hiện đã được khôi phục. Xin hãy nhận Ngọc và Vé Đá quý này như lời xin lỗi của chúng tôi.",
+      "id": "Terima kasih telah memainkan CocoMico Quest. Pada 4 hingga 5 Oktober, masalah pada pengaturan iklan kami menyebabkan <b>iklan video hampir tidak pernah muncul</b>. Kami mohon maaf karena Anda tidak dapat menerima hadiah yang biasanya didapat dari iklan. Pengaturan kini telah dipulihkan. Mohon terima Gem dan Tiket Permata ini sebagai permintaan maaf kami.",
+      "th": "ขอบคุณที่เล่น CocoMico Quest ระหว่างวันที่ 4 ถึง 5 ตุลาคม เกิดปัญหาในการตั้งค่าโฆษณาของเรา ทำให้<b>แทบไม่มีโฆษณาวิดีโอแสดง</b> ขออภัยที่คุณไม่ได้รับรางวัลที่ปกติจะได้จากโฆษณา ขณะนี้เราได้คืนค่าการตั้งค่าแล้ว โปรดรับเจมและตั๋วอัญมณีนี้เพื่อเป็นการขออภัย",
+      "pl": "Dziękujemy za grę w CocoMico Quest. Od 4 do 5 października z powodu problemu w naszych ustawieniach reklam <b>reklamy wideo prawie się nie wyświetlały</b>. Przepraszamy, że nie można było otrzymać zwykłych nagród za reklamy. Ustawienia zostały już przywrócone. Prosimy przyjąć te Gemy i Bilety na klejnoty jako przeprosiny.",
+      "uk": "Дякуємо, що граєте в CocoMico Quest. З 4 по 5 жовтня через проблему в наших налаштуваннях реклами <b>відеореклама майже не показувалася</b>. Перепрошуємо, що ви не змогли отримати звичайні нагороди за неї. Налаштування вже відновлено. Будь ласка, прийміть ці Геми та Квитки на самоцвіти як вибачення.",
+      "nl": "Bedankt voor het spelen van CocoMico Quest. Van 4 tot 5 oktober zorgde een probleem in onze advertentie-instellingen ervoor dat <b>videoadvertenties bijna nooit verschenen</b>. Het spijt ons dat je de beloningen die je normaal krijgt niet kon ontvangen. De instellingen zijn inmiddels hersteld. Accepteer deze Gems en Juweeltickets als excuus.",
+      "sv": "Tack för att du spelar CocoMico Quest. Den 4–5 oktober gjorde ett fel i våra annonsinställningar att <b>videoannonser nästan aldrig visades</b>. Vi ber om ursäkt för att du inte kunde få de belöningar du normalt får. Inställningarna har nu återställts. Ta gärna emot dessa Gems och Juvelbiljetter som en ursäkt."
+    },
+    "rw": {
+      "gem": 500,
+      "gtk": 50
+    }
+  },
+  {
+    "id": "save_sorry_1006",
+    "startedBefore": "2026-10-07",
+    "until": "2026-11-30",
+    "rw": {
+      "gem": 3000
+    },
+    "title": {
+      "ja": "セーブデータの不具合のお詫び",
+      "en": "Our Apologies: Save Data Issue",
+      "zh": "关于存档问题的致歉",
+      "zhTW": "關於存檔問題的致歉",
+      "ko": "세이브 데이터 문제에 대한 사과",
+      "de": "Entschuldigung: Problem mit Spielständen",
+      "hi": "सेव डेटा की समस्या के लिए क्षमा",
+      "es": "Disculpas: problema con los datos guardados",
+      "fr": "Nos excuses : problème de sauvegarde",
+      "pt": "Pedimos desculpas: problema nos dados salvos",
+      "it": "Ci scusiamo: problema con i salvataggi",
+      "tr": "Özür dileriz: Kayıt verisi sorunu",
+      "ru": "Приносим извинения: проблема с сохранениями",
+      "uk": "Перепрошуємо: проблема зі збереженнями",
+      "vi": "Lời xin lỗi: Sự cố dữ liệu lưu",
+      "id": "Mohon maaf: Masalah data simpanan",
+      "th": "ขออภัย: ปัญหาข้อมูลเซฟ",
+      "pl": "Przepraszamy: problem z zapisem gry",
+      "nl": "Onze excuses: probleem met opgeslagen voortgang",
+      "sv": "Vi ber om ursäkt: problem med sparad data"
+    },
+    "body": {
+      "ja": "いつもCocoMico Questを遊んで頂き誠にありがとうございます。Ver3.4.0では、同じApple IDの別の端末で遊んだ時や、アプリを入れ直した直後に、<b>進んだセーブデータが進みの少ない記録で上書きされる</b>場合がございました。ご迷惑をお掛けし、大変申し訳ございません。Ver3.4.1でこの不具合を解消し、選ばれなかった方の記録も「iCloudバックアップ」の画面から戻せるように致しました。お詫びの気持ちを込めて、ジェム3,000をお受け取り下さい。なお、新しいコンテンツを追加する大型アップデートは<b>10月中旬</b>の配信を予定しております。今しばらくお待ち下さい。",
+      "en": "Thank you for always playing CocoMico Quest. In Ver 3.4.0, when you played on another device with the same Apple ID or right after reinstalling the app, <b>your more advanced save could be overwritten by a save with less progress</b>. We sincerely apologize for the trouble. Ver 3.4.1 fixes this issue, and the save that was not chosen can now be restored from the \"iCloud Backup\" screen. Please accept 3,000 Gems as our apology. Our next major update with new content is planned for <b>mid-October</b>. Thank you for your patience.",
+      "zh": "感谢你一直游玩《CocoMico Quest》。在 Ver3.4.0 中，当你在同一 Apple ID 的其他设备上游玩，或刚重新安装应用后，<b>进度较多的存档可能会被进度较少的记录覆盖</b>。给你带来困扰，非常抱歉。Ver3.4.1 已修复此问题，未被选择的记录也可以在“iCloud 备份”画面中恢复。请收下 3,000 钻石，聊表歉意。此外，加入新内容的大型更新预计将于<b>10月中旬</b>推出，敬请期待。",
+      "zhTW": "感謝你一直遊玩《CocoMico Quest》。在 Ver3.4.0 中，當你在同一 Apple ID 的其他裝置上遊玩，或剛重新安裝 App 後，<b>進度較多的存檔可能會被進度較少的紀錄覆蓋</b>。造成你的困擾，非常抱歉。Ver3.4.1 已修正此問題，未被選擇的紀錄也可以在「iCloud 備份」畫面中復原。請收下 3,000 鑽石，聊表歉意。此外，加入新內容的大型更新預計於<b>10月中旬</b>推出，敬請期待。",
+      "ko": "항상 CocoMico Quest를 플레이해 주셔서 감사합니다. Ver3.4.0에서는 같은 Apple ID의 다른 기기에서 플레이하거나 앱을 다시 설치한 직후에 <b>더 진행된 세이브 데이터가 진행이 적은 기록으로 덮어써지는</b> 경우가 있었습니다. 불편을 드려 대단히 죄송합니다. Ver3.4.1에서 이 문제를 해결했으며, 선택하지 않은 쪽의 기록도 \"iCloud 백업\" 화면에서 되돌릴 수 있게 되었습니다. 사과의 마음을 담아 젬 3,000개를 받아 주세요. 또한 새로운 콘텐츠를 추가하는 대형 업데이트는 <b>10월 중순</b>에 배포할 예정입니다. 조금만 기다려 주세요.",
+      "de": "Danke, dass du CocoMico Quest spielst. In Ver. 3.4.0 konnte <b>dein weiter fortgeschrittener Spielstand durch einen mit weniger Fortschritt überschrieben werden</b>, wenn du auf einem anderen Gerät mit derselben Apple-ID gespielt oder die App gerade neu installiert hattest. Das tut uns sehr leid. Ver. 3.4.1 behebt dieses Problem, und der nicht gewählte Spielstand lässt sich jetzt im Bildschirm „iCloud-Backup\" wiederherstellen. Bitte nimm 3.000 Juwelen als Entschuldigung an. Das nächste große Update mit neuen Inhalten ist für <b>Mitte Oktober</b> geplant. Danke für deine Geduld.",
+      "hi": "CocoMico Quest खेलने के लिए धन्यवाद। Ver 3.4.0 में, उसी Apple ID वाले दूसरे डिवाइस पर खेलने पर या ऐप दोबारा इंस्टॉल करने के तुरंत बाद, <b>आपका आगे बढ़ा हुआ सेव कम प्रगति वाले रिकॉर्ड से बदल सकता था</b>। हुई परेशानी के लिए हमें बहुत खेद है। Ver 3.4.1 में यह समस्या ठीक कर दी गई है, और जो रिकॉर्ड नहीं चुना गया वह अब \"iCloud बैकअप\" स्क्रीन से वापस लाया जा सकता है। क्षमा के रूप में कृपया 3,000 जेम स्वीकार करें। नई सामग्री वाला बड़ा अपडेट <b>अक्टूबर के मध्य</b> में आने वाला है। थोड़ा इंतज़ार करें।",
+      "es": "Gracias por jugar siempre a CocoMico Quest. En la Ver. 3.4.0, al jugar en otro dispositivo con el mismo Apple ID o justo después de reinstalar la app, <b>tu partida más avanzada podía sobrescribirse con una de menor progreso</b>. Lamentamos mucho las molestias. La Ver. 3.4.1 corrige este problema y ahora la partida no elegida se puede restaurar desde la pantalla \"Copia en iCloud\". Acepta 3.000 Gemas como disculpa. La próxima gran actualización con contenido nuevo está prevista para <b>mediados de octubre</b>. Gracias por tu paciencia.",
+      "fr": "Merci de jouer à CocoMico Quest. Dans la Ver. 3.4.0, en jouant sur un autre appareil avec le même identifiant Apple ou juste après avoir réinstallé l'app, <b>votre sauvegarde la plus avancée pouvait être remplacée par une sauvegarde moins avancée</b>. Nous sommes vraiment désolés pour ce désagrément. La Ver. 3.4.1 corrige ce problème, et la sauvegarde non choisie peut désormais être restaurée depuis l'écran « Sauvegarde iCloud ». Veuillez accepter 3 000 Gemmes en guise d'excuses. La prochaine grande mise à jour avec du nouveau contenu est prévue pour <b>la mi-octobre</b>. Merci de votre patience.",
+      "pt": "Obrigado por jogar CocoMico Quest. Na Ver. 3.4.0, ao jogar em outro dispositivo com o mesmo ID Apple ou logo após reinstalar o app, <b>seu save mais avançado podia ser substituído por um com menos progresso</b>. Pedimos sinceras desculpas pelo transtorno. A Ver. 3.4.1 corrige esse problema, e o save não escolhido agora pode ser restaurado na tela \"Backup no iCloud\". Aceite 3.000 Gemas como pedido de desculpas. A próxima grande atualização com conteúdo novo está prevista para <b>meados de outubro</b>. Obrigado pela paciência.",
+      "it": "Grazie per giocare sempre a CocoMico Quest. Nella Ver. 3.4.0, giocando su un altro dispositivo con lo stesso ID Apple o subito dopo aver reinstallato l'app, <b>il salvataggio più avanzato poteva essere sovrascritto da uno con meno progressi</b>. Ci scusiamo sinceramente per il disagio. La Ver. 3.4.1 risolve il problema e ora il salvataggio non scelto si può ripristinare dalla schermata \"Backup iCloud\". Accetta 3.000 Gemme come nostre scuse. Il prossimo grande aggiornamento con nuovi contenuti è previsto per <b>metà ottobre</b>. Grazie per la pazienza.",
+      "tr": "CocoMico Quest'i oynadığın için teşekkürler. Ver 3.4.0'da aynı Apple Kimliği ile başka bir cihazda oynadığında ya da uygulamayı yeniden yükledikten hemen sonra <b>daha ilerideki kaydın, daha az ilerlemiş bir kayıtla üzerine yazılabiliyordu</b>. Yaşattığımız sorun için çok özür dileriz. Ver 3.4.1 bu sorunu düzeltti; seçilmeyen kayıt artık \"iCloud yedeği\" ekranından geri yüklenebiliyor. Özrümüzün bir göstergesi olarak lütfen 3.000 Cevher kabul et. Yeni içerik ekleyen büyük güncellememiz <b>Ekim ortasında</b> yayınlanacak. Sabrın için teşekkürler.",
+      "ru": "Спасибо, что играете в CocoMico Quest. В Ver 3.4.0 при игре на другом устройстве с тем же Apple ID или сразу после переустановки приложения <b>более продвинутое сохранение могло перезаписаться сохранением с меньшим прогрессом</b>. Приносим искренние извинения за неудобства. В Ver 3.4.1 проблема исправлена, а невыбранное сохранение теперь можно восстановить на экране «Резервная копия iCloud». Пожалуйста, примите 3 000 Гемов в качестве извинения. Следующее крупное обновление с новым контентом запланировано на <b>середину октября</b>. Спасибо за терпение.",
+      "uk": "Дякуємо, що граєте в CocoMico Quest. У Ver 3.4.0 під час гри на іншому пристрої з тим самим Apple ID або одразу після перевстановлення застосунку <b>більш просунуте збереження могло перезаписатися збереженням із меншим прогресом</b>. Щиро перепрошуємо за незручності. У Ver 3.4.1 проблему виправлено, а невибране збереження тепер можна відновити на екрані «Резервна копія iCloud». Будь ласка, прийміть 3 000 Гемів як вибачення. Наступне велике оновлення з новим вмістом заплановано на <b>середину жовтня</b>. Дякуємо за терпіння.",
+      "vi": "Cảm ơn bạn đã luôn chơi CocoMico Quest. Ở Ver 3.4.0, khi chơi trên thiết bị khác dùng cùng Apple ID hoặc ngay sau khi cài lại ứng dụng, <b>dữ liệu lưu tiến xa hơn có thể bị ghi đè bởi bản ghi ít tiến độ hơn</b>. Chúng tôi thành thật xin lỗi vì sự bất tiện này. Ver 3.4.1 đã khắc phục sự cố, và bản ghi không được chọn giờ có thể khôi phục từ màn hình \"Sao lưu iCloud\". Xin hãy nhận 3.000 Ngọc như lời xin lỗi. Bản cập nhật lớn với nội dung mới dự kiến phát hành vào <b>giữa tháng 10</b>. Cảm ơn bạn đã kiên nhẫn.",
+      "id": "Terima kasih selalu memainkan CocoMico Quest. Di Ver 3.4.0, saat bermain di perangkat lain dengan Apple ID yang sama atau tepat setelah menginstal ulang aplikasi, <b>data simpanan yang lebih maju bisa tertimpa oleh catatan dengan kemajuan lebih sedikit</b>. Kami mohon maaf sebesar-besarnya atas ketidaknyamanan ini. Ver 3.4.1 memperbaiki masalah ini, dan catatan yang tidak dipilih kini bisa dipulihkan dari layar \"Cadangan iCloud\". Mohon terima 3.000 Gem sebagai permintaan maaf kami. Pembaruan besar dengan konten baru direncanakan pada <b>pertengahan Oktober</b>. Terima kasih atas kesabaranmu.",
+      "th": "ขอบคุณที่เล่น CocoMico Quest เสมอมา ใน Ver 3.4.0 เมื่อเล่นบนอุปกรณ์อื่นที่ใช้ Apple ID เดียวกัน หรือทันทีหลังติดตั้งแอปใหม่ <b>ข้อมูลเซฟที่ก้าวหน้ากว่าอาจถูกเขียนทับด้วยบันทึกที่ก้าวหน้าน้อยกว่า</b> ขออภัยเป็นอย่างยิ่งในความไม่สะดวก Ver 3.4.1 ได้แก้ไขปัญหานี้แล้ว และบันทึกที่ไม่ได้เลือกสามารถกู้คืนได้จากหน้า \"สำรองข้อมูล iCloud\" โปรดรับเจม 3,000 เพื่อเป็นการขออภัย อัปเดตใหญ่ที่เพิ่มเนื้อหาใหม่มีกำหนดเปิดให้บริการ<b>กลางเดือนตุลาคม</b> ขอบคุณที่รอคอย",
+      "pl": "Dziękujemy, że grasz w CocoMico Quest. W Ver 3.4.0 podczas gry na innym urządzeniu z tym samym Apple ID lub tuż po ponownej instalacji aplikacji <b>bardziej zaawansowany zapis mógł zostać nadpisany zapisem z mniejszym postępem</b>. Bardzo przepraszamy za kłopot. Ver 3.4.1 naprawia ten problem, a niewybrany zapis można teraz przywrócić na ekranie „Kopia iCloud\". Prosimy przyjąć 3000 Gemów jako przeprosiny. Następna duża aktualizacja z nową zawartością jest planowana na <b>połowę października</b>. Dziękujemy za cierpliwość.",
+      "nl": "Bedankt dat je CocoMico Quest speelt. In Ver 3.4.0 kon <b>je verder gevorderde voortgang worden overschreven door voortgang met minder vooruitgang</b> als je op een ander apparaat met dezelfde Apple ID speelde of de app net opnieuw had geïnstalleerd. Het spijt ons zeer. Ver 3.4.1 lost dit op, en de niet gekozen voortgang kan nu worden hersteld via het scherm \"iCloud-back-up\". Accepteer 3.000 Gems als excuus. De volgende grote update met nieuwe inhoud staat gepland voor <b>half oktober</b>. Bedankt voor je geduld.",
+      "sv": "Tack för att du spelar CocoMico Quest. I Ver 3.4.0 kunde <b>din mer avancerade sparfil skrivas över av en med mindre framsteg</b> när du spelade på en annan enhet med samma Apple-ID eller precis efter att ha installerat om appen. Vi ber verkligen om ursäkt. Ver 3.4.1 åtgärdar problemet, och sparfilen som inte valdes kan nu återställas från skärmen \"iCloud-säkerhetskopia\". Ta gärna emot 3 000 Gems som en ursäkt. Nästa stora uppdatering med nytt innehåll planeras till <b>mitten av oktober</b>. Tack för ditt tålamod."
+    }
   }
- },
- {
-  "id": "ver31_thanks",
-  "existingOnly": "3.1.0",
-  "until": "2027-06-30",
-  "title": {
-   "ja": "Ver3.1アップデートの御礼",
-   "en": "Thanks for Updating to Ver 3.1",
-   "zh": "Ver3.1 更新答谢礼",
-   "zhTW": "Ver3.1 更新答謝禮",
-   "ko": "Ver3.1 업데이트 감사 선물",
-   "de": "Danke für das Update auf Ver. 3.1",
-   "hi": "Ver3.1 अपडेट के लिए धन्यवाद",
-   "es": "Gracias por actualizar a Ver3.1"
-  },
-  "body": {
-   "ja": "いつもCocoMico Questを遊んでいただきありがとうございます！ Ver3.1では、能力値の999の壁を<b>ねこ魂で越えられる</b>ようになり、St1000の先に<b>深淵</b>が開きました。アイテム図鑑は48種に、宝石ガチャには100連、ランキングには討伐イベントと転生回数、そしてライバル指名が加わっています。セーブはiCloudにも守られるようになりました。感謝の気持ちを込めた贈り物をどうぞ🐾",
-   "en": "Thank you for playing CocoMico Quest! In Ver 3.1 the 999 stat cap can now be <b>lifted with Cat Souls</b>, and the <b>Abyss</b> opens beyond Stage 1000. The item book grew to 48 kinds, the Gem Gacha gained a 100-pull, and the rankings now include Raid Event boards, Rebirth count and rivals. Your save is also backed up to iCloud. Please accept this gift as our thanks 🐾",
-   "zh": "感谢你一直游玩《CocoMico Quest》！Ver3.1 中，能力值 999 的上限可以<b>用猫魂突破</b>，第1000层之后的<b>深渊</b>也已开放。道具图鉴增至48种，宝石扭蛋新增100连，排行榜加入了讨伐活动、转生次数以及对手指定。存档还会自动备份到 iCloud。请收下这份感谢的礼物🐾",
-   "zhTW": "感謝你一直遊玩《CocoMico Quest》！Ver3.1 中，能力值 999 的上限可以<b>用貓魂突破</b>，第1000層之後的<b>深淵</b>也已開放。道具圖鑑增至48種，寶石轉蛋新增100連，排行榜加入了討伐活動、轉生次數以及對手指定。存檔還會自動備份到 iCloud。請收下這份感謝的禮物🐾",
-   "ko": "항상 CocoMico Quest를 플레이해 주셔서 감사합니다! Ver3.1에서는 능력치 999의 벽을 <b>고양이 영혼으로 넘을 수</b> 있게 되었고, St1000 너머에 <b>심연</b>이 열렸습니다. 아이템 도감은 48종으로, 보석 가챠에는 100연차가, 랭킹에는 토벌 이벤트와 환생 횟수, 그리고 라이벌 지정이 더해졌어요. 세이브는 iCloud에도 보관됩니다. 감사의 선물을 받아 주세요 🐾",
-   "de": "Danke, dass du CocoMico Quest spielst! In Ver. 3.1 lässt sich das 999er-Limit der Werte <b>mit Katzenseelen anheben</b>, und jenseits von Stufe 1000 öffnet sich der <b>Abgrund</b>. Das Item-Buch ist auf 48 Sorten gewachsen, das Juwelen-Gacha hat einen 100er-Zug, und die Ranglisten umfassen jetzt das Raid-Event, Wiedergeburten und Rivalen. Dein Spielstand wird zudem in iCloud gesichert. Viel Freude mit diesem Geschenk 🐾",
-   "hi": "CocoMico Quest खेलने के लिए धन्यवाद! Ver3.1 में 999 की स्टेट सीमा को <b>कैट सोल से पार</b> किया जा सकता है, और स्टेज 1000 के आगे <b>एबिस</b> खुल गया है। आइटम बुक 48 तरह की हो गई, जेम गाचा में ×100 पुल आया, और रैंकिंग में रेड इवेंट, पुनर्जन्म संख्या और राइवल जुड़े। आपका सेव iCloud में भी सुरक्षित रहता है। यह उपहार स्वीकार करें 🐾",
-   "es": "¡Gracias por jugar a CocoMico Quest! En la Ver3.1 el tope de 999 en los stats se puede <b>superar con Almas de Gato</b>, y tras el Nv1000 se abre el <b>Abismo</b>. El códice llegó a 48 tipos, el Gacha de Joyas tiene tiradas ×100, y en las clasificaciones se añadieron el evento de incursión, los renaceres y los rivales. Tu partida también se guarda en iCloud. Acepta este regalo como agradecimiento 🐾"
-  },
-  "rw": {
-   "gem": 1000,
-   "gtk": 100
-  }
- },
- {
-  "id": "ver32_thanks",
-  "existingOnly": "3.2.0",
-  "until": "2027-06-30",
-  "title": {
-   "ja": "Ver3.2アップデートの御礼",
-   "en": "Thanks for Updating to Ver 3.2",
-   "zh": "Ver3.2 更新答谢礼",
-   "zhTW": "Ver3.2 更新答謝禮",
-   "ko": "Ver3.2 업데이트 감사 선물",
-   "de": "Danke für das Update auf Ver. 3.2",
-   "hi": "Ver3.2 अपडेट के लिए धन्यवाद",
-   "es": "Gracias por actualizar a Ver3.2"
-  },
-  "body": {
-   "ja": "いつもCocoMico Questを遊んでいただきありがとうございます！ Ver3.2では<b>友達招待</b>を追加しました。招待コードを贈り合うと、二人ともジェムと宝石ガチャ券を受け取れます。あわせて<b>Mac</b>でも遊べるようになり、<b>ガチャと強化の演出</b>を全面的に作り直しました。新しい演出を見に行く前に、感謝の気持ちをお受け取りください🐾",
-   "en": "Thank you for playing CocoMico Quest! Ver 3.2 adds <b>Friend Invites</b> — share your code and you both receive Gems and Gem Gacha Tickets. The game now runs on <b>Mac</b> as well, and the <b>gacha and enhancement effects</b> have been rebuilt from the ground up. Please accept this gift before you go and see them 🐾",
-   "zh": "感谢你一直游玩《CocoMico Quest》！Ver3.2 新增了<b>好友邀请</b>，互相赠送邀请码，双方都能获得钻石与宝石扭蛋券。同时游戏也支持<b>Mac</b>了，并且<b>扭蛋与强化的演出</b>已全面重制。在去看新演出之前，请收下这份感谢的礼物🐾",
-   "zhTW": "感謝你一直遊玩《CocoMico Quest》！Ver3.2 新增了<b>好友邀請</b>，互相贈送邀請碼，雙方都能獲得鑽石與寶石轉蛋券。同時遊戲也支援<b>Mac</b>了，並且<b>轉蛋與強化的演出</b>已全面重製。在去看新演出之前，請收下這份感謝的禮物🐾",
-   "ko": "항상 CocoMico Quest를 플레이해 주셔서 감사합니다! Ver3.2에는 <b>친구 초대</b>가 추가되었어요. 초대 코드를 주고받으면 두 사람 모두 젬과 보석 가챠권을 받을 수 있습니다. 또한 <b>Mac</b>에서도 즐길 수 있게 되었고, <b>가챠와 강화 연출</b>을 전면적으로 새로 만들었어요. 새 연출을 보러 가기 전에 감사의 선물을 받아 주세요 🐾",
-   "de": "Danke, dass du CocoMico Quest spielst! Ver. 3.2 bringt <b>Freunde einladen</b> — teilt euren Code, und ihr beide erhaltet Juwelen und Juwelen-Gacha-Tickets. Das Spiel läuft jetzt auch auf dem <b>Mac</b>, und die <b>Gacha- und Verstärkungseffekte</b> wurden komplett neu gebaut. Nimm dieses Geschenk an, bevor du sie dir ansiehst 🐾",
-   "hi": "CocoMico Quest खेलने के लिए धन्यवाद! Ver3.2 में <b>फ्रेंड इनवाइट</b> जुड़ा है — कोड शेयर करें और दोनों को जेम और जेम-गाचा टिकट मिलेंगे। गेम अब <b>Mac</b> पर भी चलता है, और <b>गाचा और एन्हांस के इफेक्ट</b> पूरी तरह नए बनाए गए हैं। उन्हें देखने जाने से पहले यह उपहार स्वीकार करें 🐾",
-   "es": "¡Gracias por jugar a CocoMico Quest! La Ver3.2 añade <b>Invitar amigos</b>: al intercambiar códigos, los dos recibís Gemas y Tickets de Joya. Además ya se puede jugar en <b>Mac</b> y hemos rehecho por completo <b>los efectos del gacha y de la mejora</b>. Antes de ir a verlos, acepta nuestro agradecimiento 🐾"
-  },
-  "rw": {
-   "gem": 1000,
-   "gtk": 100
-  }
- },
- {
-  "id": "ver33_thanks",
-  "existingOnly": "3.3.0",
-  "until": "2027-06-30",
-  "title": {
-   "ja": "Ver3.3アップデートの御礼",
-   "en": "Thanks for Updating to Ver 3.3",
-   "zh": "Ver3.3 更新答谢礼",
-   "zhTW": "Ver3.3 更新答謝禮",
-   "ko": "Ver3.3 업데이트 감사 선물",
-   "de": "Danke für das Update auf Ver. 3.3",
-   "hi": "Ver3.3 अपडेट के लिए धन्यवाद",
-   "es": "Gracias por actualizar a Ver3.3"
-  },
-  "body": {
-   "ja": "いつもCocoMico Questを遊んでいただきありがとうございます！ Ver3.3では、長く遊んでも<b>本体が熱くなりにくい</b>ように描画の仕組みを全面的に見直しました。端末が熱い時や低電力モードの時は、自動で軽い描画に切り替わります。あわせて、<b>放置報酬が受け取れなくなる</b>不具合と、<b>転職の後に画面下のタブが切れる</b>不具合を直しました。感謝の気持ちを込めた贈り物をどうぞ🐾",
-   "en": "Thank you for playing CocoMico Quest! In Ver 3.3 we reworked how the game draws so your <b>device stays cooler</b> during long sessions - it switches to lighter graphics automatically when the device gets warm or Low Power Mode is on. We also fixed a bug where <b>idle rewards could be lost</b> and one where <b>the bottom tabs were cut off after a job change</b>. Please accept this gift as our thanks 🐾",
-   "zh": "感谢你一直游玩《CocoMico Quest》！Ver3.3 全面调整了绘制方式，<b>长时间游玩也不易发热</b>。当机身变热或开启低电量模式时，会自动切换为更轻的画面。同时修正了<b>放置奖励无法领取</b>的问题，以及<b>转职后底部标签被截断</b>的问题。请收下这份感谢的礼物🐾",
-   "zhTW": "感謝你一直遊玩《CocoMico Quest》！Ver3.3 全面調整了繪製方式，<b>長時間遊玩也不易發熱</b>。當機身變熱或開啟低耗電模式時，會自動切換為更輕的畫面。同時修正了<b>放置獎勵無法領取</b>的問題，以及<b>轉職後底部標籤被截斷</b>的問題。請收下這份感謝的禮物🐾",
-   "ko": "항상 CocoMico Quest를 플레이해 주셔서 감사합니다! Ver3.3에서는 오래 플레이해도 <b>기기가 덜 뜨거워지도록</b> 그리는 방식을 전면적으로 손봤습니다. 기기가 뜨겁거나 저전력 모드일 때는 자동으로 가벼운 그래픽으로 바뀝니다. 또한 <b>방치 보상을 받지 못하는</b> 문제와 <b>전직 후 하단 탭이 잘리는</b> 문제를 수정했어요. 감사의 선물을 받아 주세요 🐾",
-   "de": "Danke, dass du CocoMico Quest spielst! In Ver. 3.3 haben wir die Darstellung überarbeitet, damit dein <b>Gerät auch bei langen Sitzungen kühler bleibt</b> - wird es warm oder ist der Stromsparmodus an, schaltet das Spiel automatisch auf eine sparsamere Grafik. Außerdem haben wir einen Fehler behoben, bei dem <b>Offline-Belohnungen verloren gehen konnten</b>, und einen, bei dem <b>die unteren Tabs nach einem Klassenwechsel abgeschnitten waren</b>. Viel Freude mit diesem Geschenk 🐾",
-   "hi": "CocoMico Quest खेलने के लिए धन्यवाद! Ver3.3 में हमने ड्रॉइंग का तरीका पूरी तरह बदला है ताकि लंबे समय तक खेलने पर भी <b>डिवाइस कम गर्म हो</b>। डिवाइस गर्म होने या लो पावर मोड में ग्राफ़िक्स अपने आप हल्के हो जाते हैं। साथ ही <b>आइडल इनाम न मिलने</b> वाली और <b>जॉब बदलने के बाद नीचे के टैब कट जाने</b> वाली गड़बड़ी ठीक की। यह उपहार स्वीकार करें 🐾",
-   "es": "¡Gracias por jugar a CocoMico Quest! En la Ver3.3 hemos revisado a fondo cómo dibuja el juego para que <b>el dispositivo se caliente menos</b> en partidas largas: si se calienta o activas el modo de bajo consumo, pasa solo a gráficos más ligeros. También corregimos un fallo por el que <b>se perdían las recompensas inactivas</b> y otro que <b>cortaba las pestañas inferiores tras cambiar de clase</b>. Acepta este regalo como agradecimiento 🐾"
-  },
-  "rw": {
-   "gem": 1000,
-   "gtk": 100
-  }
- },
- {
-  "id": "dl1000_thanks",
-  "startedBefore": "2026-09-21",
-  "until": "2027-06-30",
-  "title": {
-   "ja": "1,000ダウンロード記念のおくりもの",
-   "en": "1,000 Downloads - Thank You Gift",
-   "zh": "1,000 次下载纪念礼物",
-   "zhTW": "1,000 次下載紀念禮物",
-   "ko": "1,000 다운로드 기념 선물",
-   "de": "1.000 Downloads - Dankeschön",
-   "hi": "1,000 डाउनलोड - धन्यवाद उपहार",
-   "es": "1.000 descargas: regalo de agradecimiento"
-  },
-  "body": {
-   "ja": "おかげさまで、CocoMico Quest のダウンロードが<b>1,000本</b>を超えました！ 遊んでくださっているみなさんのおかげです。本当にありがとうございます。記念に<b>ジェム3,000</b>をお贈りします。これからもココとミコの冒険をよろしくお願いします🐾",
-   "en": "CocoMico Quest has passed <b>1,000 downloads</b>! That is thanks to everyone playing - we are truly grateful. Please accept <b>3,000 Gems</b> to celebrate, and enjoy many more adventures with Coco and Mico 🐾",
-   "zh": "《CocoMico Quest》的下载量已突破<b>1,000次</b>！这都要感谢一直游玩的各位，真的非常感谢。为纪念这一刻，送上<b>钻石3,000</b>。今后也请多多关照可可和米可的冒险🐾",
-   "zhTW": "《CocoMico Quest》的下載量已突破<b>1,000次</b>！這都要感謝一直遊玩的各位，真的非常感謝。為紀念這一刻，送上<b>鑽石3,000</b>。今後也請多多指教可可和米可的冒險🐾",
-   "ko": "CocoMico Quest의 다운로드가 <b>1,000회</b>를 넘었습니다! 플레이해 주시는 여러분 덕분이에요. 정말 감사합니다. 기념으로 <b>젬 3,000</b>을 보내 드립니다. 앞으로도 코코와 미코의 모험을 잘 부탁드려요 🐾",
-   "de": "CocoMico Quest hat <b>1.000 Downloads</b> überschritten! Das verdanken wir allen, die spielen - vielen Dank. Nimm zur Feier <b>3.000 Juwelen</b> und erlebe noch viele Abenteuer mit Coco und Mico 🐾",
-   "hi": "CocoMico Quest के <b>1,000 डाउनलोड</b> पूरे हो गए! यह सब खेलने वाले आप सबकी वजह से है - बहुत-बहुत धन्यवाद। इस मौके पर <b>3,000 जेम</b> स्वीकार करें, और कोको व मिको के साथ और भी रोमांच का मज़ा लें 🐾",
-   "es": "¡CocoMico Quest ha superado las <b>1.000 descargas</b>! Es gracias a todos los que jugáis: muchísimas gracias. Acepta <b>3.000 Gemas</b> para celebrarlo y disfruta de muchas más aventuras con Coco y Mico 🐾"
-  },
-  "rw": {
-   "gem": 3000
-  }
- },
- {
-  "id": "ver34_thanks",
-  "existingOnly": "3.4.0",
-  "until": "2027-06-30",
-  "title": {
-   "ja": "Ver3.4アップデートの御礼",
-   "en": "Thanks for Updating to Ver 3.4",
-   "ko": "Ver3.4 업데이트 감사 선물",
-   "de": "Danke fürs Update auf Ver 3.4",
-   "hi": "Ver 3.4 अपडेट के लिए धन्यवाद",
-   "zh": "Ver3.4 更新感谢礼",
-   "zhTW": "Ver3.4 更新感謝禮",
-   "es": "Gracias por actualizar a la Ver 3.4",
-   "fr": "Merci pour la mise à jour Ver 3.4",
-   "pt": "Obrigado por atualizar para a Ver 3.4",
-   "it": "Grazie per l’aggiornamento alla Ver 3.4",
-   "tr": "Ver 3.4 güncellemesi için teşekkürler",
-   "ru": "Спасибо за обновление до Ver 3.4",
-   "uk": "Дякуємо за оновлення до Ver 3.4",
-   "vi": "Cảm ơn bạn đã cập nhật Ver 3.4",
-   "id": "Terima kasih sudah memperbarui ke Ver 3.4",
-   "th": "ขอบคุณที่อัปเดตเป็น Ver 3.4",
-   "pl": "Dziękujemy za aktualizację do Ver 3.4",
-   "nl": "Bedankt voor het updaten naar Ver 3.4",
-   "sv": "Tack för att du uppdaterade till Ver 3.4"
-  },
-  "body": {
-   "ja": "いつもCocoMico Questを遊んでいただきありがとうございます！ Ver3.4では<b>13の言語を追加</b>し、20言語で遊べるようになりました。あわせて、<b>モンスター図鑑を開くとアプリが終了する</b>ことがある不具合を直し、1回の攻撃で出せる<b>ダメージの上限を1000倍</b>に引き上げました。感謝の気持ちを込めた贈り物をどうぞ🐾",
-   "en": "Thank you for playing CocoMico Quest! Ver 3.4 <b>adds 13 languages</b>, so the game is now playable in 20. We also fixed a bug where <b>opening the Monster Codex could close the app</b>, and raised the <b>damage cap per hit by 1000×</b>. Please accept this gift as our thanks 🐾",
-   "ko": "언제나 CocoMico Quest를 즐겨 주셔서 감사합니다! Ver3.4에서는 <b>13개 언어를 추가</b>해 20개 언어로 즐길 수 있게 되었습니다. 또한 <b>몬스터 도감을 열면 앱이 종료되는</b> 문제를 고치고, 1회 공격의 <b>대미지 상한을 1000배</b>로 올렸습니다. 감사의 마음을 담은 선물을 받아 주세요🐾",
-   "de": "Danke, dass du CocoMico Quest spielst! Mit Ver 3.4 kommen <b>13 neue Sprachen</b> hinzu – das Spiel gibt es jetzt in 20 Sprachen. Außerdem haben wir einen Fehler behoben, bei dem <b>sich die App beim Öffnen des Monster-Kodex schließen</b> konnte, und die <b>Schadensobergrenze pro Treffer um das 1000-Fache</b> angehoben. Bitte nimm dieses Geschenk als Dankeschön an 🐾",
-   "hi": "CocoMico Quest खेलने के लिए धन्यवाद! Ver 3.4 में <b>13 नई भाषाएँ</b> जोड़ी गई हैं, अब गेम 20 भाषाओं में खेला जा सकता है। साथ ही <b>मॉन्स्टर कोडेक्स खोलने पर ऐप बंद हो जाने</b> की समस्या ठीक की गई है, और एक वार में <b>नुकसान की सीमा 1000 गुना</b> कर दी गई है। धन्यवाद के रूप में यह उपहार स्वीकार करें🐾",
-   "zh": "感谢您一直以来游玩 CocoMico Quest！Ver3.4 <b>新增了13种语言</b>，现在可以用20种语言游玩。同时修复了<b>打开怪物图鉴时应用可能退出</b>的问题，并将单次攻击的<b>伤害上限提高到1000倍</b>。请收下这份感谢的礼物🐾",
-   "zhTW": "感謝您一直以來遊玩 CocoMico Quest！Ver3.4 <b>新增了13種語言</b>，現在可以用20種語言遊玩。同時修正了<b>打開怪物圖鑑時應用程式可能關閉</b>的問題，並將單次攻擊的<b>傷害上限提高到1000倍</b>。請收下這份感謝的禮物🐾",
-   "es": "¡Gracias por jugar a CocoMico Quest! La Ver 3.4 <b>añade 13 idiomas</b>, así que ahora puedes jugar en 20. También corregimos un error por el que <b>la app podía cerrarse al abrir el Códice de Monstruos</b> y multiplicamos por <b>1000 el límite de daño por golpe</b>. Acepta este regalo como agradecimiento 🐾",
-   "fr": "Merci de jouer à CocoMico Quest ! La Ver 3.4 <b>ajoute 13 langues</b> : le jeu est désormais disponible en 20 langues. Nous avons aussi corrigé un bug où <b>l’app pouvait se fermer en ouvrant le Codex des Monstres</b>, et multiplié par <b>1000 la limite de dégâts par coup</b>. Merci d’accepter ce cadeau en remerciement 🐾",
-   "pt": "Obrigado por jogar CocoMico Quest! A Ver 3.4 <b>adiciona 13 idiomas</b>, e agora dá para jogar em 20. Também corrigimos um erro em que <b>o app podia fechar ao abrir o Codex de Monstros</b> e aumentamos o <b>limite de dano por golpe em 1000×</b>. Aceite este presente como agradecimento 🐾",
-   "it": "Grazie per giocare a CocoMico Quest! La Ver 3.4 <b>aggiunge 13 lingue</b>: ora il gioco è disponibile in 20. Abbiamo anche corretto un errore per cui <b>l’app poteva chiudersi aprendo il Codex Mostri</b> e aumentato di <b>1000 volte il limite di danno per colpo</b>. Accetta questo regalo come ringraziamento 🐾",
-   "tr": "CocoMico Quest oynadığın için teşekkürler! Ver 3.4 ile <b>13 yeni dil eklendi</b>, oyun artık 20 dilde oynanabiliyor. Ayrıca <b>Canavar Kodeksi açılınca uygulamanın kapanabildiği</b> hatayı düzelttik ve vuruş başına <b>hasar sınırını 1000 katına</b> çıkardık. Teşekkür hediyemizi kabul et 🐾",
-   "ru": "Спасибо, что играете в CocoMico Quest! В Ver 3.4 <b>добавлено 13 языков</b> — теперь игра доступна на 20. Также исправлена ошибка, из-за которой <b>приложение могло закрыться при открытии Кодекса монстров</b>, а <b>предел урона за удар увеличен в 1000 раз</b>. Примите этот подарок в знак благодарности 🐾",
-   "uk": "Дякуємо, що граєте в CocoMico Quest! У Ver 3.4 <b>додано 13 мов</b> — тепер гра доступна 20 мовами. Також виправлено помилку, через яку <b>застосунок міг закритися під час відкриття Кодексу монстрів</b>, а <b>межу шкоди за удар збільшено в 1000 разів</b>. Прийміть цей подарунок на знак подяки 🐾",
-   "vi": "Cảm ơn bạn đã chơi CocoMico Quest! Ver 3.4 <b>thêm 13 ngôn ngữ</b>, giờ đây bạn có thể chơi bằng 20 ngôn ngữ. Chúng tôi cũng đã sửa lỗi <b>ứng dụng có thể tắt khi mở Đồ giám quái vật</b> và nâng <b>giới hạn sát thương mỗi đòn lên 1000 lần</b>. Xin hãy nhận món quà cảm ơn này 🐾",
-   "id": "Terima kasih sudah bermain CocoMico Quest! Ver 3.4 <b>menambahkan 13 bahasa</b>, jadi game kini bisa dimainkan dalam 20 bahasa. Kami juga memperbaiki bug yang <b>membuat aplikasi tertutup saat membuka Buku Monster</b>, dan menaikkan <b>batas kerusakan per serangan hingga 1000×</b>. Terimalah hadiah ini sebagai ucapan terima kasih 🐾",
-   "th": "ขอบคุณที่เล่น CocoMico Quest! Ver 3.4 <b>เพิ่ม 13 ภาษา</b> ตอนนี้เล่นได้ 20 ภาษาแล้ว นอกจากนี้ยังแก้ปัญหา<b>แอปปิดตัวเมื่อเปิดสมุดมอนสเตอร์</b> และเพิ่ม<b>ขีดจำกัดความเสียหายต่อการโจมตีเป็น 1000 เท่า</b> โปรดรับของขวัญนี้เพื่อเป็นการขอบคุณ🐾",
-   "pl": "Dziękujemy, że grasz w CocoMico Quest! Ver 3.4 <b>dodaje 13 języków</b> – gra jest teraz dostępna w 20. Naprawiliśmy też błąd, przez który <b>aplikacja mogła się zamknąć po otwarciu Kodeksu potworów</b>, i zwiększyliśmy <b>limit obrażeń na cios 1000-krotnie</b>. Przyjmij ten prezent jako podziękowanie 🐾",
-   "nl": "Bedankt dat je CocoMico Quest speelt! Ver 3.4 <b>voegt 13 talen toe</b>, dus je kunt nu in 20 talen spelen. We hebben ook een fout opgelost waardoor <b>de app kon sluiten bij het openen van het Monstercodex</b>, en de <b>schadelimiet per treffer 1000× verhoogd</b>. Aanvaard dit cadeau als dank 🐾",
-   "sv": "Tack för att du spelar CocoMico Quest! Ver 3.4 <b>lägger till 13 språk</b>, så nu kan du spela på 20 språk. Vi har också fixat ett fel där <b>appen kunde stängas när man öppnade Monsterkodexen</b>, och höjt <b>skadetaket per träff 1000 gånger</b>. Ta emot den här gåvan som tack 🐾"
-  },
-  "rw": {
-   "gem": 1000,
-   "gtk": 100
-  }
- },
- {
-  "id": "dl3000_thanks",
-  "startedBefore": "2026-09-24",
-  "until": "2027-06-30",
-  "title": {
-   "ja": "3,000ダウンロード記念のおくりもの",
-   "en": "3,000 Downloads - Thank You Gift",
-   "zh": "3,000 次下载纪念礼物",
-   "zhTW": "3,000 次下載紀念禮物",
-   "ko": "3,000 다운로드 기념 선물",
-   "de": "3.000 Downloads - Dankeschön",
-   "hi": "3,000 डाउनलोड - धन्यवाद उपहार",
-   "es": "3.000 descargas: regalo de agradecimiento",
-   "fr": "3 000 téléchargements : cadeau de remerciement",
-   "pt": "3.000 downloads: presente de agradecimento",
-   "it": "3.000 download: regalo di ringraziamento",
-   "tr": "3.000 İndirme - Teşekkür Hediyesi",
-   "ru": "3 000 загрузок — подарок в благодарность",
-   "uk": "3 000 завантажень — подарунок на знак подяки",
-   "vi": "3.000 lượt tải - Quà cảm ơn",
-   "id": "3.000 Unduhan - Hadiah Terima Kasih",
-   "th": "ของขวัญฉลอง 3,000 ดาวน์โหลด",
-   "pl": "3000 pobrań – prezent z podziękowaniem",
-   "nl": "3.000 downloads - bedankcadeau",
-   "sv": "3 000 nedladdningar – tackgåva"
-  },
-  "body": {
-   "ja": "おかげさまで、CocoMico Quest のダウンロードが<b>3,000本</b>を超えました！ 遊んでくださっているみなさんのおかげです。本当にありがとうございます。記念に<b>ジェム3,000</b>をお贈りします。これからもココとミコの冒険をよろしくお願いします🐾",
-   "en": "CocoMico Quest has passed <b>3,000 downloads</b>! That is thanks to everyone playing - we are truly grateful. Please accept <b>3,000 Gems</b> to celebrate, and enjoy many more adventures with Coco and Mico 🐾",
-   "zh": "《CocoMico Quest》的下载量已突破<b>3,000次</b>！这都要感谢一直游玩的各位，真的非常感谢。为纪念这一刻，送上<b>钻石3,000</b>。今后也请多多关照可可和米可的冒险🐾",
-   "zhTW": "《CocoMico Quest》的下載量已突破<b>3,000次</b>！這都要感謝一直遊玩的各位，真的非常感謝。為紀念這一刻，送上<b>鑽石3,000</b>。今後也請多多指教可可和米可的冒險🐾",
-   "ko": "CocoMico Quest의 다운로드가 <b>3,000회</b>를 넘었습니다! 플레이해 주시는 여러분 덕분이에요. 정말 감사합니다. 기념으로 <b>젬 3,000</b>을 보내 드립니다. 앞으로도 코코와 미코의 모험을 잘 부탁드려요 🐾",
-   "de": "CocoMico Quest hat <b>3.000 Downloads</b> überschritten! Das verdanken wir allen, die spielen - vielen Dank. Nimm zur Feier <b>3.000 Juwelen</b> und erlebe noch viele Abenteuer mit Coco und Mico 🐾",
-   "hi": "CocoMico Quest के <b>3,000 डाउनलोड</b> पूरे हो गए! यह सब खेलने वाले आप सबकी वजह से है - बहुत-बहुत धन्यवाद। इस मौके पर <b>3,000 जेम</b> स्वीकार करें, और कोको व मिको के साथ और भी रोमांच का मज़ा लें 🐾",
-   "es": "¡CocoMico Quest ha superado las <b>3.000 descargas</b>! Es gracias a todos los que jugáis: muchísimas gracias. Acepta <b>3.000 Gemas</b> para celebrarlo y disfruta de muchas más aventuras con Coco y Mico 🐾",
-   "fr": "CocoMico Quest a dépassé les <b>3 000 téléchargements</b> ! C’est grâce à vous tous qui jouez : merci infiniment. Acceptez <b>3 000 gemmes</b> pour fêter ça, et vivez encore de nombreuses aventures avec Coco et Mico 🐾",
-   "pt": "CocoMico Quest passou de <b>3.000 downloads</b>! Tudo graças a vocês que jogam — muito obrigado. Aceite <b>3.000 Gemas</b> para comemorar e aproveite muitas outras aventuras com Coco e Mico 🐾",
-   "it": "CocoMico Quest ha superato i <b>3.000 download</b>! È merito di tutti voi che giocate: grazie di cuore. Accetta <b>3.000 Gemme</b> per festeggiare e goditi tante altre avventure con Coco e Mico 🐾",
-   "tr": "CocoMico Quest <b>3.000 indirmeyi</b> geçti! Bunu oynayan herkese borçluyuz, çok teşekkürler. Kutlamak için <b>3.000 Cevher</b> kabul et ve Coco ile Mico’yla daha nice maceranın tadını çıkar 🐾",
-   "ru": "CocoMico Quest превысила <b>3 000 загрузок</b>! Это благодаря всем, кто играет, — огромное спасибо. Примите <b>3 000 гемов</b> в честь этого события и наслаждайтесь новыми приключениями Коко и Мико 🐾",
-   "uk": "CocoMico Quest перевищила <b>3 000 завантажень</b>! Це завдяки всім, хто грає, — щиро дякуємо. Прийміть <b>3 000 гемів</b> на честь цієї події та насолоджуйтеся новими пригодами Коко й Міко 🐾",
-   "vi": "CocoMico Quest đã vượt mốc <b>3.000 lượt tải</b>! Tất cả là nhờ mọi người đã chơi — xin chân thành cảm ơn. Hãy nhận <b>3.000 Ngọc</b> để ăn mừng và tận hưởng thêm nhiều cuộc phiêu lưu cùng Coco và Mico 🐾",
-   "id": "CocoMico Quest telah melewati <b>3.000 unduhan</b>! Semua berkat kalian yang bermain — terima kasih banyak. Terimalah <b>3.000 Gem</b> sebagai perayaan, dan nikmati lebih banyak petualangan bersama Coco dan Mico 🐾",
-   "th": "CocoMico Quest มียอดดาวน์โหลดเกิน <b>3,000 ครั้ง</b>แล้ว! ทั้งหมดนี้เป็นเพราะทุกคนที่เล่น ขอบคุณจริงๆ รับ<b>เจม 3,000</b> ไปฉลองกัน แล้วสนุกกับการผจญภัยของโคโคะและมิโกะต่อไปนะ 🐾",
-   "pl": "CocoMico Quest przekroczyło <b>3000 pobrań</b>! To zasługa wszystkich graczy — ogromnie dziękujemy. Przyjmij <b>3000 klejnotów</b> na świętowanie i przeżyj jeszcze wiele przygód z Coco i Mico 🐾",
-   "nl": "CocoMico Quest is de <b>3.000 downloads</b> gepasseerd! Dat danken we aan iedereen die speelt — heel erg bedankt. Neem <b>3.000 Juwelen</b> aan om het te vieren en beleef nog veel avonturen met Coco en Mico 🐾",
-   "sv": "CocoMico Quest har passerat <b>3 000 nedladdningar</b>! Det är tack vare alla som spelar – stort tack. Ta emot <b>3 000 juveler</b> för att fira, och njut av många fler äventyr med Coco och Mico 🐾"
-  },
-  "rw": {
-   "gem": 3000
-  }
- },
- {
-  "id": "ver40_preview",
-  "startedBefore": "2026-10-06",
-  "existingOnly": "4.0.0",
-  "until": "2027-06-30",
-  "title": {
-   "ja": "Ver4.0 アップデート予告",
-   "en": "Coming Soon: Ver 4.0 Update",
-   "zh": "Ver4.0 更新预告",
-   "zhTW": "Ver4.0 更新預告",
-   "ko": "Ver4.0 업데이트 예고",
-   "de": "Vorschau: Update Ver. 4.0",
-   "hi": "जल्द आ रहा है: Ver 4.0 अपडेट",
-   "es": "Próximamente: actualización Ver. 4.0",
-   "fr": "Bientôt : mise à jour Ver. 4.0",
-   "pt": "Em breve: atualização Ver. 4.0",
-   "it": "In arrivo: aggiornamento Ver. 4.0",
-   "tr": "Yakında: Ver 4.0 güncellemesi",
-   "ru": "Скоро: обновление Ver 4.0",
-   "uk": "Незабаром: оновлення Ver 4.0",
-   "vi": "Sắp ra mắt: bản cập nhật Ver 4.0",
-   "id": "Segera hadir: pembaruan Ver 4.0",
-   "th": "เร็ว ๆ นี้: อัปเดต Ver 4.0",
-   "pl": "Wkrótce: aktualizacja Ver 4.0",
-   "nl": "Binnenkort: update Ver 4.0",
-   "sv": "Snart: uppdatering Ver 4.0"
-  },
-  "body": {
-   "ja": "いつもCocoMico Questを遊んでいただきありがとうございます！<br>次の大型アップデート<b>Ver4.0</b>の準備を進めています。<br>・<b>物語の第一部が完結</b>：謎の猫「コドク」との全5戦<br>・<b>仲間の編成</b>：仲間と一緒に戦えるように<br>・<b>縛り転生</b>：5種類の新しい挑戦<br>・<b>ルナ装備</b>：最上位の新しい装備<br>・<b>ダンジョン50階</b>・<b>7日間の勇者手帳</b>・<b>30日パス</b>など<br>配信まで、もう少しお待ちください。<br>ひと足早く、ジェム1,000をお贈りします🐾",
-   "en": "Thank you for playing CocoMico Quest!<br>We are preparing our next big update, <b>Ver 4.0</b>.<br>・<b>Part 1 of the story concludes</b>: five battles with the mysterious cat Kodoku<br>・<b>Party formation</b>: fight alongside your companions<br>・<b>Challenge Runs</b>: five new kinds of challenge<br>・<b>Luna gear</b>: new top-tier equipment<br>・<b>Dungeon floor 50</b>, the <b>7-Day Hero's Journal</b>, the <b>30-Day Pass</b> and more<br>Please wait a little longer for the release.<br>As an early thank-you, please accept 1,000 Gems 🐾",
-   "zh": "感谢你一直游玩《CocoMico Quest》！<br>我们正在准备下一次大型更新<b>Ver4.0</b>。<br>・<b>故事第一部完结</b>：与神秘的猫「孤独」的全5战<br>・<b>队伍编成</b>：可以和伙伴一起战斗<br>・<b>挑战转生</b>：5种新的挑战<br>・<b>露娜装备</b>：全新的最高级装备<br>・<b>地下城50层</b>・<b>七日勇者手册</b>・<b>30日通行证</b>等<br>距离上线还请稍等片刻。<br>先送上钻石1,000作为谢礼🐾",
-   "zhTW": "感謝你一直遊玩《CocoMico Quest》！<br>我們正在準備下一次大型更新<b>Ver4.0</b>。<br>・<b>故事第一部完結</b>：與神秘的貓「孤獨」的全5戰<br>・<b>隊伍編成</b>：可以和夥伴一起戰鬥<br>・<b>挑戰轉生</b>：5種新的挑戰<br>・<b>露娜裝備</b>：全新的最高級裝備<br>・<b>地下城50層</b>・<b>七日勇者手冊</b>・<b>30日通行證</b>等<br>距離上線還請稍等片刻。<br>先送上鑽石1,000作為謝禮🐾",
-   "ko": "CocoMico Quest를 즐겨 주셔서 감사합니다!<br>다음 대형 업데이트 <b>Ver4.0</b>을 준비하고 있습니다.<br>・<b>스토리 1부 완결</b>: 수수께끼의 고양이 '코도쿠'와의 5번의 전투<br>・<b>파티 편성</b>: 동료와 함께 싸울 수 있어요<br>・<b>도전 환생</b>: 5가지 새로운 도전<br>・<b>루나 장비</b>: 최상위 새 장비<br>・<b>던전 50층</b>・<b>7일간의 용사 수첩</b>・<b>30일 패스</b> 등<br>배포까지 조금만 기다려 주세요.<br>한발 먼저 젬 1,000개를 보내 드립니다🐾",
-   "de": "Danke, dass du CocoMico Quest spielst!<br>Wir bereiten unser nächstes großes Update <b>Ver. 4.0</b> vor.<br>・<b>Teil 1 der Geschichte endet</b>: fünf Kämpfe gegen die geheimnisvolle Katze Kodoku<br>・<b>Gruppenaufstellung</b>: kämpfe zusammen mit deinen Gefährten<br>・<b>Prüfungen</b>: fünf neue Herausforderungen<br>・<b>Luna-Ausrüstung</b>: neue Ausrüstung der höchsten Stufe<br>・<b>Dungeon bis Ebene 50</b>, das <b>7-Tage-Heldentagebuch</b>, der <b>30-Tage-Pass</b> und mehr<br>Bitte gedulde dich noch ein wenig bis zur Veröffentlichung.<br>Als kleines Dankeschön vorab schenken wir dir 1.000 Juwelen 🐾",
-   "hi": "CocoMico Quest खेलने के लिए धन्यवाद!<br>हम अगले बड़े अपडेट <b>Ver 4.0</b> की तैयारी कर रहे हैं।<br>・<b>कहानी का पहला भाग पूरा</b>: रहस्यमयी बिल्ली कोडोकु से 5 लड़ाइयाँ<br>・<b>दल बनाना</b>: साथियों के साथ मिलकर लड़ें<br>・<b>चुनौती प्रेस्टीज</b>: 5 नई तरह की चुनौतियाँ<br>・<b>लूना गियर</b>: सबसे ऊँचे दर्जे का नया उपकरण<br>・<b>डंजन की 50वीं मंज़िल</b>, <b>7 दिन की वीर डायरी</b>, <b>30-दिन पास</b> और बहुत कुछ<br>रिलीज़ तक थोड़ा और इंतज़ार करें।<br>पहले से धन्यवाद के रूप में 1,000 जेम स्वीकार करें 🐾",
-   "es": "¡Gracias por jugar a CocoMico Quest!<br>Estamos preparando nuestra próxima gran actualización, la <b>Ver. 4.0</b>.<br>・<b>Termina la primera parte de la historia</b>: cinco combates contra el misterioso gato Kodoku<br>・<b>Formación de grupo</b>: lucha junto a tus compañeros<br>・<b>Retos</b>: cinco nuevos tipos de desafío<br>・<b>Equipo Luna</b>: nuevo equipo del rango más alto<br>・<b>Mazmorra hasta el piso 50</b>, el <b>Diario del héroe de 7 días</b>, el <b>Pase de 30 días</b> y más<br>Espera un poquito más hasta el lanzamiento.<br>Como agradecimiento anticipado, recibe 1.000 Gemas 🐾",
-   "fr": "Merci de jouer à CocoMico Quest !<br>Nous préparons notre prochaine grande mise à jour, la <b>Ver. 4.0</b>.<br>・<b>La première partie de l’histoire s’achève</b> : cinq combats contre le mystérieux chat Kodoku<br>・<b>Formation d’équipe</b> : combats aux côtés de tes compagnons<br>・<b>Épreuves</b> : cinq nouveaux défis<br>・<b>Équipement Luna</b> : un nouvel équipement du plus haut rang<br>・<b>Donjon jusqu’à l’étage 50</b>, le <b>Carnet du héros de 7 jours</b>, le <b>Pass 30 jours</b> et plus encore<br>Merci de patienter encore un peu jusqu’à la sortie.<br>En remerciement anticipé, voici 1 000 Gemmes 🐾",
-   "pt": "Obrigado por jogar CocoMico Quest!<br>Estamos preparando nossa próxima grande atualização, a <b>Ver. 4.0</b>.<br>・<b>A primeira parte da história chega ao fim</b>: cinco batalhas contra o misterioso gato Kodoku<br>・<b>Formação de grupo</b>: lute ao lado dos seus companheiros<br>・<b>Desafios</b>: cinco novos tipos de desafio<br>・<b>Equipamento Luna</b>: novo equipamento do nível mais alto<br>・<b>Masmorra até o andar 50</b>, o <b>Diário do herói de 7 dias</b>, o <b>Passe de 30 dias</b> e mais<br>Aguarde só mais um pouco até o lançamento.<br>Como agradecimento antecipado, receba 1.000 Gemas 🐾",
-   "it": "Grazie per giocare a CocoMico Quest!<br>Stiamo preparando il nostro prossimo grande aggiornamento, la <b>Ver. 4.0</b>.<br>・<b>Si conclude la prima parte della storia</b>: cinque battaglie contro il misterioso gatto Kodoku<br>・<b>Formazione del gruppo</b>: combatti insieme ai tuoi compagni<br>・<b>Sfide</b>: cinque nuovi tipi di sfida<br>・<b>Equip Luna</b>: nuovo equipaggiamento di grado massimo<br>・<b>Dungeon fino al piano 50</b>, il <b>Diario dell’eroe di 7 giorni</b>, il <b>Pass 30 giorni</b> e altro ancora<br>Attendi ancora un po’ fino all’uscita.<br>Come ringraziamento anticipato, ecco 1.000 Gemme 🐾",
-   "tr": "CocoMico Quest'i oynadığın için teşekkürler!<br>Bir sonraki büyük güncellememiz <b>Ver 4.0</b> üzerinde çalışıyoruz.<br>・<b>Hikâyenin birinci bölümü sona eriyor</b>: gizemli kedi Kodoku ile beş savaş<br>・<b>Takım kurma</b>: yoldaşlarınla birlikte savaş<br>・<b>Meydan Okumalar</b>: beş yeni tür meydan okuma<br>・<b>Luna ekipmanı</b>: en üst seviyede yeni ekipman<br>・<b>Zindanda 50. kat</b>, <b>7 Günlük Kahraman Defteri</b>, <b>30 Günlük Pas</b> ve dahası<br>Yayına kadar biraz daha bekle lütfen.<br>Önceden bir teşekkür olarak 1.000 Cevher hediye ediyoruz 🐾",
-   "ru": "Спасибо, что играете в CocoMico Quest!<br>Мы готовим следующее большое обновление — <b>Ver 4.0</b>.<br>・<b>Завершение первой части истории</b>: пять битв с загадочным котом Кодоку<br>・<b>Сбор отряда</b>: сражайтесь вместе с товарищами<br>・<b>Испытания</b>: пять новых видов испытаний<br>・<b>Снаряжение Луны</b>: новое снаряжение высшего ранга<br>・<b>Подземелье до 50-го этажа</b>, <b>Дневник героя на 7 дней</b>, <b>Пропуск на 30 дней</b> и многое другое<br>Подождите ещё немного до выхода.<br>В знак благодарности заранее дарим 1 000 гемов 🐾",
-   "uk": "Дякуємо, що граєте в CocoMico Quest!<br>Ми готуємо наступне велике оновлення — <b>Ver 4.0</b>.<br>・<b>Завершення першої частини історії</b>: п’ять битв із загадковим котом Кодоку<br>・<b>Збір загону</b>: бийтеся разом із товаришами<br>・<b>Випробування</b>: п’ять нових видів випробувань<br>・<b>Спорядження Луни</b>: нове спорядження найвищого рангу<br>・<b>Підземелля до 50-го поверху</b>, <b>Щоденник героя на 7 днів</b>, <b>Пропуск на 30 днів</b> і багато іншого<br>Зачекайте ще трохи до виходу.<br>На знак подяки наперед даруємо 1 000 гемів 🐾",
-   "vi": "Cảm ơn bạn đã chơi CocoMico Quest!<br>Chúng tôi đang chuẩn bị bản cập nhật lớn tiếp theo <b>Ver 4.0</b>.<br>・<b>Phần 1 của câu chuyện khép lại</b>: 5 trận đấu với chú mèo bí ẩn Kodoku<br>・<b>Lập đội</b>: chiến đấu cùng đồng đội<br>・<b>Thử thách</b>: 5 loại thử thách mới<br>・<b>Trang bị Luna</b>: trang bị mới cấp cao nhất<br>・<b>Hầm ngục tầng 50</b>, <b>Sổ tay anh hùng 7 ngày</b>, <b>Thẻ 30 ngày</b> và nhiều hơn nữa<br>Hãy chờ thêm một chút đến ngày ra mắt nhé.<br>Xin gửi trước 1.000 Ngọc để cảm ơn bạn 🐾",
-   "id": "Terima kasih sudah bermain CocoMico Quest!<br>Kami sedang menyiapkan pembaruan besar berikutnya, <b>Ver 4.0</b>.<br>・<b>Bagian pertama cerita berakhir</b>: lima pertarungan melawan kucing misterius Kodoku<br>・<b>Formasi tim</b>: bertarung bersama teman-temanmu<br>・<b>Tantangan</b>: lima jenis tantangan baru<br>・<b>Perlengkapan Luna</b>: perlengkapan baru tingkat tertinggi<br>・<b>Dungeon sampai lantai 50</b>, <b>Buku Pahlawan 7 Hari</b>, <b>Pass 30 Hari</b>, dan lainnya<br>Tunggu sebentar lagi sampai rilis, ya.<br>Sebagai ucapan terima kasih lebih awal, terimalah 1.000 Gem 🐾",
-   "th": "ขอบคุณที่เล่น CocoMico Quest!<br>เรากำลังเตรียมอัปเดตครั้งใหญ่ <b>Ver 4.0</b><br>・<b>เรื่องราวภาคแรกจบลง</b>: ศึก 5 ครั้งกับแมวปริศนาโคโดคุ<br>・<b>จัดทีม</b>: ต่อสู้ไปพร้อมกับเพื่อนร่วมทาง<br>・<b>โหมดท้าทาย</b>: ความท้าทายใหม่ 5 แบบ<br>・<b>อุปกรณ์ลูน่า</b>: อุปกรณ์ใหม่ระดับสูงสุด<br>・<b>ดันเจี้ยนชั้น 50</b> <b>สมุดผู้กล้า 7 วัน</b> <b>พาส 30 วัน</b> และอื่น ๆ<br>โปรดรออีกสักนิดจนถึงวันเปิดให้เล่น<br>มอบเจม 1,000 ล่วงหน้าเป็นการขอบคุณ 🐾",
-   "pl": "Dziękujemy za grę w CocoMico Quest!<br>Przygotowujemy kolejną dużą aktualizację — <b>Ver 4.0</b>.<br>・<b>Koniec pierwszej części historii</b>: pięć walk z tajemniczym kotem Kodoku<br>・<b>Skład drużyny</b>: walcz razem z towarzyszami<br>・<b>Wyzwania</b>: pięć nowych rodzajów wyzwań<br>・<b>Ekwipunek Luna</b>: nowy ekwipunek najwyższej rangi<br>・<b>Loch do 50. piętra</b>, <b>Dziennik bohatera na 7 dni</b>, <b>Karnet 30 dni</b> i więcej<br>Prosimy o jeszcze chwilę cierpliwości do premiery.<br>W ramach podziękowania z góry przesyłamy 1000 gemów 🐾",
-   "nl": "Bedankt dat je CocoMico Quest speelt!<br>We bereiden onze volgende grote update voor: <b>Ver 4.0</b>.<br>・<b>Deel 1 van het verhaal wordt afgesloten</b>: vijf gevechten met de mysterieuze kat Kodoku<br>・<b>Team samenstellen</b>: vecht samen met je metgezellen<br>・<b>Uitdagingen</b>: vijf nieuwe soorten uitdagingen<br>・<b>Luna-uitrusting</b>: nieuwe uitrusting van de hoogste rang<br>・<b>Dungeon tot verdieping 50</b>, het <b>Heldendagboek van 7 dagen</b>, de <b>30-dagenpas</b> en meer<br>Nog even geduld tot de release.<br>Als bedankje vooraf krijg je 1.000 Gems 🐾",
-   "sv": "Tack för att du spelar CocoMico Quest!<br>Vi förbereder vår nästa stora uppdatering, <b>Ver 4.0</b>.<br>・<b>Första delen av berättelsen avslutas</b>: fem strider mot den mystiska katten Kodoku<br>・<b>Lagsammansättning</b>: slåss tillsammans med dina följeslagare<br>・<b>Utmaningar</b>: fem nya sorters utmaningar<br>・<b>Luna-utrustning</b>: ny utrustning av högsta rang<br>・<b>Dungeon till våning 50</b>, <b>Hjältedagbok för 7 dagar</b>, <b>30-dagarspass</b> och mer<br>Vänta lite till på lanseringen.<br>Som ett tack i förväg får du 1 000 Gems 🐾"
-  },
-  "rw": {
-   "gem": 1000
-  }
- },
- {
-  "id": "ads_1004_sorry",
-  "startedBefore": "2026-10-06",
-  "until": "2026-10-31",
-  "title": {
-   "ja": "広告が見られなかった件のお詫び",
-   "en": "Our Apologies: Ads Were Unavailable",
-   "zh": "关于广告无法观看的致歉",
-   "zhTW": "關於廣告無法觀看的致歉",
-   "ko": "광고를 볼 수 없었던 문제에 대한 사과",
-   "de": "Entschuldigung: Werbevideos waren nicht verfügbar",
-   "hi": "विज्ञापन न दिखने के लिए क्षमा",
-   "es": "Disculpas: los anuncios no estaban disponibles",
-   "fr": "Nos excuses : les publicités étaient indisponibles",
-   "pt": "Pedimos desculpas: os anúncios estavam indisponíveis",
-   "it": "Ci scusiamo: gli annunci non erano disponibili",
-   "tr": "Özür dileriz: Reklamlar kullanılamıyordu",
-   "ru": "Приносим извинения: реклама была недоступна",
-   "vi": "Lời xin lỗi: Quảng cáo không khả dụng",
-   "id": "Mohon maaf: Iklan tidak tersedia",
-   "th": "ขออภัย: ไม่สามารถดูโฆษณาได้",
-   "pl": "Przepraszamy: reklamy były niedostępne",
-   "uk": "Перепрошуємо: реклама була недоступна",
-   "nl": "Onze excuses: advertenties waren niet beschikbaar",
-   "sv": "Vi ber om ursäkt: annonserna var inte tillgängliga"
-  },
-  "body": {
-   "ja": "いつもCocoMico Questを遊んでいただきありがとうございます。10月4日から5日にかけて、こちらの広告の配信設定が原因で、<b>動画広告がほとんど表示されない状態</b>になっていました。広告で受け取れるはずだった報酬をお届けできず、申し訳ございません。現在は設定を元に戻しています。お詫びの気持ちを込めて、ジェムと宝石ガチャ券をお受け取りください。",
-   "en": "Thank you for playing CocoMico Quest. From October 4 to 5, a problem with our ad settings meant that <b>video ads almost never appeared</b>. We are sorry you could not receive the rewards you would normally get from them. The settings have now been restored. Please accept these Gems and Gem Gacha Tickets as our apology.",
-   "zh": "感谢你一直游玩《CocoMico Quest》。10月4日至5日期间，由于我们的广告投放设置出现问题，<b>视频广告几乎无法播放</b>。没能让你领取原本可以通过广告获得的奖励，非常抱歉。目前设置已经恢复。请收下钻石与宝石扭蛋券，聊表歉意。",
-   "zhTW": "感謝你一直遊玩《CocoMico Quest》。10月4日至5日期間，由於我們的廣告投放設定出現問題，<b>影片廣告幾乎無法播放</b>。沒能讓你領取原本可以透過廣告獲得的獎勵，非常抱歉。目前設定已經恢復。請收下鑽石與寶石轉蛋券，聊表歉意。",
-   "ko": "항상 CocoMico Quest를 플레이해 주셔서 감사합니다. 10월 4일부터 5일까지 저희 광고 송출 설정의 문제로 <b>동영상 광고가 거의 표시되지 않는 상태</b>였습니다. 광고로 받으실 수 있었던 보상을 드리지 못해 죄송합니다. 현재는 설정을 원래대로 되돌렸습니다. 사과의 마음을 담아 젬과 보석 가챠권을 받아 주세요.",
-   "de": "Danke, dass du CocoMico Quest spielst. Vom 4. bis 5. Oktober wurden wegen eines Fehlers in unseren Werbeeinstellungen <b>kaum Werbevideos angezeigt</b>. Es tut uns leid, dass du die Belohnungen dafür nicht erhalten konntest. Die Einstellungen sind inzwischen wiederhergestellt. Bitte nimm diese Juwelen und Juwelen-Gacha-Tickets als Entschuldigung an.",
-   "hi": "CocoMico Quest खेलने के लिए धन्यवाद। 4 से 5 अक्टूबर के बीच हमारी विज्ञापन सेटिंग की गड़बड़ी के कारण <b>वीडियो विज्ञापन लगभग दिखाई ही नहीं दिए</b>। विज्ञापनों से मिलने वाले इनाम आप तक नहीं पहुँच सके, इसके लिए हमें खेद है। सेटिंग अब ठीक कर दी गई है। क्षमा के रूप में कृपया ये जेम और जेम-गाचा टिकट स्वीकार करें।",
-   "es": "Gracias por jugar a CocoMico Quest. Del 4 al 5 de octubre, un problema en nuestra configuración de anuncios hizo que <b>los anuncios en vídeo casi no aparecieran</b>. Sentimos que no pudieras recibir las recompensas que normalmente se obtienen con ellos. La configuración ya se ha restablecido. Acepta estas Gemas y Tickets de Joya como disculpa.",
-   "fr": "Merci de jouer à CocoMico Quest. Du 4 au 5 octobre, un problème dans nos paramètres publicitaires a fait que <b>les vidéos publicitaires ne s'affichaient presque jamais</b>. Nous sommes désolés que vous n'ayez pas pu recevoir les récompenses habituelles. Les paramètres ont été rétablis. Veuillez accepter ces Gemmes et Tickets Joyau en guise d'excuses.",
-   "pt": "Obrigado por jogar CocoMico Quest. De 4 a 5 de outubro, um problema nas nossas configurações de anúncios fez com que <b>os anúncios em vídeo quase não aparecessem</b>. Lamentamos que você não tenha recebido as recompensas que normalmente ganharia com eles. As configurações já foram restauradas. Aceite estas Gemas e Bilhetes de Joia como pedido de desculpas.",
-   "it": "Grazie per giocare a CocoMico Quest. Dal 4 al 5 ottobre, un problema nelle nostre impostazioni pubblicitarie ha fatto sì che <b>i video pubblicitari non comparissero quasi mai</b>. Ci dispiace che tu non abbia potuto ricevere le ricompense che normalmente si ottengono. Le impostazioni sono state ripristinate. Accetta queste Gemme e Biglietti Gioiello come nostre scuse.",
-   "tr": "CocoMico Quest'i oynadığın için teşekkürler. 4-5 Ekim tarihlerinde reklam ayarlarımızdaki bir sorun nedeniyle <b>video reklamlar neredeyse hiç gösterilmedi</b>. Normalde reklamlardan alacağın ödülleri alamadığın için özür dileriz. Ayarlar artık eski haline getirildi. Lütfen özrümüzün bir göstergesi olarak bu Cevherleri ve Mücevher Biletlerini kabul et.",
-   "ru": "Спасибо, что играете в CocoMico Quest. С 4 по 5 октября из-за ошибки в наших настройках рекламы <b>видеореклама почти не показывалась</b>. Приносим извинения за то, что вы не смогли получить обычные награды за неё. Настройки уже восстановлены. Пожалуйста, примите эти Гемы и Билеты на самоцветы в качестве извинения.",
-   "vi": "Cảm ơn bạn đã chơi CocoMico Quest. Từ ngày 4 đến ngày 5 tháng 10, do sự cố trong cài đặt quảng cáo của chúng tôi, <b>quảng cáo video hầu như không hiển thị</b>. Chúng tôi xin lỗi vì bạn đã không nhận được phần thưởng thường có từ quảng cáo. Cài đặt hiện đã được khôi phục. Xin hãy nhận Ngọc và Vé Đá quý này như lời xin lỗi của chúng tôi.",
-   "id": "Terima kasih telah memainkan CocoMico Quest. Pada 4 hingga 5 Oktober, masalah pada pengaturan iklan kami menyebabkan <b>iklan video hampir tidak pernah muncul</b>. Kami mohon maaf karena Anda tidak dapat menerima hadiah yang biasanya didapat dari iklan. Pengaturan kini telah dipulihkan. Mohon terima Gem dan Tiket Permata ini sebagai permintaan maaf kami.",
-   "th": "ขอบคุณที่เล่น CocoMico Quest ระหว่างวันที่ 4 ถึง 5 ตุลาคม เกิดปัญหาในการตั้งค่าโฆษณาของเรา ทำให้<b>แทบไม่มีโฆษณาวิดีโอแสดง</b> ขออภัยที่คุณไม่ได้รับรางวัลที่ปกติจะได้จากโฆษณา ขณะนี้เราได้คืนค่าการตั้งค่าแล้ว โปรดรับเจมและตั๋วอัญมณีนี้เพื่อเป็นการขออภัย",
-   "pl": "Dziękujemy za grę w CocoMico Quest. Od 4 do 5 października z powodu problemu w naszych ustawieniach reklam <b>reklamy wideo prawie się nie wyświetlały</b>. Przepraszamy, że nie można było otrzymać zwykłych nagród za reklamy. Ustawienia zostały już przywrócone. Prosimy przyjąć te Gemy i Bilety na klejnoty jako przeprosiny.",
-   "uk": "Дякуємо, що граєте в CocoMico Quest. З 4 по 5 жовтня через проблему в наших налаштуваннях реклами <b>відеореклама майже не показувалася</b>. Перепрошуємо, що ви не змогли отримати звичайні нагороди за неї. Налаштування вже відновлено. Будь ласка, прийміть ці Геми та Квитки на самоцвіти як вибачення.",
-   "nl": "Bedankt voor het spelen van CocoMico Quest. Van 4 tot 5 oktober zorgde een probleem in onze advertentie-instellingen ervoor dat <b>videoadvertenties bijna nooit verschenen</b>. Het spijt ons dat je de beloningen die je normaal krijgt niet kon ontvangen. De instellingen zijn inmiddels hersteld. Accepteer deze Gems en Juweeltickets als excuus.",
-   "sv": "Tack för att du spelar CocoMico Quest. Den 4–5 oktober gjorde ett fel i våra annonsinställningar att <b>videoannonser nästan aldrig visades</b>. Vi ber om ursäkt för att du inte kunde få de belöningar du normalt får. Inställningarna har nu återställts. Ta gärna emot dessa Gems och Juvelbiljetter som en ursäkt."
-  },
-  "rw": {
-   "gem": 500,
-   "gtk": 50
-  }
- },
- {
-  "id": "save_sorry_1006",
-  "startedBefore": "2026-10-07",
-  "until": "2026-11-30",
-  "rw": {
-   "gem": 3000
-  },
-  "title": {
-   "ja": "セーブデータの不具合のお詫び",
-   "en": "Our Apologies: Save Data Issue",
-   "zh": "关于存档问题的致歉",
-   "zhTW": "關於存檔問題的致歉",
-   "ko": "세이브 데이터 문제에 대한 사과",
-   "de": "Entschuldigung: Problem mit Spielständen",
-   "hi": "सेव डेटा की समस्या के लिए क्षमा",
-   "es": "Disculpas: problema con los datos guardados",
-   "fr": "Nos excuses : problème de sauvegarde",
-   "pt": "Pedimos desculpas: problema nos dados salvos",
-   "it": "Ci scusiamo: problema con i salvataggi",
-   "tr": "Özür dileriz: Kayıt verisi sorunu",
-   "ru": "Приносим извинения: проблема с сохранениями",
-   "uk": "Перепрошуємо: проблема зі збереженнями",
-   "vi": "Lời xin lỗi: Sự cố dữ liệu lưu",
-   "id": "Mohon maaf: Masalah data simpanan",
-   "th": "ขออภัย: ปัญหาข้อมูลเซฟ",
-   "pl": "Przepraszamy: problem z zapisem gry",
-   "nl": "Onze excuses: probleem met opgeslagen voortgang",
-   "sv": "Vi ber om ursäkt: problem med sparad data"
-  },
-  "body": {
-   "ja": "いつもCocoMico Questを遊んで頂き誠にありがとうございます。Ver3.4.0では、同じApple IDの別の端末で遊んだ時や、アプリを入れ直した直後に、<b>進んだセーブデータが進みの少ない記録で上書きされる</b>場合がございました。ご迷惑をお掛けし、大変申し訳ございません。Ver3.4.1でこの不具合を解消し、選ばれなかった方の記録も「iCloudバックアップ」の画面から戻せるように致しました。お詫びの気持ちを込めて、ジェム3,000をお受け取り下さい。なお、新しいコンテンツを追加する大型アップデートは<b>10月中旬</b>の配信を予定しております。今しばらくお待ち下さい。",
-   "en": "Thank you for always playing CocoMico Quest. In Ver 3.4.0, when you played on another device with the same Apple ID or right after reinstalling the app, <b>your more advanced save could be overwritten by a save with less progress</b>. We sincerely apologize for the trouble. Ver 3.4.1 fixes this issue, and the save that was not chosen can now be restored from the \"iCloud Backup\" screen. Please accept 3,000 Gems as our apology. Our next major update with new content is planned for <b>mid-October</b>. Thank you for your patience.",
-   "zh": "感谢你一直游玩《CocoMico Quest》。在 Ver3.4.0 中，当你在同一 Apple ID 的其他设备上游玩，或刚重新安装应用后，<b>进度较多的存档可能会被进度较少的记录覆盖</b>。给你带来困扰，非常抱歉。Ver3.4.1 已修复此问题，未被选择的记录也可以在“iCloud 备份”画面中恢复。请收下 3,000 钻石，聊表歉意。此外，加入新内容的大型更新预计将于<b>10月中旬</b>推出，敬请期待。",
-   "zhTW": "感謝你一直遊玩《CocoMico Quest》。在 Ver3.4.0 中，當你在同一 Apple ID 的其他裝置上遊玩，或剛重新安裝 App 後，<b>進度較多的存檔可能會被進度較少的紀錄覆蓋</b>。造成你的困擾，非常抱歉。Ver3.4.1 已修正此問題，未被選擇的紀錄也可以在「iCloud 備份」畫面中復原。請收下 3,000 鑽石，聊表歉意。此外，加入新內容的大型更新預計於<b>10月中旬</b>推出，敬請期待。",
-   "ko": "항상 CocoMico Quest를 플레이해 주셔서 감사합니다. Ver3.4.0에서는 같은 Apple ID의 다른 기기에서 플레이하거나 앱을 다시 설치한 직후에 <b>더 진행된 세이브 데이터가 진행이 적은 기록으로 덮어써지는</b> 경우가 있었습니다. 불편을 드려 대단히 죄송합니다. Ver3.4.1에서 이 문제를 해결했으며, 선택하지 않은 쪽의 기록도 \"iCloud 백업\" 화면에서 되돌릴 수 있게 되었습니다. 사과의 마음을 담아 젬 3,000개를 받아 주세요. 또한 새로운 콘텐츠를 추가하는 대형 업데이트는 <b>10월 중순</b>에 배포할 예정입니다. 조금만 기다려 주세요.",
-   "de": "Danke, dass du CocoMico Quest spielst. In Ver. 3.4.0 konnte <b>dein weiter fortgeschrittener Spielstand durch einen mit weniger Fortschritt überschrieben werden</b>, wenn du auf einem anderen Gerät mit derselben Apple-ID gespielt oder die App gerade neu installiert hattest. Das tut uns sehr leid. Ver. 3.4.1 behebt dieses Problem, und der nicht gewählte Spielstand lässt sich jetzt im Bildschirm „iCloud-Backup\" wiederherstellen. Bitte nimm 3.000 Juwelen als Entschuldigung an. Das nächste große Update mit neuen Inhalten ist für <b>Mitte Oktober</b> geplant. Danke für deine Geduld.",
-   "hi": "CocoMico Quest खेलने के लिए धन्यवाद। Ver 3.4.0 में, उसी Apple ID वाले दूसरे डिवाइस पर खेलने पर या ऐप दोबारा इंस्टॉल करने के तुरंत बाद, <b>आपका आगे बढ़ा हुआ सेव कम प्रगति वाले रिकॉर्ड से बदल सकता था</b>। हुई परेशानी के लिए हमें बहुत खेद है। Ver 3.4.1 में यह समस्या ठीक कर दी गई है, और जो रिकॉर्ड नहीं चुना गया वह अब \"iCloud बैकअप\" स्क्रीन से वापस लाया जा सकता है। क्षमा के रूप में कृपया 3,000 जेम स्वीकार करें। नई सामग्री वाला बड़ा अपडेट <b>अक्टूबर के मध्य</b> में आने वाला है। थोड़ा इंतज़ार करें।",
-   "es": "Gracias por jugar siempre a CocoMico Quest. En la Ver. 3.4.0, al jugar en otro dispositivo con el mismo Apple ID o justo después de reinstalar la app, <b>tu partida más avanzada podía sobrescribirse con una de menor progreso</b>. Lamentamos mucho las molestias. La Ver. 3.4.1 corrige este problema y ahora la partida no elegida se puede restaurar desde la pantalla \"Copia en iCloud\". Acepta 3.000 Gemas como disculpa. La próxima gran actualización con contenido nuevo está prevista para <b>mediados de octubre</b>. Gracias por tu paciencia.",
-   "fr": "Merci de jouer à CocoMico Quest. Dans la Ver. 3.4.0, en jouant sur un autre appareil avec le même identifiant Apple ou juste après avoir réinstallé l'app, <b>votre sauvegarde la plus avancée pouvait être remplacée par une sauvegarde moins avancée</b>. Nous sommes vraiment désolés pour ce désagrément. La Ver. 3.4.1 corrige ce problème, et la sauvegarde non choisie peut désormais être restaurée depuis l'écran « Sauvegarde iCloud ». Veuillez accepter 3 000 Gemmes en guise d'excuses. La prochaine grande mise à jour avec du nouveau contenu est prévue pour <b>la mi-octobre</b>. Merci de votre patience.",
-   "pt": "Obrigado por jogar CocoMico Quest. Na Ver. 3.4.0, ao jogar em outro dispositivo com o mesmo ID Apple ou logo após reinstalar o app, <b>seu save mais avançado podia ser substituído por um com menos progresso</b>. Pedimos sinceras desculpas pelo transtorno. A Ver. 3.4.1 corrige esse problema, e o save não escolhido agora pode ser restaurado na tela \"Backup no iCloud\". Aceite 3.000 Gemas como pedido de desculpas. A próxima grande atualização com conteúdo novo está prevista para <b>meados de outubro</b>. Obrigado pela paciência.",
-   "it": "Grazie per giocare sempre a CocoMico Quest. Nella Ver. 3.4.0, giocando su un altro dispositivo con lo stesso ID Apple o subito dopo aver reinstallato l'app, <b>il salvataggio più avanzato poteva essere sovrascritto da uno con meno progressi</b>. Ci scusiamo sinceramente per il disagio. La Ver. 3.4.1 risolve il problema e ora il salvataggio non scelto si può ripristinare dalla schermata \"Backup iCloud\". Accetta 3.000 Gemme come nostre scuse. Il prossimo grande aggiornamento con nuovi contenuti è previsto per <b>metà ottobre</b>. Grazie per la pazienza.",
-   "tr": "CocoMico Quest'i oynadığın için teşekkürler. Ver 3.4.0'da aynı Apple Kimliği ile başka bir cihazda oynadığında ya da uygulamayı yeniden yükledikten hemen sonra <b>daha ilerideki kaydın, daha az ilerlemiş bir kayıtla üzerine yazılabiliyordu</b>. Yaşattığımız sorun için çok özür dileriz. Ver 3.4.1 bu sorunu düzeltti; seçilmeyen kayıt artık \"iCloud yedeği\" ekranından geri yüklenebiliyor. Özrümüzün bir göstergesi olarak lütfen 3.000 Cevher kabul et. Yeni içerik ekleyen büyük güncellememiz <b>Ekim ortasında</b> yayınlanacak. Sabrın için teşekkürler.",
-   "ru": "Спасибо, что играете в CocoMico Quest. В Ver 3.4.0 при игре на другом устройстве с тем же Apple ID или сразу после переустановки приложения <b>более продвинутое сохранение могло перезаписаться сохранением с меньшим прогрессом</b>. Приносим искренние извинения за неудобства. В Ver 3.4.1 проблема исправлена, а невыбранное сохранение теперь можно восстановить на экране «Резервная копия iCloud». Пожалуйста, примите 3 000 Гемов в качестве извинения. Следующее крупное обновление с новым контентом запланировано на <b>середину октября</b>. Спасибо за терпение.",
-   "uk": "Дякуємо, що граєте в CocoMico Quest. У Ver 3.4.0 під час гри на іншому пристрої з тим самим Apple ID або одразу після перевстановлення застосунку <b>більш просунуте збереження могло перезаписатися збереженням із меншим прогресом</b>. Щиро перепрошуємо за незручності. У Ver 3.4.1 проблему виправлено, а невибране збереження тепер можна відновити на екрані «Резервна копія iCloud». Будь ласка, прийміть 3 000 Гемів як вибачення. Наступне велике оновлення з новим вмістом заплановано на <b>середину жовтня</b>. Дякуємо за терпіння.",
-   "vi": "Cảm ơn bạn đã luôn chơi CocoMico Quest. Ở Ver 3.4.0, khi chơi trên thiết bị khác dùng cùng Apple ID hoặc ngay sau khi cài lại ứng dụng, <b>dữ liệu lưu tiến xa hơn có thể bị ghi đè bởi bản ghi ít tiến độ hơn</b>. Chúng tôi thành thật xin lỗi vì sự bất tiện này. Ver 3.4.1 đã khắc phục sự cố, và bản ghi không được chọn giờ có thể khôi phục từ màn hình \"Sao lưu iCloud\". Xin hãy nhận 3.000 Ngọc như lời xin lỗi. Bản cập nhật lớn với nội dung mới dự kiến phát hành vào <b>giữa tháng 10</b>. Cảm ơn bạn đã kiên nhẫn.",
-   "id": "Terima kasih selalu memainkan CocoMico Quest. Di Ver 3.4.0, saat bermain di perangkat lain dengan Apple ID yang sama atau tepat setelah menginstal ulang aplikasi, <b>data simpanan yang lebih maju bisa tertimpa oleh catatan dengan kemajuan lebih sedikit</b>. Kami mohon maaf sebesar-besarnya atas ketidaknyamanan ini. Ver 3.4.1 memperbaiki masalah ini, dan catatan yang tidak dipilih kini bisa dipulihkan dari layar \"Cadangan iCloud\". Mohon terima 3.000 Gem sebagai permintaan maaf kami. Pembaruan besar dengan konten baru direncanakan pada <b>pertengahan Oktober</b>. Terima kasih atas kesabaranmu.",
-   "th": "ขอบคุณที่เล่น CocoMico Quest เสมอมา ใน Ver 3.4.0 เมื่อเล่นบนอุปกรณ์อื่นที่ใช้ Apple ID เดียวกัน หรือทันทีหลังติดตั้งแอปใหม่ <b>ข้อมูลเซฟที่ก้าวหน้ากว่าอาจถูกเขียนทับด้วยบันทึกที่ก้าวหน้าน้อยกว่า</b> ขออภัยเป็นอย่างยิ่งในความไม่สะดวก Ver 3.4.1 ได้แก้ไขปัญหานี้แล้ว และบันทึกที่ไม่ได้เลือกสามารถกู้คืนได้จากหน้า \"สำรองข้อมูล iCloud\" โปรดรับเจม 3,000 เพื่อเป็นการขออภัย อัปเดตใหญ่ที่เพิ่มเนื้อหาใหม่มีกำหนดเปิดให้บริการ<b>กลางเดือนตุลาคม</b> ขอบคุณที่รอคอย",
-   "pl": "Dziękujemy, że grasz w CocoMico Quest. W Ver 3.4.0 podczas gry na innym urządzeniu z tym samym Apple ID lub tuż po ponownej instalacji aplikacji <b>bardziej zaawansowany zapis mógł zostać nadpisany zapisem z mniejszym postępem</b>. Bardzo przepraszamy za kłopot. Ver 3.4.1 naprawia ten problem, a niewybrany zapis można teraz przywrócić na ekranie „Kopia iCloud\". Prosimy przyjąć 3000 Gemów jako przeprosiny. Następna duża aktualizacja z nową zawartością jest planowana na <b>połowę października</b>. Dziękujemy za cierpliwość.",
-   "nl": "Bedankt dat je CocoMico Quest speelt. In Ver 3.4.0 kon <b>je verder gevorderde voortgang worden overschreven door voortgang met minder vooruitgang</b> als je op een ander apparaat met dezelfde Apple ID speelde of de app net opnieuw had geïnstalleerd. Het spijt ons zeer. Ver 3.4.1 lost dit op, en de niet gekozen voortgang kan nu worden hersteld via het scherm \"iCloud-back-up\". Accepteer 3.000 Gems als excuus. De volgende grote update met nieuwe inhoud staat gepland voor <b>half oktober</b>. Bedankt voor je geduld.",
-   "sv": "Tack för att du spelar CocoMico Quest. I Ver 3.4.0 kunde <b>din mer avancerade sparfil skrivas över av en med mindre framsteg</b> när du spelade på en annan enhet med samma Apple-ID eller precis efter att ha installerat om appen. Vi ber verkligen om ursäkt. Ver 3.4.1 åtgärdar problemet, och sparfilen som inte valdes kan nu återställas från skärmen \"iCloud-säkerhetskopia\". Ta gärna emot 3 000 Gems som en ursäkt. Nästa stora uppdatering med nytt innehåll planeras till <b>mitten av oktober</b>. Tack för ditt tålamod."
-  }
- }
 ]
