@@ -223,7 +223,7 @@
     "id": "ver40_preview",
     "startedBefore": "2026-10-06",
     "existingOnly": "4.0.0",
-    "until": "2027-06-30",
+    "until": "2026-10-12",
     "title": {
       "ja": "Ver4.0 アップデート予告",
       "en": "Coming Soon: Ver 4.0 Update",
@@ -270,6 +270,58 @@
     },
     "rw": {
       "gem": 1000
+    }
+  },
+  {
+    "id": "ver40_thanks",
+    "existingOnly": "4.0.0",
+    "until": "2027-06-30",
+    "title": {
+      "ja": "Ver4.0アップデートの御礼",
+      "en": "Thanks for Updating to Ver 4.0",
+      "ko": "Ver4.0 업데이트 감사 선물",
+      "de": "Danke fürs Update auf Ver 4.0",
+      "hi": "Ver 4.0 अपडेट के लिए धन्यवाद",
+      "zh": "Ver4.0 更新感谢礼",
+      "zhTW": "Ver4.0 更新感謝禮",
+      "es": "Gracias por actualizar a la Ver 4.0",
+      "fr": "Merci pour la mise à jour Ver 4.0",
+      "pt": "Obrigado por atualizar para a Ver 4.0",
+      "it": "Grazie per l’aggiornamento alla Ver 4.0",
+      "tr": "Ver 4.0 güncellemesi için teşekkürler",
+      "ru": "Спасибо за обновление до Ver 4.0",
+      "uk": "Дякуємо за оновлення до Ver 4.0",
+      "vi": "Cảm ơn bạn đã cập nhật Ver 4.0",
+      "id": "Terima kasih sudah memperbarui ke Ver 4.0",
+      "th": "ขอบคุณที่อัปเดตเป็น Ver 4.0",
+      "pl": "Dziękujemy za aktualizację do Ver 4.0",
+      "nl": "Bedankt voor het updaten naar Ver 4.0",
+      "sv": "Tack för att du uppdaterade till Ver 4.0"
+    },
+    "body": {
+      "ja": "いつもCocoMico Questを遊んで頂きありがとうございます！<br>Ver4.0で<b>物語の第一部が完結</b>しました。<br>コドクとの5つの戦い・縛り転生・仲間の編成・新しいランキングなど、たくさんの遊びを加えています。<br>アップデートの御礼に、<b>ジェム3,000</b>をお贈りします。",
+      "en": "Thank you for always playing CocoMico Quest!<br>With Ver 4.0, <b>Part 1 of the story is complete</b>.<br>We added five battles with Kodoku, Challenge Runs, party formation, new rankings and much more.<br>As thanks for updating, please accept <b>3,000 Gems</b>.",
+      "ko": "CocoMico Quest를 항상 즐겨 주셔서 감사합니다!<br>Ver4.0에서 <b>이야기의 제1부가 완결</b>되었습니다.<br>코도쿠와의 다섯 번의 싸움, 도전 환생, 파티 편성, 새로운 랭킹 등 많은 즐길 거리를 더했습니다.<br>업데이트 감사의 뜻으로 <b>젬 3,000개</b>를 드립니다.",
+      "de": "Danke, dass du CocoMico Quest spielst!<br>Mit Ver 4.0 ist <b>Teil 1 der Geschichte abgeschlossen</b>.<br>Neu sind unter anderem fünf Kämpfe gegen Kodoku, Prüfungen, Gruppenaufstellung und neue Ranglisten.<br>Als Dankeschön fürs Update schenken wir dir <b>3.000 Juwelen</b>.",
+      "hi": "CocoMico Quest खेलने के लिए हमेशा धन्यवाद!<br>Ver 4.0 में <b>कहानी का पहला भाग पूरा</b> हो गया है।<br>कोडोकु के साथ पाँच लड़ाइयाँ, चुनौती प्रेस्टीज, दल बनाना, नई रैंकिंग और बहुत कुछ जोड़ा गया है।<br>अपडेट के धन्यवाद के रूप में <b>3,000 जेम</b> स्वीकार करें।",
+      "zh": "感谢您一直以来游玩 CocoMico Quest！<br>Ver4.0 中，<b>故事第一部完结</b>了。<br>新增了与孤独的五场战斗、挑战转生、队伍编成、全新排行榜等众多玩法。<br>为感谢您的更新，赠送<b>3,000 宝石</b>。",
+      "zhTW": "感謝您一直以來遊玩 CocoMico Quest！<br>Ver4.0 中，<b>故事第一部完結</b>了。<br>新增了與孤獨的五場戰鬥、挑戰轉生、隊伍編成、全新排行榜等眾多玩法。<br>為感謝您的更新，贈送<b>3,000 寶石</b>。",
+      "es": "¡Gracias por jugar siempre a CocoMico Quest!<br>Con la Ver 4.0, <b>la Parte 1 de la historia está completa</b>.<br>Añadimos cinco batallas contra Kodoku, Retos, formación de grupo, nuevas clasificaciones y mucho más.<br>Como agradecimiento por actualizar, recibe <b>3.000 gemas</b>.",
+      "fr": "Merci de jouer à CocoMico Quest !<br>Avec la Ver 4.0, <b>la partie 1 de l’histoire est terminée</b>.<br>Nous avons ajouté cinq combats contre Kodoku, les Épreuves, la formation d’équipe, de nouveaux classements et bien plus.<br>Pour vous remercier de la mise à jour, voici <b>3 000 gemmes</b>.",
+      "pt": "Obrigado por sempre jogar CocoMico Quest!<br>Na Ver 4.0, <b>a Parte 1 da história foi concluída</b>.<br>Adicionamos cinco batalhas contra Kodoku, Desafios, formação de grupo, novos rankings e muito mais.<br>Como agradecimento pela atualização, receba <b>3.000 gemas</b>.",
+      "it": "Grazie per giocare sempre a CocoMico Quest!<br>Con la Ver 4.0 <b>la Parte 1 della storia è completa</b>.<br>Abbiamo aggiunto cinque battaglie contro Kodoku, Sfide, formazione del gruppo, nuove classifiche e molto altro.<br>Come ringraziamento per l’aggiornamento, ecco <b>3.000 gemme</b>.",
+      "tr": "CocoMico Quest’i oynadığın için teşekkürler!<br>Ver 4.0 ile <b>hikâyenin 1. bölümü tamamlandı</b>.<br>Kodoku ile beş savaş, Meydan Okumalar, takım kurma, yeni sıralamalar ve daha fazlasını ekledik.<br>Güncelleme için teşekkür olarak <b>3.000 mücevher</b> hediye ediyoruz.",
+      "ru": "Спасибо, что играете в CocoMico Quest!<br>В Ver 4.0 <b>первая часть истории завершена</b>.<br>Мы добавили пять битв с Кодоку, Испытания, сбор отряда, новые рейтинги и многое другое.<br>В благодарность за обновление дарим <b>3000 самоцветов</b>.",
+      "uk": "Дякуємо, що граєте в CocoMico Quest!<br>У Ver 4.0 <b>першу частину історії завершено</b>.<br>Ми додали п’ять битв із Кодоку, Випробування, збір загону, нові рейтинги та багато іншого.<br>На подяку за оновлення даруємо <b>3000 самоцвітів</b>.",
+      "vi": "Cảm ơn bạn luôn chơi CocoMico Quest!<br>Ở Ver 4.0, <b>Phần 1 của câu chuyện đã hoàn thành</b>.<br>Chúng tôi đã thêm năm trận chiến với Kodoku, Thử thách, lập đội, bảng xếp hạng mới và nhiều hơn nữa.<br>Để cảm ơn bạn đã cập nhật, xin tặng <b>3.000 đá quý</b>.",
+      "id": "Terima kasih selalu memainkan CocoMico Quest!<br>Di Ver 4.0, <b>Bagian 1 cerita telah selesai</b>.<br>Kami menambahkan lima pertarungan dengan Kodoku, Tantangan, formasi tim, peringkat baru, dan banyak lagi.<br>Sebagai terima kasih atas pembaruan, terimalah <b>3.000 permata</b>.",
+      "th": "ขอบคุณที่เล่น CocoMico Quest เสมอมา!<br>ใน Ver 4.0 <b>เรื่องราวภาคที่ 1 จบลงแล้ว</b><br>เราเพิ่มการต่อสู้กับโคโดคุ 5 ครั้ง โหมดท้าทาย การจัดทีม อันดับแบบใหม่ และอีกมากมาย<br>เพื่อขอบคุณที่อัปเดต ขอมอบ <b>อัญมณี 3,000</b>",
+      "pl": "Dziękujemy, że grasz w CocoMico Quest!<br>W Ver 4.0 <b>część 1 historii została ukończona</b>.<br>Dodaliśmy pięć walk z Kodoku, Wyzwania, skład drużyny, nowe rankingi i wiele więcej.<br>W podziękowaniu za aktualizację przekazujemy <b>3000 klejnotów</b>.",
+      "nl": "Bedankt dat je CocoMico Quest speelt!<br>Met Ver 4.0 is <b>deel 1 van het verhaal voltooid</b>.<br>We hebben vijf gevechten met Kodoku, Uitdagingen, team samenstellen, nieuwe ranglijsten en nog veel meer toegevoegd.<br>Als dank voor het updaten krijg je <b>3.000 edelstenen</b>.",
+      "sv": "Tack för att du spelar CocoMico Quest!<br>I Ver 4.0 är <b>del 1 av berättelsen klar</b>.<br>Vi har lagt till fem strider mot Kodoku, Utmaningar, lagsammansättning, nya topplistor och mycket mer.<br>Som tack för uppdateringen får du <b>3 000 ädelstenar</b>."
+    },
+    "rw": {
+      "gem": 3000
     }
   },
   {
