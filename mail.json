@@ -20,6 +20,58 @@
     }
   },
   {
+    "id": "ver401_thanks",
+    "existingOnly": "4.0.1",
+    "until": "2027-06-30",
+    "rw": {
+      "gem": 1000
+    },
+    "title": {
+      "ja": "Ver4.0.1アップデートの御礼",
+      "en": "Thanks for Updating to Ver 4.0.1",
+      "ko": "Ver4.0.1 업데이트 감사 선물",
+      "de": "Danke für das Update auf Ver 4.0.1",
+      "hi": "Ver 4.0.1 अपडेट के लिए धन्यवाद",
+      "zh": "Ver4.0.1更新答谢",
+      "zhTW": "Ver4.0.1更新答謝",
+      "es": "Gracias por actualizar a la Ver 4.0.1",
+      "fr": "Merci pour la mise à jour Ver 4.0.1",
+      "pt": "Obrigado por atualizar para a Ver 4.0.1",
+      "it": "Grazie per l’aggiornamento alla Ver 4.0.1",
+      "tr": "Ver 4.0.1 güncellemesi için teşekkürler",
+      "ru": "Спасибо за обновление до Ver 4.0.1",
+      "uk": "Дякуємо за оновлення до Ver 4.0.1",
+      "vi": "Cảm ơn bạn đã cập nhật Ver 4.0.1",
+      "id": "Terima kasih telah memperbarui ke Ver 4.0.1",
+      "th": "ขอบคุณที่อัปเดต Ver 4.0.1",
+      "pl": "Dziękujemy za aktualizację do Ver 4.0.1",
+      "nl": "Bedankt voor de update naar Ver 4.0.1",
+      "sv": "Tack för uppdateringen till Ver 4.0.1"
+    },
+    "body": {
+      "ja": "いつもCocoMico Questを遊んで頂きありがとうございます！<br>Ver4.0.1では、近い強さの30人で競う毎日のランキング<b>「今日の部屋」</b>を加え、防御力が上げられない不具合などを直しました。<br>アップデートの御礼に、<b>ジェム1,000</b>をお贈りします。",
+      "en": "Thank you for always playing CocoMico Quest!<br>Ver 4.0.1 adds <b>“Today’s Room”</b>, a daily ranking where 30 players of similar strength compete, and fixes issues such as DEF not being upgradable.<br>As thanks for updating, please accept <b>1,000 Gems</b>.",
+      "ko": "언제나 CocoMico Quest를 플레이해 주셔서 감사합니다!<br>Ver4.0.1에서는 비슷한 강함의 30명이 겨루는 매일의 랭킹 <b>‘오늘의 방’</b>을 추가하고, 방어력을 올릴 수 없던 문제 등을 해결했습니다.<br>업데이트 감사의 뜻으로 <b>젬 1,000개</b>를 보내 드립니다.",
+      "de": "Danke, dass du CocoMico Quest spielst!<br>Ver 4.0.1 bringt <b>„Raum des Tages“</b>, eine tägliche Rangliste mit 30 Spielern ähnlicher Stärke, und behebt Fehler wie die nicht verbesserbare Verteidigung.<br>Als Dank für das Update schicken wir dir <b>1.000 Juwelen</b>.",
+      "hi": "CocoMico Quest खेलने के लिए हमेशा धन्यवाद!<br>Ver 4.0.1 में <b>“आज का कमरा”</b> जोड़ा गया है — रोज़ की रैंकिंग जिसमें समान ताकत के 30 खिलाड़ी मुकाबला करते हैं — और रक्षा न बढ़ पाने जैसी समस्याएँ ठीक की गई हैं।<br>अपडेट के धन्यवाद में हम आपको <b>1,000 जेम</b> भेज रहे हैं।",
+      "zh": "感谢您一直以来游玩《CocoMico Quest》！<br>Ver4.0.1新增了实力相近的30人每天竞争的排行榜<b>“今日房间”</b>，并修正了防御力无法提升等问题。<br>作为更新答谢，送上<b>1,000钻石</b>。",
+      "zhTW": "感謝您一直以來遊玩《CocoMico Quest》！<br>Ver4.0.1新增了實力相近的30人每天競爭的排行榜<b>「今日房間」</b>，並修正了防禦力無法提升等問題。<br>作為更新答謝，送上<b>1,000鑽石</b>。",
+      "es": "¡Gracias por jugar siempre a CocoMico Quest!<br>La Ver 4.0.1 añade <b>«Sala del día»</b>, una clasificación diaria en la que compiten 30 jugadores de fuerza similar, y corrige problemas como no poder mejorar la defensa.<br>Como agradecimiento por actualizar, te enviamos <b>1.000 Gemas</b>.",
+      "fr": "Merci de jouer à CocoMico Quest !<br>La Ver 4.0.1 ajoute <b>« Salle du jour »</b>, un classement quotidien où s’affrontent 30 joueurs de force proche, et corrige des problèmes comme la défense impossible à améliorer.<br>Pour vous remercier de la mise à jour, nous vous envoyons <b>1 000 Gemmes</b>.",
+      "pt": "Obrigado por sempre jogar CocoMico Quest!<br>A Ver 4.0.1 adiciona <b>“Sala do dia”</b>, um ranking diário em que 30 jogadores de força parecida competem, e corrige problemas como não conseguir melhorar a defesa.<br>Como agradecimento pela atualização, enviamos <b>1.000 Gemas</b>.",
+      "it": "Grazie per giocare sempre a CocoMico Quest!<br>La Ver 4.0.1 aggiunge <b>«Stanza del giorno»</b>, una classifica giornaliera in cui competono 30 giocatori di forza simile, e risolve problemi come la difesa non potenziabile.<br>Per ringraziarti dell’aggiornamento ti inviamo <b>1.000 Gemme</b>.",
+      "tr": "CocoMico Quest’i oynadığınız için teşekkür ederiz!<br>Ver 4.0.1, benzer güçteki 30 oyuncunun her gün yarıştığı sıralama <b>“Günün Odası”</b>nı ekliyor ve savunmanın yükseltilememesi gibi sorunları düzeltiyor.<br>Güncelleme için teşekkür olarak <b>1.000 Cevher</b> gönderiyoruz.",
+      "ru": "Спасибо, что играете в CocoMico Quest!<br>В Ver 4.0.1 появилась <b>«Комната дня»</b> — ежедневный рейтинг, где соревнуются 30 игроков близкой силы, а также исправлены проблемы вроде невозможности улучшить защиту.<br>В благодарность за обновление отправляем вам <b>1 000 гемов</b>.",
+      "uk": "Дякуємо, що граєте в CocoMico Quest!<br>У Ver 4.0.1 з’явилася <b>«Кімната дня»</b> — щоденний рейтинг, де змагаються 30 гравців близької сили, а також виправлено проблеми на кшталт неможливості покращити захист.<br>На знак подяки за оновлення надсилаємо вам <b>1 000 гемів</b>.",
+      "vi": "Cảm ơn bạn đã luôn chơi CocoMico Quest!<br>Ver 4.0.1 thêm <b>“Phòng hôm nay”</b>, bảng xếp hạng hằng ngày nơi 30 người chơi có sức mạnh gần nhau cùng tranh tài, và sửa các lỗi như không thể nâng phòng thủ.<br>Để cảm ơn bạn đã cập nhật, chúng tôi gửi <b>1.000 Ngọc</b>.",
+      "id": "Terima kasih selalu memainkan CocoMico Quest!<br>Ver 4.0.1 menambahkan <b>“Ruang Hari Ini”</b>, peringkat harian tempat 30 pemain dengan kekuatan serupa bersaing, dan memperbaiki masalah seperti pertahanan yang tidak bisa ditingkatkan.<br>Sebagai terima kasih atas pembaruan, kami mengirimkan <b>1.000 Gem</b>.",
+      "th": "ขอบคุณที่เล่น CocoMico Quest เสมอมา!<br>Ver 4.0.1 เพิ่ม<b>“ห้องวันนี้”</b> อันดับประจำวันที่ผู้เล่น 30 คนที่มีพลังใกล้เคียงกันแข่งขันกัน และแก้ไขปัญหาต่างๆ เช่น อัปเกรดพลังป้องกันไม่ได้<br>เพื่อเป็นการขอบคุณที่อัปเดต เราขอมอบ<b>เจม 1,000</b>",
+      "pl": "Dziękujemy, że grasz w CocoMico Quest!<br>Ver 4.0.1 dodaje <b>„Pokój dnia”</b> — codzienny ranking, w którym rywalizuje 30 graczy o podobnej sile — oraz naprawia problemy, takie jak brak możliwości ulepszenia obrony.<br>W podziękowaniu za aktualizację wysyłamy <b>1000 gemów</b>.",
+      "nl": "Bedankt dat je altijd CocoMico Quest speelt!<br>Ver 4.0.1 voegt <b>“Kamer van de dag”</b> toe, een dagelijkse ranglijst waarin 30 spelers van vergelijkbare sterkte strijden, en lost problemen op zoals verdediging die niet te verbeteren was.<br>Als dank voor de update sturen we je <b>1.000 gems</b>.",
+      "sv": "Tack för att du alltid spelar CocoMico Quest!<br>Ver 4.0.1 lägger till <b>”Dagens rum”</b>, en daglig ranking där 30 spelare med liknande styrka tävlar, och rättar problem som att försvaret inte gick att uppgradera.<br>Som tack för uppdateringen skickar vi <b>1 000 gems</b>."
+    }
+  },
+  {
     "id": "dl10000_thanks",
     "startedBefore": "2026-10-20",
     "until": "2027-06-30",
