@@ -1,4 +1,8 @@
 {
-  "minVersion": "3.4.1",
-  "chalOpen": { "slime": "2026-10-20" }
+  "minVersion": "4.0.1",
+  "chalOpen": {
+    "slime": "2026-10-20"
+  },
+  "minVersionIos": "4.0.1",
+  "minVersionAndroid": "4.0.1"
 }
