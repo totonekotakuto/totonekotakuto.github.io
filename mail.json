@@ -1,5 +1,57 @@
 [
   {
+    "id": "ver403_thanks",
+    "existingOnly": "4.0.3",
+    "until": "2027-06-30",
+    "rw": {
+      "gem": 1000
+    },
+    "title": {
+      "ja": "Ver4.0.3アップデートの御礼",
+      "en": "Thanks for Updating to Ver 4.0.3",
+      "ko": "Ver4.0.3 업데이트 감사 선물",
+      "de": "Danke für das Update auf Ver. 4.0.3",
+      "hi": "Ver4.0.3 अपडेट के लिए धन्यवाद",
+      "zh": "Ver4.0.3 更新答谢礼",
+      "zhTW": "Ver4.0.3 更新答謝禮",
+      "es": "Gracias por actualizar a la Ver. 4.0.3",
+      "fr": "Merci pour la mise à jour 4.0.3",
+      "pt": "Obrigado por atualizar para a Ver. 4.0.3",
+      "it": "Grazie per l'aggiornamento alla Ver. 4.0.3",
+      "tr": "Ver. 4.0.3 güncellemesi için teşekkürler",
+      "ru": "Спасибо за обновление до версии 4.0.3",
+      "vi": "Cảm ơn bạn đã cập nhật lên Ver4.0.3",
+      "id": "Terima kasih telah memperbarui ke Ver4.0.3",
+      "th": "ขอบคุณที่อัปเดตเป็น Ver4.0.3",
+      "pl": "Dziękujemy za aktualizację do wersji 4.0.3",
+      "uk": "Дякуємо за оновлення до версії 4.0.3",
+      "nl": "Bedankt voor het updaten naar Ver. 4.0.3",
+      "sv": "Tack för att du uppdaterade till ver. 4.0.3"
+    },
+    "body": {
+      "ja": "いつもCocoMico Questを遊んで頂きありがとうございます！<br>Ver4.0.3では、放置画面に自動で入るまでの時間を選べるようにし、放置が止まってしまう不具合や、タイトル画面に戻る問題への対策を行いました。<br>アップデートの御礼に、<b>ジェム1,000</b>をお贈りします。",
+      "en": "Thank you for playing CocoMico Quest!<br>Ver 4.0.3 lets you choose how long until the idle screen opens, and fixes idle play stopping and the issue of returning to the title screen.<br>As thanks for updating, here are <b>1,000 Gems</b>.",
+      "ko": "CocoMico Quest를 플레이해 주셔서 감사합니다!<br>Ver4.0.3에서는 방치 화면으로 자동 전환되기까지의 시간을 고를 수 있게 했고, 방치가 멈추는 문제와 타이틀 화면으로 돌아가는 문제에 대한 대책을 마련했습니다.<br>업데이트 감사의 마음으로 <b>젬 1,000개</b>를 드립니다.",
+      "de": "Danke, dass du CocoMico Quest spielst!<br>In Ver. 4.0.3 kannst du wählen, nach wie viel Zeit der Leerlauf-Bildschirm startet. Außerdem haben wir behoben, dass der Leerlauf stehen blieb, und Maßnahmen gegen die Rückkehr zum Titelbildschirm getroffen.<br>Als Dank für das Update erhältst du <b>1.000 Juwelen</b>.",
+      "hi": "CocoMico Quest खेलने के लिए धन्यवाद!<br>Ver4.0.3 में आप चुन सकते हैं कि आइडल स्क्रीन कितनी देर बाद खुले। आइडल रुक जाने की समस्या ठीक की गई है और टाइटल स्क्रीन पर लौट जाने की समस्या के लिए उपाय किए गए हैं।<br>अपडेट के धन्यवाद में <b>1,000 जेम</b> भेज रहे हैं।",
+      "zh": "感谢您一直以来游玩 CocoMico Quest！<br>Ver4.0.3 可以选择自动进入挂机画面的时间，并修复了挂机中途停止的问题，同时针对返回标题画面的问题采取了对策。<br>作为更新的答谢，送上<b>1,000钻石</b>。",
+      "zhTW": "感謝您一直以來遊玩 CocoMico Quest！<br>Ver4.0.3 可以選擇自動進入掛機畫面的時間，並修正了掛機中途停止的問題，同時針對返回標題畫面的問題採取了對策。<br>作為更新的答謝，送上<b>1,000鑽石</b>。",
+      "es": "¡Gracias por jugar a CocoMico Quest!<br>La Ver. 4.0.3 te permite elegir cuánto tarda en abrirse la pantalla de inactividad, corrige que la inactividad se detuviera y añade medidas contra la vuelta a la pantalla de título.<br>Como agradecimiento por actualizar, te regalamos <b>1.000 Gemas</b>.",
+      "fr": "Merci de jouer à CocoMico Quest !<br>La version 4.0.3 vous permet de choisir le délai avant l'écran d'inactivité, corrige l'arrêt du jeu en inactivité et ajoute des mesures contre le retour à l'écran titre.<br>Pour vous remercier de la mise à jour, voici <b>1 000 Gemmes</b>.",
+      "pt": "Obrigado por jogar CocoMico Quest!<br>A Ver. 4.0.3 permite escolher quanto tempo leva para abrir a tela ociosa, corrige o modo ocioso que parava e traz medidas contra a volta à tela de título.<br>Como agradecimento pela atualização, enviamos <b>1.000 Gemas</b>.",
+      "it": "Grazie per giocare a CocoMico Quest!<br>La Ver. 4.0.3 ti permette di scegliere dopo quanto tempo si apre la schermata inattiva, corregge l'interruzione del gioco inattivo e introduce misure contro il ritorno alla schermata del titolo.<br>Come ringraziamento per l'aggiornamento, ecco <b>1.000 Gemme</b>.",
+      "tr": "CocoMico Quest oynadığın için teşekkürler!<br>Ver. 4.0.3 ile boşta ekranının ne kadar sonra açılacağını seçebilirsin. Boşta oyunun durması sorunu giderildi ve başlık ekranına dönme sorununa karşı önlem alındı.<br>Güncelleme için teşekkür olarak <b>1.000 Cevher</b> gönderiyoruz.",
+      "ru": "Спасибо, что играете в CocoMico Quest!<br>В версии 4.0.3 можно выбрать, через сколько откроется экран простоя. Исправлена остановка игры в простое, а также приняты меры против возврата на титульный экран.<br>В благодарность за обновление дарим <b>1 000 гемов</b>.",
+      "vi": "Cảm ơn bạn đã chơi CocoMico Quest!<br>Ver4.0.3 cho phép chọn thời gian trước khi tự vào màn hình treo máy, sửa lỗi treo máy bị dừng và có biện pháp cho lỗi quay về màn hình tiêu đề.<br>Để cảm ơn bạn đã cập nhật, xin gửi tặng <b>1.000 Ngọc</b>.",
+      "id": "Terima kasih telah memainkan CocoMico Quest!<br>Ver4.0.3 memungkinkan kamu memilih berapa lama sampai layar idle terbuka, memperbaiki idle yang berhenti, dan menambahkan penanganan untuk masalah kembali ke layar judul.<br>Sebagai ucapan terima kasih, kami berikan <b>1.000 Gem</b>.",
+      "th": "ขอบคุณที่เล่น CocoMico Quest!<br>Ver4.0.3 สามารถเลือกเวลาก่อนเข้าสู่หน้าจอพักได้ แก้ไขปัญหาการเล่นแบบพักหยุดลง และมีมาตรการแก้ปัญหาการกลับไปหน้าจอไตเติล<br>เพื่อเป็นการขอบคุณที่อัปเดต ขอมอบ <b>เจม 1,000</b>",
+      "pl": "Dziękujemy za grę w CocoMico Quest!<br>W wersji 4.0.3 możesz wybrać, po jakim czasie otwiera się ekran bezczynności. Naprawiliśmy zatrzymywanie się gry w trybie bezczynności i wprowadziliśmy środki zaradcze na powrót do ekranu tytułowego.<br>W podziękowaniu za aktualizację przesyłamy <b>1000 gemów</b>.",
+      "uk": "Дякуємо, що граєте в CocoMico Quest!<br>У версії 4.0.3 можна вибрати, через скільки відкриється екран простою. Виправлено зупинку гри в простої та вжито заходів проти повернення на титульний екран.<br>На подяку за оновлення даруємо <b>1 000 гемів</b>.",
+      "nl": "Bedankt voor het spelen van CocoMico Quest!<br>In Ver. 4.0.3 kun je kiezen na hoeveel tijd het idle-scherm opent. We hebben opgelost dat idle stopte en maatregelen genomen tegen het terugkeren naar het titelscherm.<br>Als dank voor het updaten krijg je <b>1.000 gems</b>.",
+      "sv": "Tack för att du spelar CocoMico Quest!<br>I ver. 4.0.3 kan du välja hur lång tid det tar innan viloskärmen öppnas. Vi har åtgärdat att viloläget stannade och vidtagit åtgärder mot att spelet går tillbaka till titelskärmen.<br>Som tack för uppdateringen får du <b>1 000 gems</b>."
+    }
+  },
+  {
     "id": "thanks_srjvu7p4_1017",
     "to": [
       "SRJVU7P4"
