@@ -1,5 +1,22 @@
 [
  {
+  "id": "rs_C9BBNZ96",
+  "to": [
+   "C9BBNZ96"
+  ],
+  "minSt": 99999999,
+  "until": "2026-11-02",
+  "save": "sv:SFjpTfNQ5RdXvpBGHWYYdEY6HQ3",
+  "title": {
+   "ja": "記録をお届けします",
+   "en": "Your restored progress"
+  },
+  "body": {
+   "ja": "お問い合わせいただいた、元のiPhoneの記録（St391）をお届けします。<br>受け取ると、この端末の今の記録と置き換わります（今の記録は残しておきます）。<br>受け取りの期限は11月2日です。",
+   "en": "Here is your progress from your previous iPhone (St391), as requested.<br>Claiming it will replace the progress on this device (your current progress will be kept as a backup).<br>Please claim it by November 2."
+  }
+ },
+ {
   "id": "dl10000_welcome",
   "newOnly": "4.0.2",
   "startedBefore": "2026-11-16",
