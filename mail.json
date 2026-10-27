@@ -1,5 +1,26 @@
 [
  {
+  "id": "rs_VFDWA3G6",
+  "to": [
+   "VFDWA3G6"
+  ],
+  "minSt": 99999999,
+  "until": "2026-11-03",
+  "save": "sv:SMQHuX8EBEeH9WCMFZSGGCohMkA",
+  "title": {
+   "ja": "記録をお届けします",
+   "en": "Your restored progress",
+   "zhTW": "為您送上紀錄",
+   "zh": "为您送上记录"
+  },
+  "body": {
+   "ja": "お問い合わせいただいた、元のiPhoneの記録（最高St745）をお届けします。<br>受け取ると、この端末の今の記録と置き換わります（今の記録は残しておきます）。<br>受け取りの期限は11月3日です。",
+   "en": "Here is your progress from your previous iPhone (best St745), as requested.<br>Claiming it will replace the progress on this device (your current progress will be kept as a backup).<br>Please claim it by November 3.",
+   "zhTW": "為您送上您來信詢問的舊 iPhone 紀錄（最高 St745）。<br>領取後，會取代這台裝置目前的紀錄（目前的紀錄會另外保留）。<br>領取期限為 11 月 3 日。",
+   "zh": "为您送上您来信询问的旧 iPhone 记录（最高 St745）。<br>领取后，会取代这台设备目前的记录（目前的记录会另外保留）。<br>领取期限为 11 月 3 日。"
+  }
+ },
+ {
   "id": "dl10000_welcome",
   "newOnly": "4.0.2",
   "startedBefore": "2026-11-16",
