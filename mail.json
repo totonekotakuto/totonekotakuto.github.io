@@ -1,5 +1,57 @@
 [
   {
+    "id": "ver41_thanks",
+    "existingOnly": "4.1.0",
+    "until": "2027-06-30",
+    "rw": {
+      "gem": 5000
+    },
+    "title": {
+      "ja": "Ver4.1アップデートの御礼",
+      "en": "Thanks for Updating to Ver 4.1",
+      "zh": "Ver4.1 更新答谢礼",
+      "zhTW": "Ver4.1 更新答謝禮",
+      "ko": "Ver4.1 업데이트 감사 선물",
+      "de": "Danke für das Update auf Ver. 4.1",
+      "hi": "Ver4.1 अपडेट के लिए धन्यवाद",
+      "es": "Gracias por actualizar a la Ver. 4.1",
+      "fr": "Merci pour la mise à jour 4.1",
+      "pt": "Obrigado por atualizar para a Ver. 4.1",
+      "it": "Grazie per l’aggiornamento alla Ver. 4.1",
+      "tr": "Ver. 4.1 güncellemesi için teşekkürler",
+      "ru": "Спасибо за обновление до версии 4.1",
+      "uk": "Дякуємо за оновлення до версії 4.1",
+      "vi": "Cảm ơn bạn đã cập nhật lên Ver4.1",
+      "id": "Terima kasih telah memperbarui ke Ver4.1",
+      "th": "ขอบคุณที่อัปเดตเป็น Ver4.1",
+      "pl": "Dziękujemy za aktualizację do wersji 4.1",
+      "nl": "Bedankt voor het updaten naar Ver. 4.1",
+      "sv": "Tack för att du uppdaterade till ver. 4.1"
+    },
+    "body": {
+      "ja": "いつもCocoMico Questを遊んで頂き、誠にありがとうございます。<br><br>Ver4.1では、古代の新しい地方、師匠との手合わせと極意、6段になった宝石などを加えました。<br><br>また、今回のアップデートで、100個を超えた宝石をジェムに換える仕組みを終了致しました。<br>アップデートの御礼として、また換金の終了に代えて、<b>ジェム5,000</b>をお贈りします。<br><br>今後ともCocoMico Questをよろしくお願い申し上げます。<br><br>CocoMico Quest開発チーム",
+      "en": "Thank you for playing CocoMico Quest!<br><br>Ver 4.1 adds new ancient regions, spars with the masters and Arcana, jewels with 6 tiers and more.<br><br>With this update, the system that exchanged jewels beyond 100 for Gems has ended.<br>As thanks for updating, and in place of that exchange, we are sending you <b>5,000 Gems</b>.<br><br>Thank you for your continued support of CocoMico Quest!<br><br>The CocoMico Quest Development Team",
+      "zh": "感谢您一直以来游玩 CocoMico Quest！<br><br>Ver4.1 新增了古代的新地区、与师父的切磋和秘传、变为6阶的宝石等内容。<br><br>同时，本次更新结束了将超过100个的宝石兑换为钻石的机制。<br>作为更新的答谢，同时作为兑换结束的补偿，送上<b>5,000钻石</b>。<br><br>今后也请继续支持 CocoMico Quest！<br><br>CocoMico Quest开发团队",
+      "zhTW": "感謝您一直以來遊玩 CocoMico Quest！<br><br>Ver4.1 新增了古代的新地區、與師父的切磋和祕傳、變為6階的寶石等內容。<br><br>同時，本次更新結束了將超過100個的寶石兌換為鑽石的機制。<br>作為更新的答謝，同時作為兌換結束的補償，送上<b>5,000鑽石</b>。<br><br>今後也請繼續支持 CocoMico Quest！<br><br>CocoMico Quest開發團隊",
+      "ko": "CocoMico Quest를 즐겨 주셔서 진심으로 감사합니다!<br><br>Ver4.1에서는 고대의 새로운 지방, 스승과의 대련과 비전, 6단계가 된 보석 등을 추가했습니다.<br><br>또한 이번 업데이트로 100개를 넘은 보석을 젬으로 바꾸는 기능이 종료되었습니다.<br>업데이트 감사의 뜻과 함께 환전 종료를 대신하여 <b>젬 5,000개</b>를 드립니다.<br><br>앞으로도 CocoMico Quest를 잘 부탁드립니다.<br><br>CocoMico Quest 개발팀",
+      "de": "Danke, dass du CocoMico Quest spielst!<br><br>Ver. 4.1 bringt neue Gebiete aus uralter Zeit, Duelle mit den Meistern und das Arkanum, Edelsteine mit 6 Stufen und mehr.<br><br>Mit diesem Update endet der Umtausch von Edelsteinen über 100 in Juwelen.<br>Als Dank für das Update und als Ausgleich für den Umtausch schenken wir dir <b>5.000 Juwelen</b>.<br><br>Wir freuen uns, wenn du weiter CocoMico Quest mit uns spielst!<br><br>Dein CocoMico Quest-Entwicklerteam",
+      "hi": "CocoMico Quest खेलने के लिए दिल से धन्यवाद!<br><br>Ver4.1 में प्राचीन काल के नए इलाके, गुरु के साथ अभ्यास और गूढ़ कला, 6 स्तरों वाले रत्न और भी बहुत कुछ जोड़ा गया है।<br><br>इस अपडेट के साथ 100 से ज़्यादा रत्नों को जेम में बदलने की व्यवस्था बंद हो गई है।<br>अपडेट के धन्यवाद में और इस बदलाव की भरपाई के रूप में <b>5,000 जेम</b> भेज रहे हैं।<br><br>आगे भी CocoMico Quest के साथ बने रहने के लिए धन्यवाद!<br><br>CocoMico Quest डेवलपमेंट टीम",
+      "es": "¡Gracias por jugar a CocoMico Quest!<br><br>La Ver. 4.1 añade nuevas regiones de la antigüedad, duelos con los maestros y el Arcano, joyas con 6 niveles y mucho más.<br><br>Con esta actualización termina el sistema de canjear por Gemas las joyas que superan las 100.<br>Como agradecimiento por actualizar y en lugar de ese canje, te regalamos <b>5.000 Gemas</b>.<br><br>¡Gracias por seguir jugando a CocoMico Quest!<br><br>El equipo de desarrollo de CocoMico Quest",
+      "fr": "Merci de jouer à CocoMico Quest !<br><br>La version 4.1 ajoute de nouvelles régions antiques, des duels avec les maîtres et l’Arcane, des joyaux à 6 rangs et bien plus.<br><br>Avec cette mise à jour, le système d’échange des joyaux au-delà de 100 contre des Gemmes a pris fin.<br>Pour vous remercier de la mise à jour, et en remplacement de cet échange, voici <b>5 000 Gemmes</b>.<br><br>Merci de continuer l’aventure CocoMico Quest avec nous !<br><br>L’équipe de développement de CocoMico Quest",
+      "pt": "Obrigado por jogar CocoMico Quest!<br><br>A Ver. 4.1 traz novas regiões da antiguidade, duelos com os mestres e o Arcano, joias com 6 níveis e muito mais.<br><br>Com esta atualização, o sistema de trocar joias acima de 100 por Gemas foi encerrado.<br>Como agradecimento pela atualização e no lugar dessa troca, enviamos <b>5.000 Gemas</b>.<br><br>Obrigado por continuar jogando CocoMico Quest!<br><br>Equipe de desenvolvimento do CocoMico Quest",
+      "it": "Grazie per giocare a CocoMico Quest!<br><br>La Ver. 4.1 aggiunge nuove regioni dell’antichità, duelli con i maestri e l’Arcano, gioielli a 6 livelli e molto altro.<br><br>Con questo aggiornamento termina il sistema che scambiava in Gemme i gioielli oltre 100.<br>Come ringraziamento per l’aggiornamento e al posto di quello scambio, ecco <b>5.000 Gemme</b>.<br><br>Grazie per continuare a giocare a CocoMico Quest!<br><br>Il team di sviluppo di CocoMico Quest",
+      "tr": "CocoMico Quest’i oynadığın için çok teşekkürler!<br><br>Ver 4.1 ile antik çağın yeni bölgeleri, ustalarla düellolar ve Arkana, 6 kademeli mücevherler ve daha fazlası geldi.<br><br>Bu güncellemeyle 100’ü aşan mücevherleri Cevher’e dönüştürme sistemi sona erdi.<br>Güncelleme için teşekkür olarak ve bu dönüştürmenin yerine <b>5.000 Cevher</b> gönderiyoruz.<br><br>CocoMico Quest’i oynamaya devam ettiğin için teşekkürler!<br><br>CocoMico Quest Geliştirme Ekibi",
+      "ru": "Спасибо, что играете в CocoMico Quest!<br><br>В версии 4.1 появились новые древние края, поединки с наставниками и Аркана, самоцветы с 6 ступенями и многое другое.<br><br>С этим обновлением обмен самоцветов сверх 100 на гемы завершён.<br>В благодарность за обновление и взамен этого обмена дарим <b>5 000 гемов</b>.<br><br>Спасибо, что остаётесь с CocoMico Quest!<br><br>Команда разработки CocoMico Quest",
+      "uk": "Дякуємо, що граєте в CocoMico Quest!<br><br>У версії 4.1 з’явилися нові давні краї, поєдинки з наставниками й Аркана, самоцвіти з 6 щаблями та багато іншого.<br><br>З цим оновленням обмін самоцвітів понад 100 на геми завершено.<br>На подяку за оновлення та замість цього обміну даруємо <b>5 000 гемів</b>.<br><br>Дякуємо, що залишаєтеся з CocoMico Quest!<br><br>Команда розробників CocoMico Quest",
+      "vi": "Cảm ơn bạn đã luôn chơi CocoMico Quest!<br><br>Ver4.1 bổ sung các vùng đất cổ đại mới, so tài với sư phụ và Bí thuật, đá quý 6 bậc cùng nhiều nội dung khác.<br><br>Với bản cập nhật này, cơ chế đổi đá quý vượt quá 100 lấy Ngọc đã kết thúc.<br>Để cảm ơn bạn đã cập nhật và thay cho việc đổi này, xin gửi tặng <b>5.000 Ngọc</b>.<br><br>Mong bạn tiếp tục đồng hành cùng CocoMico Quest!<br><br>Đội ngũ phát triển CocoMico Quest",
+      "id": "Terima kasih sudah bermain CocoMico Quest!<br><br>Ver4.1 menambahkan wilayah kuno baru, latih tanding dengan guru dan Arkana, permata 6 tingkat, dan banyak lagi.<br><br>Dengan pembaruan ini, sistem penukaran permata di atas 100 menjadi Gem telah berakhir.<br>Sebagai terima kasih atas pembaruan dan pengganti penukaran tersebut, kami berikan <b>5.000 Gem</b>.<br><br>Terima kasih sudah terus bermain CocoMico Quest!<br><br>Tim Pengembang CocoMico Quest",
+      "th": "ขอบคุณที่เล่น CocoMico Quest เสมอมา!<br><br>Ver4.1 เพิ่มดินแดนโบราณแห่งใหม่ การประลองกับอาจารย์และวิชาลับ อัญมณี 6 ขั้น และอีกมากมาย<br><br>ด้วยการอัปเดตครั้งนี้ ระบบแลกอัญมณีที่เกิน 100 ชิ้นเป็นเจมได้สิ้นสุดลงแล้ว<br>เพื่อเป็นการขอบคุณที่อัปเดตและแทนการแลกดังกล่าว ขอมอบ <b>เจม 5,000</b><br><br>ขอบคุณที่ร่วมผจญภัยไปกับ CocoMico Quest ต่อจากนี้<br><br>ทีมพัฒนา CocoMico Quest",
+      "pl": "Dziękujemy za grę w CocoMico Quest!<br><br>Wersja 4.1 dodaje nowe starożytne krainy, pojedynki z mistrzami i umiejętność Arkana, klejnoty o 6 stopniach i wiele więcej.<br><br>Wraz z tą aktualizacją zakończyła się wymiana klejnotów ponad 100 na gemy.<br>W podziękowaniu za aktualizację i w zamian za tę wymianę przesyłamy <b>5000 gemów</b>.<br><br>Dziękujemy, że grasz z nami w CocoMico Quest!<br><br>Zespół twórców CocoMico Quest",
+      "nl": "Bedankt dat je CocoMico Quest speelt!<br><br>Ver. 4.1 brengt nieuwe gebieden uit de oudheid, duels met de meesters en het Arcanum, edelstenen met 6 niveaus en nog veel meer.<br><br>Met deze update is het inwisselen van edelstenen boven de 100 voor gems gestopt.<br>Als dank voor het updaten en in plaats van dat inwisselen krijg je <b>5.000 gems</b>.<br><br>Bedankt dat je CocoMico Quest met ons blijft spelen!<br><br>Het ontwikkelteam van CocoMico Quest",
+      "sv": "Tack för att du spelar CocoMico Quest!<br><br>Ver. 4.1 bjuder på nya områden från forntiden, dueller mot mästarna och Arkanum, ädelstenar med 6 steg och mycket mer.<br><br>Med den här uppdateringen har växlingen av ädelstenar över 100 mot gems upphört.<br>Som tack för uppdateringen och i stället för växlingen får du <b>5 000 gems</b>.<br><br>Tack för att du fortsätter spela CocoMico Quest med oss!<br><br>CocoMico Quest-utvecklingsteamet"
+    }
+  },
+  {
     "id": "update_notice_1109",
     "pop": true,
     "existingOnly": "4.1.0",
