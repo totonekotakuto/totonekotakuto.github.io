@@ -1,5 +1,127 @@
 [
   {
+    "id": "age_redo_l4xvwwgl_1113",
+    "to": [
+      "L4XVWWGL"
+    ],
+    "minSt": 99999999,
+    "ageRedo": true,
+    "pop": true,
+    "until": "2027-01-31",
+    "title": {
+      "ja": "購入の前の年齢の選び直しについて",
+      "en": "Choosing Your Age Again Before Purchases",
+      "zhTW": "關於重新選擇購買前的年齡"
+    },
+    "body": {
+      "ja": "この度はお問い合わせ頂き、誠にありがとうございます。<br><br>お申し出のあった購入の前の年齢について、お客様の記録で選び直せるように致しました。<br>アプリを最新の版に更新した後、次の購入の時に生まれた年と月をもう一度お選び頂けます。<br>18歳未満の場合は、保護者の方の同意も改めて確認致します。<br><br>選び直すまでは、今の年齢の設定のままとなります。<br>また、今月既に購入された額は、選び直した後も月の上限に含めて数えます。<br>生まれた年と月はお使いの端末の中だけに保存され、運営には送られません。<br><br>今後ともCocoMico Questをよろしくお願い申し上げます。<br><br>CocoMico Quest開発チーム",
+      "en": "Thank you for contacting us.<br><br>As requested, we have made it possible to choose your age again for your game data.<br>After updating the app to the latest version, you will be asked for your birth year and month again the next time you make a purchase.<br>If you are under 18, we will also confirm a parent or guardian’s consent again.<br><br>Until you choose again, your current age setting stays in place.<br>Amounts already spent this month will still count toward the monthly limit after you choose again.<br>Your birth year and month are stored only on your device and are not sent to us.<br><br>Thank you for your continued support of CocoMico Quest.<br><br>The CocoMico Quest Development Team",
+      "zhTW": "感謝您來信聯絡。<br><br>我們已依照您的要求，為您的遊戲紀錄開啟重新選擇購買前年齡的功能。<br>請將 App 更新至最新版本後，於下次購買時重新選擇出生年月。<br>若未滿18歲，將再次確認監護人的同意。<br><br>在重新選擇之前，將維持目前的年齡設定。<br>此外，本月已購買的金額在重新選擇後，仍會計入每月的購買上限。<br>出生年月只會儲存在您的裝置中，不會傳送給營運團隊。<br><br>今後也請多多指教《CocoMico Quest》。<br><br>CocoMico Quest 開發團隊"
+    }
+  },
+  {
+    "id": "ver42_thanks",
+    "existingOnly": "4.2.0",
+    "until": "2027-06-30",
+    "rw": {
+      "gem": 1000
+    },
+    "title": {
+      "ja": "Ver4.2アップデートの御礼",
+      "en": "Thanks for Updating to Ver 4.2",
+      "zh": "Ver4.2 更新答谢礼",
+      "zhTW": "Ver4.2 更新答謝禮",
+      "ko": "Ver4.2 업데이트 감사 선물",
+      "de": "Danke für das Update auf Ver. 4.2",
+      "hi": "Ver4.2 अपडेट के लिए धन्यवाद",
+      "es": "Gracias por actualizar a la Ver. 4.2",
+      "fr": "Merci pour la mise à jour 4.2",
+      "pt": "Obrigado por atualizar para a Ver. 4.2",
+      "it": "Grazie per l’aggiornamento alla Ver. 4.2",
+      "tr": "Ver. 4.2 güncellemesi için teşekkürler",
+      "ru": "Спасибо за обновление до версии 4.2",
+      "uk": "Дякуємо за оновлення до версії 4.2",
+      "vi": "Cảm ơn bạn đã cập nhật lên Ver4.2",
+      "id": "Terima kasih telah memperbarui ke Ver4.2",
+      "th": "ขอบคุณที่อัปเดตเป็น Ver4.2",
+      "pl": "Dziękujemy za aktualizację do wersji 4.2",
+      "nl": "Bedankt voor het updaten naar Ver. 4.2",
+      "sv": "Tack för att du uppdaterade till ver. 4.2"
+    },
+    "body": {
+      "ja": "いつもCocoMico Questを遊んで頂き、誠にありがとうございます。<br><br>Ver4.2では、宝石ガチャをジェムでまとめて引けるようにし、AP を数字で振れるようにしたほか、ご報告頂いた不具合を解消しました。<br><br>アップデートの御礼に、<b>ジェム1,000</b>をお贈りします。<br>まだ更新されていない方は、ストアから最新版に更新してお楽しみ下さい。<br><br>今後ともCocoMico Questをよろしくお願い申し上げます。<br><br>CocoMico Quest開発チーム",
+      "en": "Thank you for playing CocoMico Quest!<br><br>Ver 4.2 lets you bulk-pull the Jewel Gacha with Gems and assign AP by entering a number, and fixes the problems you reported.<br><br>As thanks for updating, we are sending you <b>1,000 Gems</b>.<br>If you have not updated yet, please update to the latest version from the store.<br><br>Thank you for your continued support of CocoMico Quest!<br><br>The CocoMico Quest Development Team",
+      "zh": "感谢您一直以来游玩 CocoMico Quest！<br><br>Ver4.2 可以用钻石批量抽取宝石扭蛋，也可以输入数字分配 AP，同时修复了大家反馈的问题。<br><br>作为更新的答谢，送上<b>1,000钻石</b>。<br>尚未更新的玩家，请从商店更新到最新版本。<br><br>今后也请继续支持 CocoMico Quest！<br><br>CocoMico Quest开发团队",
+      "zhTW": "感謝您一直以來遊玩 CocoMico Quest！<br><br>Ver4.2 可以用鑽石批量抽取寶石扭蛋，也可以輸入數字分配 AP，同時修正了大家回報的問題。<br><br>作為更新的答謝，送上<b>1,000鑽石</b>。<br>尚未更新的玩家，請從商店更新至最新版本。<br><br>今後也請繼續支持 CocoMico Quest！<br><br>CocoMico Quest開發團隊",
+      "ko": "CocoMico Quest를 즐겨 주셔서 진심으로 감사합니다!<br><br>Ver4.2에서는 보석 뽑기를 젬으로 한꺼번에 뽑을 수 있게 되었고, AP를 숫자로 분배할 수 있게 되었으며, 알려 주신 문제를 해결했습니다.<br><br>업데이트 감사의 뜻으로 <b>젬 1,000개</b>를 드립니다.<br>아직 업데이트하지 않으셨다면 스토어에서 최신 버전으로 업데이트해 주세요.<br><br>앞으로도 CocoMico Quest를 잘 부탁드립니다.<br><br>CocoMico Quest 개발팀",
+      "de": "Danke, dass du CocoMico Quest spielst!<br><br>Mit Ver. 4.2 kannst du die Edelstein-Gacha in großen Mengen mit Juwelen ziehen und AP per Zahl verteilen. Außerdem haben wir gemeldete Probleme behoben.<br><br>Als Dank für das Update schenken wir dir <b>1.000 Juwelen</b>.<br>Falls du noch nicht aktualisiert hast, hol dir bitte die neueste Version im Store.<br><br>Wir freuen uns, wenn du weiter CocoMico Quest mit uns spielst!<br><br>Dein CocoMico Quest-Entwicklerteam",
+      "hi": "CocoMico Quest खेलने के लिए दिल से धन्यवाद!<br><br>Ver4.2 में रत्न गाचा को जेम से एक साथ खींच सकते हैं, AP को संख्या डालकर बाँट सकते हैं, और आपकी बताई समस्याएँ ठीक की गई हैं।<br><br>अपडेट के धन्यवाद में <b>1,000 जेम</b> भेज रहे हैं।<br>अगर आपने अभी तक अपडेट नहीं किया है, तो स्टोर से नया संस्करण अपडेट करें।<br><br>आगे भी CocoMico Quest के साथ बने रहने के लिए धन्यवाद!<br><br>CocoMico Quest डेवलपमेंट टीम",
+      "es": "¡Gracias por jugar a CocoMico Quest!<br><br>La Ver. 4.2 te permite tirar del Gacha de Joyas en bloque con Gemas y asignar AP escribiendo un número, y corrige los problemas comunicados.<br><br>Como agradecimiento por actualizar, te regalamos <b>1.000 Gemas</b>.<br>Si aún no has actualizado, descarga la última versión desde la tienda.<br><br>¡Gracias por seguir jugando a CocoMico Quest!<br><br>El equipo de desarrollo de CocoMico Quest",
+      "fr": "Merci de jouer à CocoMico Quest !<br><br>La version 4.2 permet de tirer le Gacha Joyau en masse avec des Gemmes et d’attribuer des AP en saisissant un nombre, et corrige les problèmes signalés.<br><br>Pour vous remercier de la mise à jour, voici <b>1 000 Gemmes</b>.<br>Si vous n’avez pas encore mis à jour, installez la dernière version depuis le store.<br><br>Merci de continuer l’aventure CocoMico Quest avec nous !<br><br>L’équipe de développement de CocoMico Quest",
+      "pt": "Obrigado por jogar CocoMico Quest!<br><br>A Ver. 4.2 permite puxar o Gacha de Joia em lote com Gemas e distribuir AP digitando um número, além de corrigir problemas relatados.<br><br>Como agradecimento pela atualização, enviamos <b>1.000 Gemas</b>.<br>Se ainda não atualizou, baixe a versão mais recente pela loja.<br><br>Obrigado por continuar jogando CocoMico Quest!<br><br>Equipe de desenvolvimento do CocoMico Quest",
+      "it": "Grazie per giocare a CocoMico Quest!<br><br>La Ver. 4.2 permette di estrarre dal Gacha Gioielli in blocco con le Gemme e di assegnare gli AP digitando un numero, e corregge i problemi segnalati.<br><br>Come ringraziamento per l’aggiornamento, ecco <b>1.000 Gemme</b>.<br>Se non hai ancora aggiornato, scarica l’ultima versione dallo store.<br><br>Grazie per continuare a giocare a CocoMico Quest!<br><br>Il team di sviluppo di CocoMico Quest",
+      "tr": "CocoMico Quest’i oynadığın için çok teşekkürler!<br><br>Ver 4.2 ile Mücevher Gacha’yı Cevherle toplu çekebilir, AP’yi sayı girerek dağıtabilirsin; bildirilen sorunlar da düzeltildi.<br><br>Güncelleme için teşekkür olarak <b>1.000 Cevher</b> gönderiyoruz.<br>Henüz güncellemediysen, mağazadan en son sürüme güncelle.<br><br>CocoMico Quest’i oynamaya devam ettiğin için teşekkürler!<br><br>CocoMico Quest Geliştirme Ekibi",
+      "ru": "Спасибо, что играете в CocoMico Quest!<br><br>В версии 4.2 гачу самоцветов можно крутить пачками за гемы, а AP — распределять, вводя число. Также исправлены проблемы, о которых вы сообщили.<br><br>В благодарность за обновление дарим <b>1 000 гемов</b>.<br>Если вы ещё не обновились, установите последнюю версию из магазина.<br><br>Спасибо, что остаётесь с CocoMico Quest!<br><br>Команда разработки CocoMico Quest",
+      "uk": "Дякуємо, що граєте в CocoMico Quest!<br><br>У версії 4.2 гачу самоцвітів можна крутити пачками за геми, а AP — розподіляти, вводячи число. Також виправлено проблеми, про які ви повідомили.<br><br>На подяку за оновлення даруємо <b>1 000 гемів</b>.<br>Якщо ви ще не оновилися, встановіть останню версію з магазину.<br><br>Дякуємо, що залишаєтеся з CocoMico Quest!<br><br>Команда розробників CocoMico Quest",
+      "vi": "Cảm ơn bạn đã luôn chơi CocoMico Quest!<br><br>Ver4.2 cho phép quay Gacha Đá quý nhiều lần cùng lúc bằng Ngọc, phân bổ AP bằng cách nhập số, đồng thời sửa các lỗi được báo về.<br><br>Để cảm ơn bạn đã cập nhật, xin gửi tặng <b>1.000 Ngọc</b>.<br>Nếu bạn chưa cập nhật, hãy cập nhật lên phiên bản mới nhất từ cửa hàng.<br><br>Mong bạn tiếp tục đồng hành cùng CocoMico Quest!<br><br>Đội ngũ phát triển CocoMico Quest",
+      "id": "Terima kasih sudah bermain CocoMico Quest!<br><br>Ver4.2 memungkinkan Gacha Permata ditarik banyak sekaligus dengan Gem dan AP dibagikan dengan memasukkan angka, serta memperbaiki masalah yang kalian laporkan.<br><br>Sebagai terima kasih atas pembaruan, kami berikan <b>1.000 Gem</b>.<br>Jika belum memperbarui, perbarui ke versi terbaru dari toko.<br><br>Terima kasih sudah terus bermain CocoMico Quest!<br><br>Tim Pengembang CocoMico Quest",
+      "th": "ขอบคุณที่เล่น CocoMico Quest เสมอมา!<br><br>Ver4.2 สุ่มกาชาอัญมณีรวดด้วยเจมได้ ลง AP ด้วยการป้อนตัวเลขได้ และแก้ไขปัญหาที่ได้รับแจ้ง<br><br>เพื่อเป็นการขอบคุณที่อัปเดต ขอมอบ <b>เจม 1,000</b><br>หากยังไม่ได้อัปเดต โปรดอัปเดตเป็นเวอร์ชันล่าสุดจากสโตร์<br><br>ขอบคุณที่ร่วมผจญภัยไปกับ CocoMico Quest ต่อจากนี้<br><br>ทีมพัฒนา CocoMico Quest",
+      "pl": "Dziękujemy za grę w CocoMico Quest!<br><br>W wersji 4.2 gachę klejnotów można losować hurtem za gemy, a AP rozdzielać, wpisując liczbę. Naprawiliśmy też zgłoszone problemy.<br><br>W podziękowaniu za aktualizację przesyłamy <b>1000 gemów</b>.<br>Jeśli gra nie jest jeszcze zaktualizowana, pobierz najnowszą wersję ze sklepu.<br><br>Dziękujemy, że grasz z nami w CocoMico Quest!<br><br>Zespół twórców CocoMico Quest",
+      "nl": "Bedankt dat je CocoMico Quest speelt!<br><br>Met Ver. 4.2 trek je de Juwelen-gacha in bulk met gems en verdeel je AP door een getal in te voeren. Ook hebben we gemelde problemen opgelost.<br><br>Als dank voor het updaten krijg je <b>1.000 gems</b>.<br>Nog niet bijgewerkt? Haal de nieuwste versie in de store.<br><br>Bedankt dat je CocoMico Quest met ons blijft spelen!<br><br>Het ontwikkelteam van CocoMico Quest",
+      "sv": "Tack för att du spelar CocoMico Quest!<br><br>I ver. 4.2 kan du dra Juvel-gacha i mängd med gems och fördela AP genom att ange ett antal. Vi har också åtgärdat rapporterade problem.<br><br>Som tack för uppdateringen får du <b>1 000 gems</b>.<br>Om du inte har uppdaterat än, hämta den senaste versionen i butiken.<br><br>Tack för att du fortsätter spela CocoMico Quest med oss!<br><br>CocoMico Quest-utvecklingsteamet"
+    }
+  },
+  {
+    "id": "ap_number_open_1113",
+    "existingOnly": "4.2.0",
+    "pop": true,
+    "until": "2026-12-31",
+    "title": {
+      "ja": "能力値の AP を数字で振れるようになりました（Ver4.2）",
+      "en": "You Can Now Assign AP by Number (Ver 4.2)",
+      "zh": "现在可以输入数字分配 AP 了（Ver4.2）",
+      "zhTW": "現在可以輸入數字分配 AP 了（Ver4.2）",
+      "ko": "이제 AP를 숫자로 분배할 수 있습니다 (Ver4.2)",
+      "de": "AP jetzt per Zahl verteilen (Ver. 4.2)",
+      "hi": "अब AP को संख्या डालकर बाँट सकते हैं (Ver4.2)",
+      "es": "Ya puedes asignar AP introduciendo un número (Ver. 4.2)",
+      "fr": "Attribuer des AP en saisissant un nombre, c’est possible (Ver. 4.2)",
+      "pt": "Agora você pode distribuir AP digitando um número (Ver. 4.2)",
+      "it": "Ora puoi assegnare gli AP inserendo un numero (Ver. 4.2)",
+      "tr": "Artık AP’yi sayı girerek dağıtabilirsiniz (Ver4.2)",
+      "ru": "Теперь AP можно распределять, вводя число (Ver4.2)",
+      "uk": "Тепер AP можна розподіляти, вводячи число (Ver4.2)",
+      "vi": "Giờ đã có thể nhập số để phân bổ AP (Ver4.2)",
+      "id": "Kini AP bisa dibagikan dengan memasukkan angka (Ver4.2)",
+      "th": "ตอนนี้แจก AP ได้ด้วยการป้อนตัวเลขแล้ว (Ver4.2)",
+      "pl": "Teraz możesz rozdzielać AP, wpisując liczbę (Ver4.2)",
+      "nl": "Je kunt nu AP verdelen door een getal in te voeren (Ver. 4.2)",
+      "sv": "Nu kan du fördela AP genom att ange ett antal (ver. 4.2)"
+    },
+    "body": {
+      "ja": "いつもCocoMico Questを遊んで頂き、誠にありがとうございます。<br>先日お知らせした、AP を数字で振る機能を、Ver4.2 で公開致しました。<br><br><b>AP を数字で振れるようになりました</b><br>・ステータス画面で「数値入力」をオンにします。<br>・振りたい数を入れ、能力値の＋を押すと、その数だけ振れます。<br>・オフのままなら、今までどおり＋と MAX で振れます。<br><br>アプリが Ver4.1 のままの場合は、ストアから最新版に更新するとお使い頂けます。<br>今後ともCocoMico Questをよろしくお願い申し上げます。<br><br>CocoMico Quest開発チーム",
+      "en": "Thank you for playing CocoMico Quest!<br>The feature we announced recently, assigning AP by number, is now available in Ver 4.2.<br><br><b>You can now assign AP by number</b><br>• Turn on “Enter number” on the stats screen.<br>• Enter the amount you want, then press + on a stat to assign exactly that amount.<br>• With it off, you can keep using + and MAX as before.<br><br>If your app is still on Ver 4.1, please update to the latest version from the store to use it.<br>Thank you for your continued support of CocoMico Quest!<br><br>The CocoMico Quest Development Team",
+      "zh": "感谢您一直以来游玩《CocoMico Quest》。<br>之前预告的输入数字分配 AP 的功能，已在 Ver4.2 中推出。<br><br><b>现在可以输入数字来分配 AP 了</b><br>・在能力值画面打开「数值输入」。<br>・输入想分配的数量，再按能力值的＋，就会分配该数量。<br>・保持关闭时，可以像以前一样使用＋和 MAX 分配。<br><br>如果您的 App 仍是 Ver4.1，请从商店更新到最新版本后使用。<br>今后也请多多支持《CocoMico Quest》。<br><br>CocoMico Quest 开发团队",
+      "zhTW": "感謝您一直以來遊玩《CocoMico Quest》。<br>先前預告的輸入數字分配 AP 的功能，已在 Ver4.2 中推出。<br><br><b>現在可以輸入數字來分配 AP 了</b><br>・在能力值畫面開啟「數值輸入」。<br>・輸入想分配的數量，再按能力值的＋，就會分配該數量。<br>・保持關閉時，可以像以前一樣使用＋和 MAX 分配。<br><br>如果您的 App 仍是 Ver4.1，請從商店更新至最新版本後使用。<br>今後也請多多指教《CocoMico Quest》。<br><br>CocoMico Quest 開發團隊",
+      "ko": "항상 CocoMico Quest를 플레이해 주셔서 진심으로 감사드립니다.<br>지난번에 예고해 드린 AP를 숫자로 분배하는 기능을 Ver4.2에서 공개했습니다.<br><br><b>이제 AP를 숫자로 분배할 수 있습니다</b><br>• 능력치 화면에서 ‘숫자 입력’을 켭니다.<br>• 원하는 수를 입력한 뒤 능력치의 +를 누르면 그 수만큼 분배됩니다.<br>• 끈 상태라면 지금처럼 +와 MAX로 분배할 수 있습니다.<br><br>앱이 아직 Ver4.1이라면 스토어에서 최신 버전으로 업데이트하면 사용할 수 있습니다.<br>앞으로도 CocoMico Quest를 잘 부탁드립니다.<br><br>CocoMico Quest 개발팀",
+      "de": "Vielen Dank, dass du CocoMico Quest spielst!<br>Die angekündigte Funktion, AP per Zahl zu verteilen, ist ab Ver. 4.2 verfügbar.<br><br><b>Du kannst AP jetzt per Zahl verteilen</b><br>• Schalte im Werte-Bildschirm „Zahl eingeben“ ein.<br>• Gib die gewünschte Menge ein und tippe beim Wert auf +, um genau diese Menge zu verteilen.<br>• Bleibt der Schalter aus, verteilst du wie bisher mit + und MAX.<br><br>Falls deine App noch Ver. 4.1 ist, aktualisiere sie bitte im Store auf die neueste Version.<br>Vielen Dank für deine weitere Unterstützung von CocoMico Quest!<br><br>Das CocoMico Quest Entwicklungsteam",
+      "hi": "CocoMico Quest खेलने के लिए दिल से धन्यवाद!<br>जिस सुविधा की हमने पहले घोषणा की थी, यानी AP को संख्या डालकर बाँटना, वह अब Ver4.2 में उपलब्ध है।<br><br><b>अब आप AP को संख्या डालकर बाँट सकते हैं</b><br>• स्टैट्स स्क्रीन पर “संख्या डालें” चालू करें।<br>• जितना बाँटना है वह संख्या डालें, फिर स्टैट का + दबाएँ — उतने ही AP बँट जाएँगे।<br>• बंद रखने पर आप पहले की तरह + और MAX से बाँट सकते हैं।<br><br>अगर आपका ऐप अभी Ver4.1 पर है, तो स्टोर से नया संस्करण अपडेट करके इसका इस्तेमाल करें।<br>CocoMico Quest का साथ देते रहने के लिए धन्यवाद!<br><br>CocoMico Quest डेवलपमेंट टीम",
+      "es": "¡Gracias por jugar a CocoMico Quest!<br>La función que anunciamos, asignar AP introduciendo un número, ya está disponible en la Ver. 4.2.<br><br><b>Ya puedes asignar AP introduciendo un número</b><br>• Activa “Introducir número” en la pantalla de atributos.<br>• Escribe la cantidad que quieras y pulsa + en un atributo para asignar exactamente esa cantidad.<br>• Si lo dejas desactivado, podrás seguir usando + y MAX como hasta ahora.<br><br>Si tu app sigue en la Ver. 4.1, actualízala a la última versión desde la tienda para usarla.<br>¡Gracias por seguir apoyando CocoMico Quest!<br><br>El equipo de desarrollo de CocoMico Quest",
+      "fr": "Merci de jouer à CocoMico Quest !<br>La fonction annoncée, attribuer des AP en saisissant un nombre, est disponible dans la version 4.2.<br><br><b>Vous pouvez désormais attribuer des AP en saisissant un nombre</b><br>• Activez « Saisir un nombre » sur l’écran des stats.<br>• Saisissez la quantité voulue, puis appuyez sur + d’une stat pour attribuer exactement cette quantité.<br>• S’il reste désactivé, vous pouvez continuer à utiliser + et MAX comme avant.<br><br>Si votre appli est encore en version 4.1, mettez-la à jour depuis le store pour en profiter.<br>Merci de votre soutien continu à CocoMico Quest !<br><br>L’équipe de développement de CocoMico Quest",
+      "pt": "Obrigado por jogar CocoMico Quest!<br>A função que anunciamos, distribuir AP digitando um número, já está disponível na Ver. 4.2.<br><br><b>Agora você pode distribuir AP digitando um número</b><br>• Ligue “Digitar número” na tela de atributos.<br>• Digite a quantidade desejada e toque em + em um atributo para distribuir exatamente essa quantidade.<br>• Com ele desligado, você continua usando + e MAX como antes.<br><br>Se o seu app ainda estiver na Ver. 4.1, atualize para a versão mais recente pela loja para usar.<br>Obrigado por continuar apoiando CocoMico Quest!<br><br>Equipe de desenvolvimento de CocoMico Quest",
+      "it": "Grazie per giocare a CocoMico Quest!<br>La funzione annunciata, assegnare gli AP inserendo un numero, è ora disponibile nella Ver. 4.2.<br><br><b>Ora puoi assegnare gli AP inserendo un numero</b><br>• Attiva “Inserisci numero” nella schermata delle statistiche.<br>• Inserisci la quantità desiderata e premi + su una statistica per assegnare esattamente quella quantità.<br>• Se resta disattivato, puoi continuare a usare + e MAX come prima.<br><br>Se la tua app è ancora alla Ver. 4.1, aggiornala all’ultima versione dallo store per usarla.<br>Grazie per continuare a sostenere CocoMico Quest!<br><br>Il team di sviluppo di CocoMico Quest",
+      "tr": "CocoMico Quest’i oynadığınız için teşekkür ederiz!<br>Daha önce duyurduğumuz AP’yi sayı girerek dağıtma özelliği Ver4.2 ile kullanıma sunuldu.<br><br><b>Artık AP’yi sayı girerek dağıtabilirsiniz</b><br>• Stat ekranında “Sayı gir” seçeneğini açın.<br>• İstediğiniz miktarı girin ve bir statın + düğmesine basın; tam o kadar dağıtılır.<br>• Kapalı bırakırsanız eskisi gibi + ve MAX ile dağıtabilirsiniz.<br><br>Uygulamanız hâlâ Ver4.1 ise, kullanmak için mağazadan en son sürüme güncelleyin.<br>CocoMico Quest’e desteğiniz için teşekkürler!<br><br>CocoMico Quest Geliştirme Ekibi",
+      "ru": "Спасибо, что играете в CocoMico Quest!<br>Объявленная ранее возможность распределять AP, вводя число, появилась в версии 4.2.<br><br><b>Теперь AP можно распределять, вводя число</b><br>• Включите «Ввод числа» на экране характеристик.<br>• Введите нужное количество и нажмите + у характеристики — будет распределено ровно столько.<br>• Если переключатель выключен, можно, как и раньше, пользоваться + и MAX.<br><br>Если у вас ещё версия 4.1, обновите приложение в магазине до последней версии.<br>Спасибо, что продолжаете поддерживать CocoMico Quest!<br><br>Команда разработки CocoMico Quest",
+      "uk": "Дякуємо, що граєте в CocoMico Quest!<br>Оголошена раніше можливість розподіляти AP, вводячи число, з’явилася у версії 4.2.<br><br><b>Тепер AP можна розподіляти, вводячи число</b><br>• Увімкніть «Введення числа» на екрані характеристик.<br>• Введіть потрібну кількість і натисніть + біля характеристики — буде розподілено саме стільки.<br>• Якщо перемикач вимкнено, можна, як і раніше, користуватися + і MAX.<br><br>Якщо у вас ще версія 4.1, оновіть застосунок у магазині до останньої версії.<br>Дякуємо, що й надалі підтримуєте CocoMico Quest!<br><br>Команда розробки CocoMico Quest",
+      "vi": "Cảm ơn bạn đã luôn chơi CocoMico Quest!<br>Tính năng nhập số để phân bổ AP mà chúng tôi đã thông báo trước đây nay đã có trong Ver4.2.<br><br><b>Giờ bạn có thể nhập số để phân bổ AP</b><br>• Bật “Nhập số” ở màn hình chỉ số.<br>• Nhập số lượng muốn phân bổ rồi nhấn + ở chỉ số, AP sẽ được phân bổ đúng số đó.<br>• Nếu để tắt, bạn vẫn có thể dùng + và MAX như trước.<br><br>Nếu ứng dụng của bạn vẫn là Ver4.1, hãy cập nhật lên phiên bản mới nhất từ cửa hàng để sử dụng.<br>Cảm ơn bạn đã tiếp tục ủng hộ CocoMico Quest!<br><br>Đội ngũ phát triển CocoMico Quest",
+      "id": "Terima kasih telah bermain CocoMico Quest!<br>Fitur yang kami umumkan sebelumnya, membagikan AP dengan memasukkan angka, kini tersedia di Ver4.2.<br><br><b>Kini AP bisa dibagikan dengan memasukkan angka</b><br>• Nyalakan “Masukkan angka” di layar status.<br>• Masukkan jumlah yang diinginkan, lalu tekan + pada status untuk membagikan tepat sebanyak itu.<br>• Jika dibiarkan mati, kamu tetap bisa memakai + dan MAX seperti sebelumnya.<br><br>Jika aplikasimu masih Ver4.1, perbarui ke versi terbaru dari toko untuk menggunakannya.<br>Terima kasih atas dukunganmu untuk CocoMico Quest!<br><br>Tim Pengembang CocoMico Quest",
+      "th": "ขอบคุณที่เล่น CocoMico Quest เสมอมา<br>ฟีเจอร์แจก AP ด้วยการป้อนตัวเลขที่เราแจ้งไว้ก่อนหน้านี้ เปิดให้ใช้แล้วใน Ver4.2<br><br><b>ตอนนี้แจก AP ได้ด้วยการป้อนตัวเลขแล้ว</b><br>• เปิด “ป้อนตัวเลข” ที่หน้าค่าสถานะ<br>• ป้อนจำนวนที่ต้องการ แล้วกด + ของค่าสถานะ ระบบจะแจกตามจำนวนนั้นพอดี<br>• หากปิดไว้ ก็ยังใช้ + และ MAX ได้เหมือนเดิม<br><br>หากแอปของคุณยังเป็น Ver4.1 โปรดอัปเดตเป็นเวอร์ชันล่าสุดจากสโตร์เพื่อใช้งาน<br>ขอบคุณที่สนับสนุน CocoMico Quest ต่อไป<br><br>ทีมพัฒนา CocoMico Quest",
+      "pl": "Dziękujemy, że grasz w CocoMico Quest!<br>Zapowiadana funkcja rozdzielania AP przez wpisanie liczby jest już dostępna w wersji 4.2.<br><br><b>Teraz możesz rozdzielać AP, wpisując liczbę</b><br>• Włącz „Wpisz liczbę” na ekranie statystyk.<br>• Wpisz żądaną ilość i naciśnij + przy statystyce, aby rozdzielić dokładnie tyle.<br>• Gdy przełącznik jest wyłączony, możesz jak dotąd używać + i MAX.<br><br>Jeśli Twoja aplikacja to nadal wersja 4.1, zaktualizuj ją w sklepie do najnowszej wersji.<br>Dziękujemy za dalsze wspieranie CocoMico Quest!<br><br>Zespół twórców CocoMico Quest",
+      "nl": "Bedankt voor het spelen van CocoMico Quest!<br>De aangekondigde functie om AP te verdelen door een getal in te voeren, is nu beschikbaar in Ver. 4.2.<br><br><b>Je kunt nu AP verdelen door een getal in te voeren</b><br>• Zet “Getal invoeren” aan op het statsscherm.<br>• Voer het gewenste aantal in en tik op + bij een stat om precies dat aantal te verdelen.<br>• Staat hij uit, dan gebruik je + en MAX zoals voorheen.<br><br>Heb je nog Ver. 4.1, werk de app dan bij naar de nieuwste versie via de store.<br>Bedankt voor je blijvende steun aan CocoMico Quest!<br><br>Het ontwikkelteam van CocoMico Quest",
+      "sv": "Tack för att du spelar CocoMico Quest!<br>Funktionen vi aviserade, att fördela AP genom att ange ett antal, finns nu i ver. 4.2.<br><br><b>Nu kan du fördela AP genom att ange ett antal</b><br>• Slå på ”Ange antal” på egenskapsskärmen.<br>• Ange önskat antal och tryck på + vid en egenskap för att fördela exakt så mycket.<br>• Är den avstängd kan du som tidigare använda + och MAX.<br><br>Om din app fortfarande är ver. 4.1, uppdatera den till den senaste versionen i butiken.<br>Tack för att du fortsätter stödja CocoMico Quest!<br><br>CocoMico Quest-utvecklingsteamet"
+    }
+  },
+  {
     "id": "ver41_thanks",
     "existingOnly": "4.1.0",
     "until": "2027-06-30",
@@ -224,55 +346,6 @@
     "body": {
       "ja": "タイトル画面に戻る件で、解析データの記録をお送りいただき、誠にありがとうございました。<br>おかげさまで、原因の場所を絞り込むことが出来ました。<br>ささやかですが、お礼の品をお送りいたします。<br>今後とも CocoMico Quest をよろしくお願いいたします。",
       "en": "Thank you so much for sending us the analytics log about the game returning to the title screen.<br>It helped us narrow down the cause.<br>Please accept this small gift as our thanks."
-    }
-  },
-  {
-    "id": "ap_number_notice_1110",
-    "pop": true,
-    "until": "2026-11-30",
-    "title": {
-      "ja": "能力値の AP を数字で振れるようになります（次のアップデート）",
-      "en": "You Will Be Able to Assign AP by Number (Next Update)",
-      "zh": "下次更新后可以输入数字分配 AP",
-      "zhTW": "下次更新後可以輸入數字分配 AP",
-      "ko": "다음 업데이트에서 AP를 숫자로 분배할 수 있게 됩니다",
-      "de": "AP bald per Zahl verteilen (nächstes Update)",
-      "hi": "अगले अपडेट में AP को संख्या डालकर बाँट सकेंगे",
-      "es": "Podrás asignar AP introduciendo un número (próxima actualización)",
-      "fr": "Bientôt : attribuer des AP en saisissant un nombre (prochaine mise à jour)",
-      "pt": "Em breve: distribuir AP digitando um número (próxima atualização)",
-      "it": "Presto potrai assegnare gli AP inserendo un numero (prossimo aggiornamento)",
-      "tr": "Bir sonraki güncellemede AP’yi sayı girerek dağıtabileceksiniz",
-      "ru": "В следующем обновлении AP можно будет распределять, вводя число",
-      "uk": "У наступному оновленні AP можна буде розподіляти, вводячи число",
-      "vi": "Bản cập nhật tới: có thể nhập số để phân bổ AP",
-      "id": "Pembaruan berikutnya: AP bisa dibagikan dengan memasukkan angka",
-      "th": "อัปเดตครั้งถัดไป: แจก AP ได้ด้วยการป้อนตัวเลข",
-      "pl": "W następnej aktualizacji AP rozdzielisz, wpisując liczbę",
-      "nl": "In de volgende update kun je AP verdelen door een getal in te voeren",
-      "sv": "I nästa uppdatering kan du fördela AP genom att ange ett antal"
-    },
-    "body": {
-      "ja": "いつもCocoMico Questを遊んで頂き、誠にありがとうございます。<br>能力値に AP を振る時に、数字を入れて振りたいというお声を多く頂いております。<br><br><b>次のアップデートで、AP を数字で振れるようになります</b><br>・能力値の画面に「数値入力」のオン／オフが加わります。<br>・オンにして振りたい数を入れ、能力値の＋を押すと、その数だけ振れます。<br>・オフのままなら、今までどおり＋と MAX で振れます。<br><br>公開の時期が決まりましたら、改めてお知らせいたします。<br>今後ともCocoMico Questをよろしくお願い申し上げます。<br><br>CocoMico Quest開発チーム",
-      "en": "Thank you for playing CocoMico Quest!<br>We have received many requests to be able to enter a number when assigning AP to stats.<br><br><b>In the next update, you will be able to assign AP by number</b><br>• An on/off switch for “Enter number” will be added to the stats screen.<br>• Turn it on, enter the amount you want, then press + on a stat to assign exactly that amount.<br>• With it off, you can keep using + and MAX as before.<br><br>We will let you know once the release date is decided.<br>Thank you for your continued support of CocoMico Quest!<br><br>The CocoMico Quest Development Team",
-      "zh": "感谢您一直以来游玩《CocoMico Quest》。<br>我们收到了很多希望在分配能力值 AP 时能输入数字的意见。<br><br><b>下次更新后，可以输入数字来分配 AP</b><br>・能力值画面将新增「数值输入」的开关。<br>・打开后输入想分配的数量，再按能力值的＋，就会分配该数量。<br>・保持关闭时，可以像以前一样使用＋和 MAX 分配。<br><br>确定推出时间后，我们会再另行通知。<br>今后也请多多支持《CocoMico Quest》。<br><br>CocoMico Quest 开发团队",
-      "zhTW": "感謝您一直以來遊玩《CocoMico Quest》。<br>我們收到了許多希望在分配能力值 AP 時能輸入數字的意見。<br><br><b>下次更新後，可以輸入數字來分配 AP</b><br>・能力值畫面將新增「數值輸入」的開關。<br>・開啟後輸入想分配的數量，再按能力值的＋，就會分配該數量。<br>・保持關閉時，可以像以前一樣使用＋和 MAX 分配。<br><br>確定推出時間後，我們會再另行通知。<br>今後也請多多指教《CocoMico Quest》。<br><br>CocoMico Quest 開發團隊",
-      "ko": "항상 CocoMico Quest를 플레이해 주셔서 진심으로 감사드립니다.<br>능력치에 AP를 분배할 때 숫자를 입력해서 분배하고 싶다는 의견을 많이 받았습니다.<br><br><b>다음 업데이트에서 AP를 숫자로 분배할 수 있게 됩니다</b><br>• 능력치 화면에 ‘숫자 입력’ 켜기/끄기가 추가됩니다.<br>• 켜고 원하는 수를 입력한 뒤 능력치의 +를 누르면 그 수만큼 분배됩니다.<br>• 끈 상태라면 지금처럼 +와 MAX로 분배할 수 있습니다.<br><br>공개 시기가 정해지면 다시 알려 드리겠습니다.<br>앞으로도 CocoMico Quest를 잘 부탁드립니다.<br><br>CocoMico Quest 개발팀",
-      "de": "Vielen Dank, dass du CocoMico Quest spielst!<br>Viele von euch wünschen sich, beim Verteilen von AP auf die Werte eine Zahl eingeben zu können.<br><br><b>Mit dem nächsten Update kannst du AP per Zahl verteilen</b><br>• Im Werte-Bildschirm kommt ein Ein/Aus-Schalter für „Zahl eingeben“ hinzu.<br>• Schalte ihn ein, gib die gewünschte Menge ein und tippe beim Wert auf +, um genau diese Menge zu verteilen.<br>• Bleibt er aus, verteilst du wie bisher mit + und MAX.<br><br>Sobald der Termin feststeht, geben wir ihn bekannt.<br>Vielen Dank für deine weitere Unterstützung von CocoMico Quest!<br><br>Das CocoMico Quest Entwicklungsteam",
-      "hi": "CocoMico Quest खेलने के लिए दिल से धन्यवाद!<br>स्टैट्स में AP बाँटते समय संख्या डालकर बाँटने की बहुत सी माँगें हमें मिली हैं।<br><br><b>अगले अपडेट में आप AP को संख्या डालकर बाँट सकेंगे</b><br>• स्टैट्स स्क्रीन पर “संख्या डालें” का चालू/बंद स्विच जुड़ेगा।<br>• इसे चालू करें, जितना बाँटना है वह संख्या डालें, फिर स्टैट का + दबाएँ — उतने ही AP बँट जाएँगे।<br>• बंद रखने पर आप पहले की तरह + और MAX से बाँट सकते हैं।<br><br>रिलीज़ की तारीख तय होते ही हम फिर से बताएँगे।<br>CocoMico Quest का साथ देते रहने के लिए धन्यवाद!<br><br>CocoMico Quest डेवलपमेंट टीम",
-      "es": "¡Gracias por jugar a CocoMico Quest!<br>Hemos recibido muchas peticiones para poder introducir un número al asignar AP a los atributos.<br><br><b>En la próxima actualización podrás asignar AP introduciendo un número</b><br>• En la pantalla de atributos se añadirá un interruptor de “Introducir número”.<br>• Actívalo, escribe la cantidad que quieras y pulsa + en un atributo para asignar exactamente esa cantidad.<br>• Si lo dejas desactivado, podrás seguir usando + y MAX como hasta ahora.<br><br>Te avisaremos cuando se decida la fecha de lanzamiento.<br>¡Gracias por seguir apoyando CocoMico Quest!<br><br>El equipo de desarrollo de CocoMico Quest",
-      "fr": "Merci de jouer à CocoMico Quest !<br>Vous êtes nombreux à souhaiter pouvoir saisir un nombre lorsque vous attribuez des AP aux stats.<br><br><b>Avec la prochaine mise à jour, vous pourrez attribuer des AP en saisissant un nombre</b><br>• Un interrupteur « Saisir un nombre » sera ajouté à l’écran des stats.<br>• Activez-le, saisissez la quantité voulue, puis appuyez sur + d’une stat pour attribuer exactement cette quantité.<br>• S’il reste désactivé, vous pourrez continuer à utiliser + et MAX comme avant.<br><br>Nous vous préviendrons dès que la date de sortie sera fixée.<br>Merci de votre soutien continu à CocoMico Quest !<br><br>L’équipe de développement de CocoMico Quest",
-      "pt": "Obrigado por jogar CocoMico Quest!<br>Recebemos muitos pedidos para poder digitar um número ao distribuir AP nos atributos.<br><br><b>Na próxima atualização, você poderá distribuir AP digitando um número</b><br>• Um botão de ligar/desligar “Digitar número” será adicionado à tela de atributos.<br>• Ligue-o, digite a quantidade desejada e toque em + em um atributo para distribuir exatamente essa quantidade.<br>• Com ele desligado, você continua usando + e MAX como antes.<br><br>Avisaremos assim que a data de lançamento for definida.<br>Obrigado por continuar apoiando CocoMico Quest!<br><br>Equipe de desenvolvimento de CocoMico Quest",
-      "it": "Grazie per giocare a CocoMico Quest!<br>Abbiamo ricevuto molte richieste per poter inserire un numero quando si assegnano gli AP alle statistiche.<br><br><b>Con il prossimo aggiornamento potrai assegnare gli AP inserendo un numero</b><br>• Nella schermata delle statistiche verrà aggiunto un interruttore “Inserisci numero”.<br>• Attivalo, inserisci la quantità desiderata e premi + su una statistica per assegnare esattamente quella quantità.<br>• Se resta disattivato, potrai continuare a usare + e MAX come prima.<br><br>Ti avviseremo non appena sarà decisa la data di uscita.<br>Grazie per continuare a sostenere CocoMico Quest!<br><br>Il team di sviluppo di CocoMico Quest",
-      "tr": "CocoMico Quest’i oynadığınız için teşekkür ederiz!<br>Statlara AP dağıtırken sayı girebilmek için pek çok istek aldık.<br><br><b>Bir sonraki güncellemede AP’yi sayı girerek dağıtabileceksiniz</b><br>• Stat ekranına “Sayı gir” için açma/kapama düğmesi eklenecek.<br>• Açın, istediğiniz miktarı girin ve bir statın + düğmesine basın; tam o kadar dağıtılır.<br>• Kapalı bırakırsanız eskisi gibi + ve MAX ile dağıtabilirsiniz.<br><br>Yayın tarihi belli olunca tekrar duyuracağız.<br>CocoMico Quest’e desteğiniz için teşekkürler!<br><br>CocoMico Quest Geliştirme Ekibi",
-      "ru": "Спасибо, что играете в CocoMico Quest!<br>Мы получили много просьб о возможности вводить число при распределении AP по характеристикам.<br><br><b>В следующем обновлении AP можно будет распределять, вводя число</b><br>• На экране характеристик появится переключатель «Ввод числа».<br>• Включите его, введите нужное количество и нажмите + у характеристики — будет распределено ровно столько.<br>• Если он выключен, можно, как и раньше, пользоваться + и MAX.<br><br>Когда дата выхода будет определена, мы сообщим дополнительно.<br>Спасибо, что продолжаете поддерживать CocoMico Quest!<br><br>Команда разработки CocoMico Quest",
-      "uk": "Дякуємо, що граєте в CocoMico Quest!<br>Ми отримали багато прохань про можливість вводити число під час розподілу AP за характеристиками.<br><br><b>У наступному оновленні AP можна буде розподіляти, вводячи число</b><br>• На екрані характеристик з’явиться перемикач «Введення числа».<br>• Увімкніть його, введіть потрібну кількість і натисніть + біля характеристики — буде розподілено саме стільки.<br>• Якщо його вимкнено, можна, як і раніше, користуватися + і MAX.<br><br>Коли дату виходу буде визначено, ми повідомимо додатково.<br>Дякуємо, що й надалі підтримуєте CocoMico Quest!<br><br>Команда розробки CocoMico Quest",
-      "vi": "Cảm ơn bạn đã luôn chơi CocoMico Quest!<br>Chúng tôi đã nhận được nhiều ý kiến mong muốn có thể nhập số khi phân bổ AP vào chỉ số.<br><br><b>Trong bản cập nhật tới, bạn có thể nhập số để phân bổ AP</b><br>• Màn hình chỉ số sẽ có thêm công tắc bật/tắt “Nhập số”.<br>• Hãy bật lên, nhập số lượng muốn phân bổ rồi nhấn + ở chỉ số, AP sẽ được phân bổ đúng số đó.<br>• Nếu để tắt, bạn vẫn có thể dùng + và MAX như trước.<br><br>Khi thời gian phát hành được quyết định, chúng tôi sẽ thông báo lại.<br>Cảm ơn bạn đã tiếp tục ủng hộ CocoMico Quest!<br><br>Đội ngũ phát triển CocoMico Quest",
-      "id": "Terima kasih telah bermain CocoMico Quest!<br>Kami menerima banyak permintaan agar bisa memasukkan angka saat membagikan AP ke status.<br><br><b>Di pembaruan berikutnya, AP bisa dibagikan dengan memasukkan angka</b><br>• Layar status akan mendapat tombol nyala/mati “Masukkan angka”.<br>• Nyalakan, masukkan jumlah yang diinginkan, lalu tekan + pada status untuk membagikan tepat sebanyak itu.<br>• Jika dibiarkan mati, kamu tetap bisa memakai + dan MAX seperti sebelumnya.<br><br>Kami akan mengabarkan lagi setelah tanggal rilisnya ditentukan.<br>Terima kasih atas dukunganmu untuk CocoMico Quest!<br><br>Tim Pengembang CocoMico Quest",
-      "th": "ขอบคุณที่เล่น CocoMico Quest เสมอมา<br>เราได้รับความคิดเห็นจำนวนมากว่าอยากป้อนตัวเลขได้เมื่อแจก AP ให้ค่าสถานะ<br><br><b>ในอัปเดตครั้งถัดไป จะแจก AP ได้ด้วยการป้อนตัวเลข</b><br>• หน้าค่าสถานะจะมีสวิตช์เปิด/ปิด “ป้อนตัวเลข” เพิ่มเข้ามา<br>• เปิดสวิตช์ ป้อนจำนวนที่ต้องการ แล้วกด + ของค่าสถานะ ระบบจะแจกตามจำนวนนั้นพอดี<br>• หากปิดไว้ ก็ยังใช้ + และ MAX ได้เหมือนเดิม<br><br>เมื่อกำหนดวันเปิดตัวได้แล้ว เราจะแจ้งให้ทราบอีกครั้ง<br>ขอบคุณที่สนับสนุน CocoMico Quest ต่อไป<br><br>ทีมพัฒนา CocoMico Quest",
-      "pl": "Dziękujemy, że grasz w CocoMico Quest!<br>Otrzymaliśmy wiele próśb o możliwość wpisania liczby przy rozdzielaniu AP na statystyki.<br><br><b>W następnej aktualizacji AP rozdzielisz, wpisując liczbę</b><br>• Na ekranie statystyk pojawi się przełącznik „Wpisz liczbę”.<br>• Włącz go, wpisz żądaną ilość i naciśnij + przy statystyce, aby rozdzielić dokładnie tyle.<br>• Gdy jest wyłączony, możesz jak dotąd używać + i MAX.<br><br>Gdy data premiery zostanie ustalona, damy znać.<br>Dziękujemy za dalsze wspieranie CocoMico Quest!<br><br>Zespół twórców CocoMico Quest",
-      "nl": "Bedankt voor het spelen van CocoMico Quest!<br>We kregen veel verzoeken om een getal te kunnen invoeren bij het verdelen van AP over je stats.<br><br><b>In de volgende update kun je AP verdelen door een getal in te voeren</b><br>• Op het statsscherm komt een aan/uit-schakelaar voor “Getal invoeren”.<br>• Zet hem aan, voer het gewenste aantal in en tik op + bij een stat om precies dat aantal te verdelen.<br>• Staat hij uit, dan gebruik je + en MAX zoals voorheen.<br><br>Zodra de releasedatum vaststaat, laten we het weten.<br>Bedankt voor je blijvende steun aan CocoMico Quest!<br><br>Het ontwikkelteam van CocoMico Quest",
-      "sv": "Tack för att du spelar CocoMico Quest!<br>Vi har fått många önskemål om att kunna ange ett antal när man fördelar AP på egenskaperna.<br><br><b>I nästa uppdatering kan du fördela AP genom att ange ett antal</b><br>• På egenskapsskärmen läggs en på/av-knapp för ”Ange antal” till.<br>• Slå på den, ange önskat antal och tryck på + vid en egenskap för att fördela exakt så mycket.<br>• Är den avstängd kan du som tidigare använda + och MAX.<br><br>Vi meddelar när släppdatumet är bestämt.<br>Tack för att du fortsätter stödja CocoMico Quest!<br><br>CocoMico Quest-utvecklingsteamet"
     }
   },
   {
