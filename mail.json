@@ -1,5 +1,27 @@
 [
  {
+  "id": "pass_day_aaj7kltn_1124",
+  "to": [
+   "AAJ7KLTN"
+  ],
+  "minSt": 99999999,
+  "until": "2027-01-31",
+  "rw": {
+   "gtk": 100,
+   "tk": 6
+  },
+  "title": {
+   "ja": "30日パスの毎日の報酬のお届けとお詫び",
+   "en": "Your 30-Day Pass Daily Reward and Our Apology",
+   "zhTW": "30日通行證每日獎勵的補發與致歉"
+  },
+  "body": {
+   "ja": "この度はお問い合わせ頂き、誠にありがとうございます。<br><br>11月23日に、30日パスの毎日の報酬が受け取れない状態になっておりました。<br>ご不便をお掛けし、誠に申し訳ございません。<br><br>その日の分の宝石ガチャ券と鍵を、お詫びを兼ねて2日分お届け致します。<br><br>今後ともCocoMico Questをよろしくお願い申し上げます。<br><br>CocoMico Quest開発チーム",
+   "en": "Thank you for contacting us.<br><br>On November 23, the daily reward of your 30-Day Pass could not be claimed.<br>We sincerely apologize for the inconvenience.<br><br>We are sending the Gem Gacha Tickets and Keys for that day, doubled as an apology.<br><br>Thank you for playing CocoMico Quest.<br><br>The CocoMico Quest Team",
+   "zhTW": "非常感謝您的來信。<br><br>11月23日，30日通行證的每日獎勵處於無法領取的狀態。<br>造成您的不便，我們深感抱歉。<br><br>現補發當日的寶石轉蛋券與鑰匙，並加倍作為致歉。<br><br>今後也請繼續支持CocoMico Quest。<br><br>CocoMico Quest開發團隊"
+  }
+ },
+ {
   "id": "d7pack5_sorry_emx_1116",
   "to": [
    "EMXAPV4N"
