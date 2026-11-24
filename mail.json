@@ -1,5 +1,26 @@
 [
  {
+  "id": "lb_week_sorry_aaj7kltn_1124",
+  "to": [
+   "AAJ7KLTN"
+  ],
+  "minSt": 99999999,
+  "until": "2027-01-31",
+  "rw": {
+   "gem": 5000
+  },
+  "title": {
+   "ja": "週間ランキングの数え方についてのお詫び",
+   "en": "Our Apology Regarding Your Weekly Ranking",
+   "zhTW": "關於每週排行榜計算的致歉"
+  },
+  "body": {
+   "ja": "この度は何度もお問い合わせ頂き、誠にありがとうございます。<br><br>週間ランキングの伸びの数え方に誤りがあり、St1〜St28の分が今週の記録に入っておりませんでした。<br>また、先のご案内でも誤った説明をしてしまい、誠に申し訳ございません。<br><br>今週の記録はSt1から数えるよう直しました。<br>お詫びの印として、ジェムをお届け致します。<br><br>今後ともCocoMico Questをよろしくお願い申し上げます。<br><br>CocoMico Quest開発チーム",
+   "en": "Thank you for contacting us several times.<br><br>Due to an error in how weekly ranking progress was counted, Stages 1 to 28 were not included in your record for this week.<br>We also gave you an incorrect explanation in our earlier reply, and we sincerely apologize.<br><br>Your record for this week now counts from Stage 1.<br>Please accept these Gems as a token of our apology.<br><br>Thank you for playing CocoMico Quest.<br><br>The CocoMico Quest Team",
+   "zhTW": "感謝您多次來信。<br><br>由於每週排行榜提升的計算方式有誤，St1〜St28 的部分沒有算進您本週的紀錄。<br>另外，先前的回覆中我們也做了錯誤的說明，在此深感抱歉。<br><br>您本週的紀錄已修正為從 St1 開始計算。<br>謹送上寶石作為致歉的心意。<br><br>今後也請繼續支持CocoMico Quest。<br><br>CocoMico Quest開發團隊"
+  }
+ },
+ {
   "id": "pass_day_aaj7kltn_1124",
   "to": [
    "AAJ7KLTN"
